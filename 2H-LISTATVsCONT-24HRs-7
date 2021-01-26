@@ -71,3 +71,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ThT5YFB/cat-desenhos.png" group-title="",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] MENINAS SUPER PODEROSAS 24HRs[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] MENINAS SUPER PODEROSAS 24HRs[/B][/COLOR];url=http://pdsrv.io:80/wallas/wallas123/34865
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ThT5YFB/cat-desenhos.png" group-title="",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] JONNY QUEST 24HRs[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] JONNY QUEST 24HRs[/B][/COLOR];url=http://fonteangelusiptv.com:25461/andressa123/andressa123/179169
