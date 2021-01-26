@@ -67,7 +67,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] BOB ESPONJA 24HRs[/B][/COLOR];url=http://pdsrv.io:80/wallas/wallas123/34867
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ThT5YFB/cat-desenhos.png" group-title="",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] ANIMANIACS 24HRs[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] ANIMANIACS 24HRs[/B][/COLOR];url=http://pdsrv.io:80/wallas/wallas123/60731As
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] ANIMANIACS 24HRs[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204802.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ThT5YFB/cat-desenhos.png" group-title="",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] MENINAS SUPER PODEROSAS 24HRs[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] MENINAS SUPER PODEROSAS 24HRs[/B][/COLOR];url=http://pdsrv.io:80/wallas/wallas123/34865
