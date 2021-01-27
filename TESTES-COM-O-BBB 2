@@ -1,11 +1,38 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="NOMEDOCANAL" tvg-logo="LOGODOCANAL" group-title="CATEGORIA",BBB CAMARA 1
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] BBB CAMARA 1[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://br4.2tv.me:80/silvio01/silvio01/23701
-
-
-#EXTINF:-1 tvg-id="" tvg-name="NOMEDOCANAL" tvg-logo="LOGODOCANAL" group-title="CATEGORIA",BBB MOSAICO
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] BBB MOSAICO[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://br4.2tv.me:80/silvio01/silvio01/25405
-
-#EXTINF:-1 tvg-id="" tvg-name="NOMEDOCANAL" tvg-logo="LOGODOCANAL" group-title="CATEGORIA",BBB APOIO 1
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] BBB APOIO 1[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://br4.2tv.me:80/silvio01/silvio01/23703
+#EXTINF:-1 tvg-id="" tvg-name="BBB 1 FHD" tvg-logo="https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB 1 FHD
+http://graniptv.com:8080/giulia/1234/316451
+#EXTINF:-1 tvg-id="" tvg-name="BBB 1 HD" tvg-logo="https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB 1 HD
+http://graniptv.com:8080/giulia/1234/316452
+#EXTINF:-1 tvg-id="" tvg-name="BBB 1 SD" tvg-logo="https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB 1 SD
+http://graniptv.com:8080/giulia/1234/316453
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2 FHD" tvg-logo="https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB 2 FHD
+http://graniptv.com:8080/giulia/1234/316454
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2 HD" tvg-logo="https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB 2 HD
+http://graniptv.com:8080/giulia/1234/316455
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2 SD" tvg-logo="https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB 2 SD
+http://graniptv.com:8080/giulia/1234/316456
+#EXTINF:-1 tvg-id="" tvg-name="BBB 3 FHD" tvg-logo="https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB 3 FHD
+http://graniptv.com:8080/giulia/1234/316457
+#EXTINF:-1 tvg-id="" tvg-name="BBB 3 HD" tvg-logo="https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB 3 HD
+http://graniptv.com:8080/giulia/1234/316458
+#EXTINF:-1 tvg-id="" tvg-name="BBB 3 SD" tvg-logo="https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB 3 SD
+http://graniptv.com:8080/giulia/1234/316459
+#EXTINF:-1 tvg-id="" tvg-name="BBB MOSAICO" tvg-logo="https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB MOSAICO
+http://graniptv.com:8080/giulia/1234/317565
+#EXTINF:-1 tvg-id="" tvg-name="BBB21 CONFESSIONARIO" tvg-logo="https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB21 CONFESSIONARIO
+http://graniptv.com:8080/giulia/1234/317566
+#EXTINF:-1 tvg-id="" tvg-name="BBB21 ACADEMIA" tvg-logo="https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB21 ACADEMIA
+http://graniptv.com:8080/giulia/1234/317567
+#EXTINF:-1 tvg-id="" tvg-name="BBB21 JARDIM" tvg-logo="https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB21 JARDIM
+http://graniptv.com:8080/giulia/1234/317568
+#EXTINF:-1 tvg-id="" tvg-name="BBB21 PISCINA" tvg-logo="https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB21 PISCINA
+http://graniptv.com:8080/giulia/1234/317569
+#EXTINF:-1 tvg-id="" tvg-name="BBB21 COZINHA VIP" tvg-logo="https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB21 COZINHA VIP
+http://graniptv.com:8080/giulia/1234/317570
+#EXTINF:-1 tvg-id="" tvg-name="BBB21 SALA DE ESTAR" tvg-logo="https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB21 SALA DE ESTAR
+http://graniptv.com:8080/giulia/1234/317571
+#EXTINF:-1 tvg-id="" tvg-name="BBB21 QUARTO COLORIDO" tvg-logo="https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB21 QUARTO COLORIDO
+http://graniptv.com:8080/giulia/1234/317572
+#EXTINF:-1 tvg-id="" tvg-name="BBB21 QUARTO CORDEL" tvg-logo="https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB21 QUARTO CORDEL
+http://graniptv.com:8080/giulia/1234/317573
