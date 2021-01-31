@@ -1,50 +1,43 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="NOMEDOCANAL" tvg-logo="LOGODOCANAL" group-title="CATEGORIA",BBB CAMARA 1
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] BBB CAMARA 1[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://nimotv.live:8080/zoroastro/123456/102878
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo="ICONE-LS" group-title="Canais: BBB",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB Sala de Estar SD[/B][/COLOR] 
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/93521.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="NOMEDOCANAL" tvg-logo="LOGODOCANAL" group-title="CATEGORIA",BBB CAMARA 2
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] BBB CAMARA 2[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://nimotv.live:8080/zoroastro/123456/102880
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo="ICONE-LS" group-title="Canais: BBB",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB Sala da Casa Extra SD[/B][/COLOR] 
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/93518.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="NOMEDOCANAL" tvg-logo="LOGODOCANAL" group-title="CATEGORIA",BBB CAMARA 3
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] BBB CAMARA 3[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://nimotv.live:8080/zoroastro/123456/102881
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo="ICONE-LS" group-title="Canais: BBB",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB Quarto Cordel SD[/B][/COLOR] 
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/93515.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="NOMEDOCANAL" tvg-logo="LOGODOCANAL" group-title="CATEGORIA",BBB CAMARA 4
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] BBB CAMARA 4[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://nimotv.live:8080/zoroastro/123456/102882
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo="ICONE-LS" group-title="Canais: BBB",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB Quarto Colorido SD[/B][/COLOR] 
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/93512.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="NOMEDOCANAL" tvg-logo="LOGODOCANAL" group-title="CATEGORIA",BBB CAMARA 5
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] BBB CAMARA 5[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://nimotv.live:8080/zoroastro/123456/102883
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo="ICONE-LS" group-title="Canais: BBB",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB Piscina SD [/B][/COLOR] 
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/93509.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="NOMEDOCANAL" tvg-logo="LOGODOCANAL" group-title="CATEGORIA",BBB CAMARA 6
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] BBB CAMARA 6[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://nimotv.live:8080/zoroastro/123456/102884
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo="ICONE-LS" group-title="Canais: BBB",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB Mosaico SD [/B][/COLOR] 
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/89715.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="NOMEDOCANAL" tvg-logo="LOGODOCANAL" group-title="CATEGORIA",BBB CAMARA 7
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] BBB CAMARA 7[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://nimotv.live:8080/zoroastro/123456/102885
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo="ICONE-LS" group-title="Canais: BBB",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB Jardim SD[/B][/COLOR] 
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/93506.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="NOMEDOCANAL" tvg-logo="LOGODOCANAL" group-title="CATEGORIA",BBB CAMARA 8
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] BBB CAMARA 8[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://nimotv.live:8080/zoroastro/123456/102886
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo="ICONE-LS" group-title="Canais: BBB",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB Cozinha Vip Xepa SD[/B][/COLOR] 
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/93503.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="NOMEDOCANAL" tvg-logo="LOGODOCANAL" group-title="CATEGORIA",BBB CAMARA 9
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] BBB CAMARA 9[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://nimotv.live:8080/zoroastro/123456/102887
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo="ICONE-LS" group-title="Canais: BBB",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB Confessionario HD[/B][/COLOR] 
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/93500.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="NOMEDOCANAL" tvg-logo="LOGODOCANAL" group-title="CATEGORIA",BBB CAMARA 10
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] BBB CAMARA 10[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://nimotv.live:8080/zoroastro/123456/102888
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo="ICONE-LS" group-title="Canais: BBB",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB Acompanhe a Casa SD[/B][/COLOR] 
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/93497.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="NOMEDOCANAL" tvg-logo="LOGODOCANAL" group-title="CATEGORIA",BBB CAMARA 11
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] BBB CAMARA 11[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://nimotv.live:8080/zoroastro/123456/102889
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo="ICONE-LS" group-title="Canais: BBB",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB Acompanhe a Casa Extra SD[/B][/COLOR] 
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/93494.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="NOMEDOCANAL" tvg-logo="LOGODOCANAL" group-title="CATEGORIA",BBB MOSAICO
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] BBB MOSAICO[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://nimotv.live:8080/zoroastro/123456/102879
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo="ICONE-LS" group-title="Canais: BBB",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB Acompanhe a Casa 2 SD [/B][/COLOR] 
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/93491.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="NOMEDOCANAL" tvg-logo="LOGODOCANAL" group-title="CATEGORIA",BBB APOIO 1
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] BBB APOIO 1[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://nimotv.live:8080/zoroastro/123456/102876
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo="ICONE-LS" group-title="Canais: BBB",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB 2 SD[/B][/COLOR] 
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/89711.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="NOMEDOCANAL" tvg-logo="LOGODOCANAL" group-title="CATEGORIA",BBB APOIO 2
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] BBB APOIO 2[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://nimotv.live:8080/zoroastro/123456/102875
-
-#EXTINF:-1 tvg-id="" tvg-name="NOMEDOCANAL" tvg-logo="LOGODOCANAL" group-title="CATEGORIA",BBB APOIO 3
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] BBB APOIO 3[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://nimotv.live:8080/zoroastro/123456/102874
-
-#EXTINF:-1 tvg-id="" tvg-name="NOMEDOCANAL" tvg-logo="LOGODOCANAL" group-title="CATEGORIA",BBB APOIO 4
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] BBB APOIO 4[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://nimotv.live:8080/zoroastro/123456/102877
-
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo="ICONE-LS" group-title="Canais: BBB",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB 1 SD[/B][/COLOR] 
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/89719.ts
