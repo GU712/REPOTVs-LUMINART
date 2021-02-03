@@ -435,6 +435,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS
 #EXTINF:-1 tvg-id="" tvg-name=" Manda Chuva" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Manda Chuva[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Manda Chuva[/B][/COLOR];url=http://tv.factoryiptv.com:80/jurema10/jurema10/41894
 
+
 #EXTINF:-1 tvg-id="" tvg-name=" Ligeirinho" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Ligeirinho[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Ligeirinho[/B][/COLOR];url=http://tv.factoryiptv.com:80/jurema10/jurema10/41893
 
