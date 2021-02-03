@@ -1,61 +1,63 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name=" 3 Palavrinhas" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Manda Chuva[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Manda Chuva[/B][/COLOR];url=http://tv.factoryiptv.com:80/jurema10/jurema10/41894
-
-#EXTINF:-1 tvg-id="" tvg-name=" 3 Palavrinhas" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Ligeirinho[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Ligeirinho[/B][/COLOR];url=http://tv.factoryiptv.com:80/jurema10/jurema10/41893
-
 #EXTINF:-1 tvg-id="" tvg-name=" 3 Palavrinhas" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs 3 Palavrinhas[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs 3 Palavrinhas[/B][/COLOR];url=http://sv1.myiptv4k.top:8080/natan/102030/27088
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs 3 Palavrinhas[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/47459.ts
 
 #EXTINF:-1 tvg-id="" tvg-name=" A Cobrinha Azul" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Cobrinha Azul[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Cobrinha Azul[/B][/COLOR];url=http://sv1.myiptv4k.top:8080/natan/102030/27089
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Cobrinha Azul[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/47462.ts
 
 #EXTINF:-1 tvg-id="" tvg-name=" A Familia Dracula" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Familia Dracula[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Familia Dracula[/B][/COLOR];url=http://sv1.myiptv4k.top:8080/natan/102030/27090
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Familia Dracula[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/47464.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="A Mumia" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Mumia[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Mumia[/B][/COLOR];url=http://sv1.myiptv4k.top:8080/natan/102030/27091
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Mumia[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/47467.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="A Pantera Cor de Rosa" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Pantera Cor de Rosa[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Pantera Cor de Rosa[/B][/COLOR];url=http://sv1.myiptv4k.top:8080/natan/102030/27092
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Pantera Cor de Rosa[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/47470.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="A Turma da Monica" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Turma da Monica[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Turma da Monica[/B][/COLOR];url=http://sv1.myiptv4k.top:8080/natan/102030/27093
+
+
+#EXTINF:-1 tvg-id="" tvg-name="A Turma da Monica" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR red][B]24HRs A Turma da Monica[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Turma da Monica[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755690.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name=" A Turma do Pateta" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Turma do Pateta[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Turma do Pateta[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717105.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs A Turma do Pateta[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/47473.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Acampamento Lakebottom" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Acampamento Lakebottom[/B][/COLOR] 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Acampamento Lakebottom" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR red][B]24HRs Acampamento Lakebottom[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Acampamento Lakebottom[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717106.m3u8
 
+
+
 #EXTINF:-1 tvg-id="" tvg-name=" Aladdin Desenho Animado" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Aladdin Desenho Animado[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Aladdin Desenho Animado[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717107.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Aladdin Desenho Animado[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/47480.ts
 
 #EXTINF:-1 tvg-id="" tvg-name=" As Aventuras de Jackie Chan" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs As Aventuras de Jackie Chan[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs As Aventuras de Jackie Chan[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717108.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs As Aventuras de Jackie Chan[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/47483.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Piggley Winks" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs As Aventuras de Piggley Winks[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs As Aventuras de Piggley Winks[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717109.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs As Aventuras de Piggley Winks[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/47484.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Tintim" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs As Aventuras de Tintim[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs As Aventuras de Tintim[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717110.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs As Aventuras de Tintim[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/47485.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Baby Shark" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Baby Shark[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Baby Shark[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755686.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baby Looney Tunes" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Baby Looney Tunes[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Baby Looney Tunes[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/47493.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Ben 10" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Ben 10[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Ben 10[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Batfino" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Batfino[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Batfino[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/47502.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Ben e Holly" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Ben e Holly[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Ben e Holly[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755695.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bibo Pai e Bobi Filho" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Bibo Pai e Bobi Filho[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Bibo Pai e Bobi Filho[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/47513.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Big Mouth" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Big Mouth[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Big Mouth[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715097.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bicudo" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Bicudo[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Bicudo[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/47514.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Bob Esponja[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Bob Esponja[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Backyardigans" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Backyardigans[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Backyardigans[/B][/COLOR];url=http://dnsx.co:80/live/amanda.iptv/a1aw5s/47494.ts
 
 #EXTINF:-1 tvg-id="" tvg-name=")Deby e Loid" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Deby e Loid[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Deby e Loid[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755675.m3u8
@@ -97,7 +99,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Galinha Pintadinha[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715106.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="He Man Desenho" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs He Man Desenho[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs He Man Desenho[/B][/COLOR];url=http://tv.factoryiptv.com:80/jurema10/jurema10/53051
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs He Man Desenho[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755699.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Pernalonga" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Pernalonga[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Pernalonga[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755681.m3u8
@@ -432,6 +434,14 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS
 #EXTINF:-1 tvg-id="" tvg-name="Verdades Secretas" tvg-logo="" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Verdades Secretas[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Verdades Secretas[/B][/COLOR];url=http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204852.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name=" Pepe Legal" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Pepe Legal[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Pepe Legal[/B][/COLOR];url=http://tv.factoryiptv.com:80/jurema10/jurema10/41897
+
+#EXTINF:-1 tvg-id="" tvg-name=" Manda Chuva" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Manda Chuva[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Manda Chuva[/B][/COLOR];url=http://tv.factoryiptv.com:80/jurema10/jurema10/41894
+
+#EXTINF:-1 tvg-id="" tvg-name=" Ligeirinho" tvg-logo="ICONE-LS" group-title="Canais: 24H",[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Ligeirinho[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]24HRs Ligeirinho[/B][/COLOR];url=http://tv.factoryiptv.com:80/jurema10/jurema10/41893
 
 
 
