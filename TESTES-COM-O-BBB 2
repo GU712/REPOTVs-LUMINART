@@ -1,38 +1,43 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 1 FHD" tvg-logo="https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB 1 FHD LS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=http://graniptv.com:8080/giulia/1234/316451
-#EXTINF:-1 tvg-id="" tvg-name="BBB 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=http://graniptv.com:8080/giulia/1234/316452
-#EXTINF:-1 tvg-id="" tvg-name="BBB 1 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=http://graniptv.com:8080/giulia/1234/316453
-#EXTINF:-1 tvg-id="" tvg-name="BBB 2 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=http://graniptv.com:8080/giulia/1234/316454
-#EXTINF:-1 tvg-id="" tvg-name="BBB 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=http://graniptv.com:8080/giulia/1234/316455
-#EXTINF:-1 tvg-id="" tvg-name="BBB 2 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=http://graniptv.com:8080/giulia/1234/316456
-#EXTINF:-1 tvg-id="" tvg-name="BBB 3 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=http://graniptv.com:8080/giulia/1234/316457
-#EXTINF:-1 tvg-id="" tvg-name="BBB 3 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=http://graniptv.com:8080/giulia/1234/316458
-#EXTINF:-1 tvg-id="" tvg-name="BBB 3 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=http://graniptv.com:8080/giulia/1234/316459
-#EXTINF:-1 tvg-id="" tvg-name="BBB MOSAICO" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB MOSAICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=http://graniptv.com:8080/giulia/1234/317565
-#EXTINF:-1 tvg-id="" tvg-name="BBB21 CONFESSIONARIO" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB21 CONFESSIONARIO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=http://graniptv.com:8080/giulia/1234/317566
-#EXTINF:-1 tvg-id="" tvg-name="BBB21 ACADEMIA" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB21 ACADEMIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=http://graniptv.com:8080/giulia/1234/317567
-#EXTINF:-1 tvg-id="" tvg-name="BBB21 JARDIM" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB21 JARDIM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=http://graniptv.com:8080/giulia/1234/317568
-#EXTINF:-1 tvg-id="" tvg-name="BBB21 PISCINA" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB21 PISCINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=http://graniptv.com:8080/giulia/1234/317569
-#EXTINF:-1 tvg-id="" tvg-name="BBB21 COZINHA VIP" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB21 COZINHA VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=http://graniptv.com:8080/giulia/1234/317570
-#EXTINF:-1 tvg-id="" tvg-name="BBB21 SALA DE ESTAR" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB21 SALA DE ESTAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=http://graniptv.com:8080/giulia/1234/317571
-#EXTINF:-1 tvg-id="" tvg-name="BBB21 QUARTO COLORIDO" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB21 QUARTO COLORIDO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=http://graniptv.com:8080/giulia/1234/317572
-#EXTINF:-1 tvg-id="" tvg-name="BBB21 QUARTO CORDEL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=https://istoe.com.br/wp-content/uploads/sites/14/2021/01/bbb-1.jpg" group-title="Pay Per View",BBB21 QUARTO CORDEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B]BBB[/B][/COLOR];url=http://graniptv.com:8080/giulia/1234/317573
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] B.B.B.[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/89719
+
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] B.B.B.[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/89711
+
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Acompanhe a Casa 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] B.B.B.[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/93491
+
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Acompanhe a Casa Extra SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] B.B.B.[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/93494
+
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Acompanhe a Casa SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] B.B.B.[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/93497
+
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Confessionario SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] B.B.B.[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/93500
+
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Cozinha Vip Xepa SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] B.B.B.[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/93503
+
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Jardim SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] B.B.B.[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/93506
+
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Mosaico SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] B.B.B.[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/89715
+
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Piscina SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] B.B.B.[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/93509
+
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Quarto Colorido SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] B.B.B.[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/93512
+
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Quarto Cordel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] B.B.B.[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/93515
+
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Sala da Casa Extra SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] B.B.B.[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/93518
+
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Sala de Estar SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] B.B.B.[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/93521
