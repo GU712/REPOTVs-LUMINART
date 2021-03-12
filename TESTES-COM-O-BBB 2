@@ -1,43 +1,26 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] B.B.B.[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/89719
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] B.B.B.[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/89711
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Acompanhe a Casa 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] B.B.B.[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/93491
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Acompanhe a Casa Extra SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] B.B.B.[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/93494
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Acompanhe a Casa SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] B.B.B.[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/93497
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Confessionario SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] B.B.B.[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/93500
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Cozinha Vip Xepa SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] B.B.B.[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/93503
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Jardim SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] B.B.B.[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/93506
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Mosaico SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] B.B.B.[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/89715
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Piscina SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] B.B.B.[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/93509
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Quarto Colorido SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] B.B.B.[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/93512
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Quarto Cordel SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] B.B.B.[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/93515
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Sala da Casa Extra SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] B.B.B.[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/93518
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="●BBB●", BBB Sala de Estar SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR white][B]LS -> [/B][/COLOR][COLOR lime][B] B.B.B.[/B][/COLOR];url=http://dnsx.co:80/7885037935/fireurl.co/93521
+#EXTINF:-1 tvg-id="Big Brother Brasil" tvg-name="BBB 21 PRINCIPAL HD" tvg-logo="http://logos.servidor.tv/bbb.png" group-title="Canais: Big Brother Brasil",BBB 21 PRINCIPAL HD
+http://canaishd.servidor.tv:8080/michel12/12michel/53469
+#EXTINF:-1 tvg-id="Big Brother Brasil" tvg-name="BBB 21 CAM 01 HD" tvg-logo="http://logos.servidor.tv/bbb.png" group-title="Canais: Big Brother Brasil",BBB 21 CAM 01 HD
+http://canaishd.servidor.tv:8080/michel12/12michel/54483
+#EXTINF:-1 tvg-id="Big Brother Brasil" tvg-name="BBB 21 CAM 02 HD" tvg-logo="http://logos.servidor.tv/bbb.png" group-title="Canais: Big Brother Brasil",BBB 21 CAM 02 HD
+http://canaishd.servidor.tv:8080/michel12/12michel/54484
+#EXTINF:-1 tvg-id="Big Brother Brasil" tvg-name="BBB 21 CAM 03 HD" tvg-logo="http://logos.servidor.tv/bbb.png" group-title="Canais: Big Brother Brasil",BBB 21 CAM 03 HD
+http://canaishd.servidor.tv:8080/michel12/12michel/54485
+#EXTINF:-1 tvg-id="Big Brother Brasil" tvg-name="BBB 21 CAM 04 HD" tvg-logo="http://logos.servidor.tv/bbb.png" group-title="Canais: Big Brother Brasil",BBB 21 CAM 04 HD
+http://canaishd.servidor.tv:8080/michel12/12michel/54486
+#EXTINF:-1 tvg-id="Big Brother Brasil" tvg-name="BBB 21 CAM 05 HD" tvg-logo="http://logos.servidor.tv/bbb.png" group-title="Canais: Big Brother Brasil",BBB 21 CAM 05 HD
+http://canaishd.servidor.tv:8080/michel12/12michel/54487
+#EXTINF:-1 tvg-id="Big Brother Brasil" tvg-name="BBB 21 CAM 06 HD" tvg-logo="http://logos.servidor.tv/bbb.png" group-title="Canais: Big Brother Brasil",BBB 21 CAM 06 HD
+http://canaishd.servidor.tv:8080/michel12/12michel/54488
+#EXTINF:-1 tvg-id="Big Brother Brasil" tvg-name="BBB 21 CAM 07 HD" tvg-logo="http://logos.servidor.tv/bbb.png" group-title="Canais: Big Brother Brasil",BBB 21 CAM 07 HD
+http://canaishd.servidor.tv:8080/michel12/12michel/54489
+#EXTINF:-1 tvg-id="Big Brother Brasil" tvg-name="BBB 21 CAM 08 HD" tvg-logo="http://logos.servidor.tv/bbb.png" group-title="Canais: Big Brother Brasil",BBB 21 CAM 08 HD
+http://canaishd.servidor.tv:8080/michel12/12michel/54490
+#EXTINF:-1 tvg-id="Big Brother Brasil" tvg-name="BBB 21 CAM 09 HD" tvg-logo="http://logos.servidor.tv/bbb.png" group-title="Canais: Big Brother Brasil",BBB 21 CAM 09 HD
+http://canaishd.servidor.tv:8080/michel12/12michel/54491
+#EXTINF:-1 tvg-id="Big Brother Brasil" tvg-name="BBB 21 CAM 10 HD" tvg-logo="http://logos.servidor.tv/bbb.png" group-title="Canais: Big Brother Brasil",BBB 21 CAM 10 HD
+http://canaishd.servidor.tv:8080/michel12/12michel/54492
+#EXTINF:-1 tvg-id="Big Brother Brasil" tvg-name="BBB 21 CAM 11 HD" tvg-logo="http://logos.servidor.tv/bbb.png" group-title="Canais: Big Brother Brasil",BBB 21 CAM 11 HD
+http://canaishd.servidor.tv:8080/michel12/12michel/54493
