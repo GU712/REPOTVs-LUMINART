@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="ICONE" ,[B][COLOR orange]ESCOLHA UM ITEM ABAIXO[/COLOR]
+LINKDOFILME
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR white][B]LS -> [COLOR white]ANIMAL PLANET FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://snxt.online:80/fabricio2021/fabricio2021/207110
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR white][B]LS -> [COLOR white]ANIMAL PLANET HD[/B][/COLOR]
