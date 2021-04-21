@@ -1011,5 +1011,5 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://snxt.online:80/fabricio2021/fabricio2021/222403
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR white][B]LS -> [COLOR white]CINE PIPOCA 04
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://snxt.online:80/fabricio2021/fabricio2021/222404
-#EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR white][B]LS -> [COLOR white]CINE PIPOCA 05
+#EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR white][B]LS -> [COLOR white] CINE PIPOCA 05
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://snxt.online:80/fabricio2021/fabricio2021/222405
