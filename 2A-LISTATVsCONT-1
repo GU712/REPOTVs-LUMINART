@@ -1,1015 +1,1015 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]ANIMAL PLANET FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207110
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207110
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]ANIMAL PLANET HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207111
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207111
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]ANIMAL PLANET SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207112
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207112
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DISCOVERY CHANNEL FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207113
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207113
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DISCOVERY CHANNEL HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207114
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207114
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DISCOVERY CHANNEL SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207115
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207115
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DISCOVERY HOME & HEALTH FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207116
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207116
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DISCOVERY HOME & HEALTH HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207117
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207117
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DISCOVERY HOME & HEALTH SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207118
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207118
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DISCOVERY SCIENCE FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207119
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207119
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DISCOVERY SCIENCE HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207120
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207120
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DISCOVERY SCIENCE SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207121
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207121
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DISCOVERY THEATER FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207122
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207122
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DISCOVERY THEATER HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207123
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207123
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DISCOVERY THEATER SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207124
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207124
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DISCOVERY TLC FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207125
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207125
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DISCOVERY TLC HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207126
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207126
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DISCOVERY TLC SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207127
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207127
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DISCOVERY TURBO FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207128
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207128
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DISCOVERY TURBO HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207129
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207129
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DISCOVERY TURBO SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207130
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207130
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DISCOVERY WORLD FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207131
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207131
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DISCOVERY WORLD HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207132
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207132
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DISCOVERY WORLD SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207133
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207133
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]FISH TV FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207134
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207134
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]FISH TV HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207135
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207135
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]FISH TV SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207136
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207136
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]H2 FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207137
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207137
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]H2 HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207138
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207138
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]H2 SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207139
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207139
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]HISTORY CHANNEL FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207140
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207140
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]HISTORY CHANNEL HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207141
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207141
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]HISTORY CHANNEL SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207142
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207142
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]ID - INVESTIGAÇÃO DISCOVERY FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207143
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207143
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]ID - INVESTIGAÇÃO DISCOVERY HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207144
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207144
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]ID - INVESTIGAÇÃO DISCOVERY SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207145
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207145
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]NATGEO WILD FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207146
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207146
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]NATGEO WILD HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207147
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207147
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]NATGEO WILD SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207148
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207148
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]NATIONAL GEOGRAPHIC FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207149
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207149
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]NATIONAL GEOGRAPHIC HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207150
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207150
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]NATIONAL GEOGRAPHIC SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207151
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207151
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO SP FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207152
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207152
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO SP HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207153
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207153
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO SP SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207154
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207154
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO RJ FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207155
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207155
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO RJ HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207156
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207156
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO RJ SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207157
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207157
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO RPC CASCAVEL HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207158
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207158
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]EPTV SAO CARLOS
-http://snxt.online:80/fabricio2021/fabricio2021/207159
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207159
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO AMAZONAS SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207160
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207160
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO AMAZONAS HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207161
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207161
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO AMAZONICA
-http://snxt.online:80/fabricio2021/fabricio2021/207162
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207162
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO ANHANGUERA GOIANIA HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207163
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207163
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO ASA BRANCA
-http://snxt.online:80/fabricio2021/fabricio2021/207164
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207164
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO BAHIA SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207165
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207165
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO BAHIA HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207166
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207166
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO BAURU HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207167
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207167
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO BAURU SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207168
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207168
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO BELEM HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207169
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207169
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO BELEM SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207170
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207170
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO BRASILIA FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207171
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207171
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO BRASILIA HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207172
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207172
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO BRASILIA SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207173
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207173
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO INTER TV CABUGI SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207174
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207174
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO CENTRO AMERICA SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207175
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207175
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO CUIABA SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207176
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207176
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO EPTV CAMPINAS HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207177
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207177
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO EPTV CAMPINAS SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207178
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207178
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO FLORIANOPOLIS HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207179
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207179
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]Globo Floripa HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207180
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207180
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO GOIANIA
-http://snxt.online:80/fabricio2021/fabricio2021/207181
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207181
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO INTERNACIONAL SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207182
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207182
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO MANAUS
-http://snxt.online:80/fabricio2021/fabricio2021/207183
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207183
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO MINAS FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207184
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207184
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO MINAS HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207185
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207185
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO MINAS SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207186
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207186
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO NACIONAL
-http://snxt.online:80/fabricio2021/fabricio2021/207187
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207187
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO NORDESTE FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207188
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207188
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO NORDESTE HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207189
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207189
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO NORDESTE SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207190
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207190
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO NSC FLORIANOPOLIS
-http://snxt.online:80/fabricio2021/fabricio2021/207191
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207191
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO PETROLINA
-http://snxt.online:80/fabricio2021/fabricio2021/207192
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207192
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO RBS HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207193
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207193
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO RBS SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207194
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207194
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO RBS PORTO ALEGRE SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207195
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207195
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO RECIFE
-http://snxt.online:80/fabricio2021/fabricio2021/207196
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207196
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO RIBEIRAO PRETO HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207197
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207197
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO RIBEIRAO PRETO SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207198
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207198
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO RIO GRANDE DO NORTE SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207199
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207199
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO RIO SUL
-http://snxt.online:80/fabricio2021/fabricio2021/207200
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207200
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO RPC MARINGA SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207201
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207201
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO RPC CURITIBA SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207202
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207202
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO RPC CURITIBA HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207203
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207203
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO SJ DO RIO PRETO SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207204
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207204
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]Globo Sergipe HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207205
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207205
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO SOROCABA SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207206
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207206
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO SOROCABA HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207207
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207207
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO TRIBUNA SANTOS HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207208
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207208
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO TV MIRANTE MA
-http://snxt.online:80/fabricio2021/fabricio2021/207209
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207209
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO TV VANGUARDA SJ DOS CAMPOS SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207210
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207210
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO VERDES MARES
-http://snxt.online:80/fabricio2021/fabricio2021/207211
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207211
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO VERDES MARES FORTALEZA FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207212
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207212
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO VERDES MARES FORTALEZA SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207213
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207213
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO VERDES MARES HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207214
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207214
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO VITORIA HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207215
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207215
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO VITORIA SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207216
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207216
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]MAIS GLOBOSAT FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207217
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207217
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]MAIS GLOBOSAT HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207218
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207218
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBOTV TRIBUNA SANTOS SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207219
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207219
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TV CABO BRANCO GLOBO HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207220
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207220
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TV DIARIO FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207221
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207221
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TV DIARIO HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207222
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207222
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TV TEM SOROCABA HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207223
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207223
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TV SERGIPE HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207224
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207224
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]INTER TV GRANDE MINAS HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207226
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207226
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TV ASA BRANCA HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207227
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207227
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]INTER TV ALTO LITORAL HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207228
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207228
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TV RIO SUL HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207229
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207229
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]INTER TV SERRA MAR SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207230
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207230
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RPC PONTA GROSSA HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207231
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207231
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]INTER TV CABUGI HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207232
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207232
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RPC FOZ DO IGUACU HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207233
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207233
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RBS TV CAXIAS DO SUL HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207234
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207234
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RPC PARANAVAI SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207235
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207235
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]INTER TV DOS VALES HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207236
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207236
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TV GLOBO BH HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207237
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207237
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]NSC TV BLUMENAU HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207238
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207238
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]NSC TV JOINVILLE HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207239
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207239
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]NSC TV CHAPECO HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207241
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207241
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO SUL DE MINAS FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207242
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207242
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RBS TV SANTA MARIA HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207243
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207243
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RBS TV PELOTAS HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207244
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207244
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]NSC TV CRICIUMA HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207245
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207245
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TV INTEGRACAO ARAXA HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207246
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207246
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO BAHIA FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207247
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207247
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]MAIS GLOBOSAT SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207248
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207248
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TV CABO BRANCO GLOBO SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207249
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207249
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO RPC PARANA HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207250
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207250
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO CENTRO AMERICA HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207251
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207251
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO EPTV ARARAQUARA SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207252
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207252
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO REDE AMAZÔNICA PORTO VELHO HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207253
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207253
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO REDE AMAZOÔNICA PORTO VELHO SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207254
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207254
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO REDE AMAZÔNICA RIO BRANCO HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207255
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207255
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO REDE AMAZÔNIA RIO BRANCO SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207256
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207256
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO TV ANHANGUERA LUZIÂNIA HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207257
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207257
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO TV ANHANGUERA RIO VERDE HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207258
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207258
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO TV FRONTEIRA PAULISTA HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207259
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207259
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO TV FRONTEIRA PAULISTA SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207260
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207260
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO TC INTEGRAÇÃO UBERABA HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207262
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207262
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO TV ITAPETINIMGA SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207263
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207263
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO TV LIBERAL BELÉM HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207264
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO TV MORENA SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207265
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO TV NACIONAL HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207266
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207266
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO TV VANGUARDA TAUBATÉ HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207267
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207267
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]MAIS GLOBOSAT SD[/B][/COLOR] 
-http://snxt.online:80/fabricio2021/fabricio2021/207268
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207268
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO RPC TV FOZ DO IGUAÇU HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207269
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207269
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO RPC TV PONTA GROSSA SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207270
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207270
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO TV CLUBE TERESINA HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207271
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207271
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO TV CLUBE TERESINA SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207272
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207272
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO TV INTEGRAÇÂO JUIZ DE FORA SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207273
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207273
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO RBS SANTA MARIA HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207274
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207274
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RECORD SP FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207278
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207278
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RECORD SP HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207279
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207279
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RECORD SP SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207280
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207280
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RECORD CAMPINAS HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207281
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207281
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RECORD CAMPINAS SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207282
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207282
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RECORD SANTOS SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207283
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207283
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RECORD RJ FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207284
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207284
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RECORD RS HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207285
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207285
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RECORD RJ HD[/B][/COLOR]²
-http://snxt.online:80/fabricio2021/fabricio2021/207286
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207286
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RECORD RJ SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207287
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207287
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RECORD ESP. SANTO SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207288
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207288
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RECORD VITORIA SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207289
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207289
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RECORD MINAS HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207290
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207290
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RECORD MINAS SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207291
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207291
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RECORD BRASILIA HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207292
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207292
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RECORD DF SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207293
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207293
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RECORD GOIAS HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207294
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207294
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RECORD GOIAS SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207295
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207295
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RECORD NORDESTE HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207296
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207296
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RECORD BAHIA HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207297
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207297
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RECORD ITAPOAN HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207298
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207298
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RECORD RECIFE FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207299
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207299
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RECORD PARÁ
-http://snxt.online:80/fabricio2021/fabricio2021/207300
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207300
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RECORD AMAZONAS SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207301
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207301
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RECORD RS SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207302
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207302
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TELECINE ACTION FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207303
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207303
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TELECINE ACTION HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207304
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207304
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TELECINE ACTION SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207305
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207305
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TELECINE CULT FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207306
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207306
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TELECINE CULT HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207307
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207307
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TELECINE CULT SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207308
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207308
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TELECINE FUN FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207309
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207309
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TELECINE FUN HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207310
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207310
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TELECINE FUN SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207311
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207311
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TELECINE PIPOCA FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207312
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207312
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TELECINE PIPOCA HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207313
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207313
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TELECINE PIPOCA SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207314
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TELECINE PREMIUM FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207315
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207315
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TELECINE PREMIUM HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207316
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207316
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TELECINE PREMIUM SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207317
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207317
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TELECINE TOUCH FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207318
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207318
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TELECINE TOUCH HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207319
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207319
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TELECINE TOUCH SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207320
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207320
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]SPORTV FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207321
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207321
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]SPORTV HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207322
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207322
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]SPORTV SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207323
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207323
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]SPORTV 2 FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207324
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207324
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]SPORTV 2 HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207325
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207325
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]SPORTV 2 SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207326
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207326
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]SPORTV 3 FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207327
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207327
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]SPORTV 3 HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207328
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207328
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]SPORTV 3 SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207329
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207329
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]COMBATE FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207330
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207330
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]COMBATE HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207331
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207331
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]COMBATE SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207332
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207332
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]FOX SPORTS FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207333
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207333
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]FOX SPORTS HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207334
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207334
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]FOX SPORTS SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207335
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207335
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]FOX SPORT 2 FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207336
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207336
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]FOX SPORTS 2 HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207337
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207337
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]FOX SPORTS 2 SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207338
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207338
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BAND SPORTS FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207339
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207339
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BAND SPORTS HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207340
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207340
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BAND SPORTS SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207341
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207341
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]ESPN FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207342
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207342
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]ESPN HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207343
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207343
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]ESPN SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207344
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207344
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]ESPN BRASIL FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207345
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207345
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]ESPN BRASIL HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207346
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207346
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]ESPN BRASIL SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207347
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207347
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]ESPN EXTRA FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207348
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207348
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]ESPN EXTRA HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207349
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207349
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]ESPN EXTRA SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207350
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207350
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]ESPN 2 FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207351
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207351
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]ESPN 2 HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207352
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207352
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]ESPN 2 SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207353
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207353
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DAZN 1
-http://snxt.online:80/fabricio2021/fabricio2021/207354
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207354
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DAZN 2
-http://snxt.online:80/fabricio2021/fabricio2021/207355
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207355
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DAZN 3 HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207356
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207356
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DAZN BR
-http://snxt.online:80/fabricio2021/fabricio2021/207357
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207357
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TNT SPORTS BRASIL 1 HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207358
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207358
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]EI PLUS 2 HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207359
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207359
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]EI PLUS 3 HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207360
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207360
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]EI PLUS 4 HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207361
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207361
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]EI PLUS 5 HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207362
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207362
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]EI PLUS 6 HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207363
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207363
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]SPORTV NBA
-http://snxt.online:80/fabricio2021/fabricio2021/207364
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207364
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]NBA HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207365
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207365
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]NBA TV LEAGUE
-http://snxt.online:80/fabricio2021/fabricio2021/207366
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207366
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CAMPEONATO CATARINENSE 1 HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207367
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207367
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CAMPEONATO CATARINENSE 2 HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207368
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207368
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CAMPEONATO CATARINENSE 3 HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207369
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207369
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CAMPEONATO CATARINENSE 4 HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207370
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207370
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CAMPEONATO CARIOCA 1 HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207371
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207371
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CAMPEONATO CARIOCA 2 HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207372
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207372
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]COPA DO NORDESTE 2020 JOGO-1
-http://snxt.online:80/fabricio2021/fabricio2021/207373
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207373
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]COPA DO NORDESTE 2020 JOGO-2
-http://snxt.online:80/fabricio2021/fabricio2021/207374
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207374
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]COPA DO NORDESTE 2020 JOGO-3
-http://snxt.online:80/fabricio2021/fabricio2021/207375
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207375
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]COPA DO NORDESTE 2020 JOGO-4
-http://snxt.online:80/fabricio2021/fabricio2021/207376
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207376
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BAND SP FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207377
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207377
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BAND SP HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207378
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207378
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BAND SP SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207379
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207379
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BAND CAMPINAS HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207380
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207380
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BAND CAMPINAS SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207381
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207381
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]Band RJ HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207382
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207382
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BAND RJ SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207383
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207383
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BAND NORDESTE HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207384
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207384
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BAND NORDESTE SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207385
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207385
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TV CARUARU
-http://snxt.online:80/fabricio2021/fabricio2021/207386
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207386
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BAND RBATV PA
-http://snxt.online:80/fabricio2021/fabricio2021/207387
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207387
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]SBT FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207388
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207388
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]SBT HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207389
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207389
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]SBT INTERIOR SP
-http://snxt.online:80/fabricio2021/fabricio2021/207390
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207390
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]SBT RJ FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207391
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207391
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]SBT RECIFE FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207392
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207392
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]SBT CIDADE VERDE PIAUI
-http://snxt.online:80/fabricio2021/fabricio2021/207393
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207393
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]SBT MANAUS
-http://snxt.online:80/fabricio2021/fabricio2021/207394
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207394
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]REDE TV HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207396
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207396
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RedeTV SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207397
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207397
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]FUTURA FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207399
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207399
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]FUTURA HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207400
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207400
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CULTURA SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207401
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207401
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]REDE BRASIL SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207402
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207402
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TV BRASIL FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207403
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207403
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TV BRASIL HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207404
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207404
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TV BRASIL SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207405
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207405
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CANAL BRASIL FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207406
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207406
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CANAL BRASIL HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207407
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207407
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CANAL DO BOI
-http://snxt.online:80/fabricio2021/fabricio2021/207408
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207408
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TV CAMARA
-http://snxt.online:80/fabricio2021/fabricio2021/207409
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207409
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TV CAMARA
-http://snxt.online:80/fabricio2021/fabricio2021/207410
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207410
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TV JUSTICA
-http://snxt.online:80/fabricio2021/fabricio2021/207411
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207411
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TV SENADO
-http://snxt.online:80/fabricio2021/fabricio2021/207412
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207412
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TV ESCOLA HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207413
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207413
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BBB 21 -CAM01
-http://snxt.online:80/fabricio2021/fabricio2021/207414
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207414
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BBB 21 - CAM02
-http://snxt.online:80/fabricio2021/fabricio2021/207415
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207415
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BBB 21 - CAM03
-http://snxt.online:80/fabricio2021/fabricio2021/207416
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207416
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BBB 2021 (CAMERA PRINCIPAL)
-http://snxt.online:80/fabricio2021/fabricio2021/207417
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207417
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BBB 2021 (MOSAICO)
-http://snxt.online:80/fabricio2021/fabricio2021/207418
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207418
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BBB 2021 (CONFESSIONARIO)
-http://snxt.online:80/fabricio2021/fabricio2021/207419
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207419
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BBB 2021 (QUARTO CORDEL)
-http://snxt.online:80/fabricio2021/fabricio2021/207420
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207420
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BBB 2021 (QUARTO COLORIDO)
-http://snxt.online:80/fabricio2021/fabricio2021/207421
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207421
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BBB 2021 (COZINHA XEPA)
-http://snxt.online:80/fabricio2021/fabricio2021/207422
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207422
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BBB 2021 (SALA DE ESTAR)
-http://snxt.online:80/fabricio2021/fabricio2021/207423
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207423
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BBB 2021 (PISCINA)
-http://snxt.online:80/fabricio2021/fabricio2021/207424
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207424
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BBB 2021 ( JARDIM)
-http://snxt.online:80/fabricio2021/fabricio2021/207425
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207425
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BBB 2021 (CAMERA 9)
-http://snxt.online:80/fabricio2021/fabricio2021/207426
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207426
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BBB 2021 (CAMERA 10)
-http://snxt.online:80/fabricio2021/fabricio2021/207427
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207427
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BBB 2021 (CAMERA 11)
-http://snxt.online:80/fabricio2021/fabricio2021/207428
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207428
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BBB 21 (ACOMPANHE A CASA)
-http://snxt.online:80/fabricio2021/fabricio2021/207429
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207429
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BBB 21 (ACOMPANHE A CASA EXTRA)
-http://snxt.online:80/fabricio2021/fabricio2021/207430
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207430
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BAND NEWS FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207431
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207431
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BAND NEWS HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207432
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207432
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BAND NEWS SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207433
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207433
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CNN BRASIL FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207434
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207434
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CNN BRASIL HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207435
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207435
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CNN BRASIL SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207436
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207436
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RECORD NEWS FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207437
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207437
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RECORD NEWS HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207438
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207438
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RECORD NEWS SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207439
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207439
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]NHK WORLD HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207440
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207440
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]NHK WORD SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207441
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207441
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO NEWS FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207442
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207442
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO NEWS HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207443
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207443
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO NEWS SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207444
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207444
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]HBO HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207471
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207471
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]HBO SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207472
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207472
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]HBO 2 HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207474
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207474
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]HBO 2 SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207475
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207475
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]HBO PLUS HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207477
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207477
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]HBO PLUS SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207478
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207478
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]HBO XTREME HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207480
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207480
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]HBO XTREME SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207481
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207481
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]HBO POP HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207483
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207483
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]HBO POP SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207484
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207484
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]HBO FAMILY HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207486
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207486
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]HBO FAMILY SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207487
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207487
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]HBO MUNDI HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207489
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207489
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]HBO MUNDI SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207490
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207490
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]HBO SIGNATURE HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207492
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207492
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]HBO SIGNATURE SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207493
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207493
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]A&E HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207495
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207495
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]A&E SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207496
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207496
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]AMC HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207498
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207498
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]AMC SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207499
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207499
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]AXN HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207501
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207501
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]AXN SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207502
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207502
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CINEMAX HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207504
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207504
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CINEMAX SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207505
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207505
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]FOX HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207507
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207507
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]FOX SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207508
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207508
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]FOX LIFE HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207511
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207511
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]FOX LIFE SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207512
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207512
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]FOX PREMIUM 1 HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207514
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207514
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]FOX PREMIUM 1 SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207515
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207515
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]FOX PREMIUM 2 HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207517
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207517
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]FOX PREMIUM 2 SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207518
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207518
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]FX HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207520
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207520
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]FX SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207521
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207521
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]LIFETIME HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207523
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207523
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]LIFETIME SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207524
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207524
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]MEGAPIX HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207526
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207526
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]MEGAPIX SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207527
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207527
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]PARAMOUNT CHANNEL HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207529
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207529
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]PARAMOUNT CHANNEL SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207530
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207530
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]SONY HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207532
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207532
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]SONY SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207533
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207533
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]SPACE HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207535
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207535
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]SPACE SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207536
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207536
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]STUDIO UNIVERSAL HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207538
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207538
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]STUDIO UNIVERSAL SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207539
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207539
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]SYFY HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207541
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207541
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]SYFY SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207542
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207542
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TBS SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207543
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207543
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TCM HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207545
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207545
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TCM SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207546
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207546
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TNT HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207548
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207548
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TNT SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207549
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207549
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TNT SERIES HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207551
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207551
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TNT SERIES SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207552
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207552
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]UNIVERSAL CHANNEL HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207554
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207554
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]UNIVERSAL CHANNEL SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207555
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207555
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]WARNER CHANNEL HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207557
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207557
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]WARNER CHANNEL SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207558
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207558
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BABY TV FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207559
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207559
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BABY TV HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207560
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207560
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BABY TV SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207561
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207561
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BOOMERANG FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207562
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207562
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BOOMERANG HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207563
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207563
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BOOMERANG SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207564
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207564
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CARTOON NETWORK FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207565
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207565
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CARTOON NETWORK HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207566
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207566
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CARTOON NETWORK SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207567
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207567
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DISCOVERY KIDS FHD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207568
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207568
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DISCOVERY KIDS HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207569
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207569
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DISCOVERY KIDS SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207570
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207570
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DISNEY CHANNEL HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207572
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207572
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DISNEY CHANNEL SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207573
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207573
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DISNEY JR HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207575
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207575
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DISNEY JR SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207576
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207576
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DISNEY XD HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207578
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207578
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DISNEY XD SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207579
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207579
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOOB HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207581
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207581
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOOB SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207582
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207582
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOOBINHO HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207584
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207584
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOOBINHO SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207585
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207585
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]NATGEO KIDS HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207587
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207587
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]NATGEO KIDS SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207588
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207588
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]NICK JR HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207590
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207590
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]NICK JR SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207591
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207591
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]NICKELODEON HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207593
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207593
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]NICKELODEON SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207594
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207594
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]PLAYKIDS
-http://snxt.online:80/fabricio2021/fabricio2021/207595
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207595
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TOONCAST HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207597
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207597
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TOONCAST SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207598
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207598
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TV RA TIM BUM HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207600
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207600
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TV RA TIM BUM SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207601
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207601
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]WOOHOO HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207603
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207603
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]WOOHOO SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207604
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207604
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]ZOOMOO HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207606
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207606
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]ZOOMOO SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207607
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207607
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]LOADING HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207609
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207609
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]LOADING SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207610
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207610
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]ARTE 1 HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207612
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207612
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]ARTE 1 SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207613
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207613
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BIS HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207615
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207615
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BIS SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207616
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207616
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CHEF TV HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207618
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207618
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]COMEDY CENTRAL HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207620
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207620
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]COMEDY CENTRAL SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207621
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207621
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CURTA HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207623
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207623
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CURTA SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207624
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207624
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]E! HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207626
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207626
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]E SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207627
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207627
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]FOOD NETWORK SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207629
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207629
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GNT HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207631
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207631
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GNT SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207632
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207632
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]HGTV HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207634
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207634
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]HGTV  SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207635
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207635
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]MTV HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207637
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207637
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]MTV SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207638
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207638
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]MTV LIVE HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207640
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207640
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]MULTISHOW HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207642
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207642
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]MULTISHOW SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207643
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207643
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]OFF HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207645
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207645
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]OFF SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207646
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207646
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TRU TV HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207648
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207648
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]VH1 HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207650
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207650
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]VH1 SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207651
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207651
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]VH1 MEGA HITS
-http://snxt.online:80/fabricio2021/fabricio2021/207652
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207652
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]VIVA HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207654
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207654
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]VIVA SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207655
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207655
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]POLISHOP TV SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207656
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207656
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]PRIME BOX BRASIL HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207658
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207658
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]PRIME BOX BRASIL SD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207659
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207659
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BAND 4K
-http://snxt.online:80/fabricio2021/fabricio2021/207661
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207661
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RECORD 4K
-http://snxt.online:80/fabricio2021/fabricio2021/207662
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207662
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]PREMIERE CLUBES 4K
-http://snxt.online:80/fabricio2021/fabricio2021/207663
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207663
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TELECINE PREMIUM 4K
-http://snxt.online:80/fabricio2021/fabricio2021/207664
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207664
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TNT 4K
-http://snxt.online:80/fabricio2021/fabricio2021/207666
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207666
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TNT SERIES 4K
-http://snxt.online:80/fabricio2021/fabricio2021/207667
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207667
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]ANIMAL PLANET 4K
-http://snxt.online:80/fabricio2021/fabricio2021/207668
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207668
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CARTOON NETWORK 4K
-http://snxt.online:80/fabricio2021/fabricio2021/207669
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207669
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]COMBATE 4K
-http://snxt.online:80/fabricio2021/fabricio2021/207670
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207670
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]DISCOVERY CHANNEL 4K 
-http://snxt.online:80/fabricio2021/fabricio2021/207671
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207671
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]FOX 4K
-http://snxt.online:80/fabricio2021/fabricio2021/207672
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207672
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]FOX SPORTS 4K
-http://snxt.online:80/fabricio2021/fabricio2021/207673
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207673
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GLOBO 4K
-http://snxt.online:80/fabricio2021/fabricio2021/207674
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207674
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]HBO 4K
-http://snxt.online:80/fabricio2021/fabricio2021/207675
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207675
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]MEGAPIX 4K
-http://snxt.online:80/fabricio2021/fabricio2021/207676
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207676
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]NATIONAL GEOGRAPHICS 4K
-http://snxt.online:80/fabricio2021/fabricio2021/207677
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207677
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]MULTISHOW 4K
-http://snxt.online:80/fabricio2021/fabricio2021/207678
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207678
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]REDE TV! 4K
-http://snxt.online:80/fabricio2021/fabricio2021/207679
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207679
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]SBT 4K
-http://snxt.online:80/fabricio2021/fabricio2021/207680
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207680
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TELECINE PIPOCA 4K
-http://snxt.online:80/fabricio2021/fabricio2021/207681
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207681
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]SPACE 4K
-http://snxt.online:80/fabricio2021/fabricio2021/207682
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207682
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]SPORTV 4K
-http://snxt.online:80/fabricio2021/fabricio2021/207683
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207683
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]HBO XTREME
-http://snxt.online:80/fabricio2021/fabricio2021/207684
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207684
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]Canção Nova
-http://snxt.online:80/fabricio2021/fabricio2021/207861
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207861
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]EVANGELIZAR HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207863
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207863
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]GOSPEL MOVIES TELEVISION
-http://snxt.online:80/fabricio2021/fabricio2021/207864
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207864
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]NOVO TEMPO
-http://snxt.online:80/fabricio2021/fabricio2021/207865
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207865
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]REDE GOSPEL
-http://snxt.online:80/fabricio2021/fabricio2021/207866
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207866
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]REDE VIDA HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207867
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207867
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]REDE VIDA HD[/B][/COLOR]¹
-http://snxt.online:80/fabricio2021/fabricio2021/207868
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207868
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]RIT TV
-http://snxt.online:80/fabricio2021/fabricio2021/207869
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207869
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TV APARECIDA HD[/B][/COLOR]
-http://snxt.online:80/fabricio2021/fabricio2021/207870
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207870
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TV Igreja Mundial
-http://snxt.online:80/fabricio2021/fabricio2021/207871
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207871
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]TV PAI ETERNO
-http://snxt.online:80/fabricio2021/fabricio2021/207872
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207872
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]BOA VONTADE TV
-http://snxt.online:80/fabricio2021/fabricio2021/207873
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/207873
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CINE SKY 01
-http://snxt.online:80/fabricio2021/fabricio2021/222391
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/222391
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CINE SKY 02
-http://snxt.online:80/fabricio2021/fabricio2021/222392
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/222392
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CINE SKY 03
-http://snxt.online:80/fabricio2021/fabricio2021/222393
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/222393
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CINE SKY 04
-http://snxt.online:80/fabricio2021/fabricio2021/222394
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/222394
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CINE SKY 05
-http://snxt.online:80/fabricio2021/fabricio2021/222395
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/222395
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CINE SKY 06
-http://snxt.online:80/fabricio2021/fabricio2021/222396
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/222396
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CINE SKY 07
-http://snxt.online:80/fabricio2021/fabricio2021/222397
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/222397
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CINE SKY 08
-http://snxt.online:80/fabricio2021/fabricio2021/222398
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/222398
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CINE SKY 09
-http://snxt.online:80/fabricio2021/fabricio2021/222399
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/222399
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CINE SKY 10
-http://snxt.online:80/fabricio2021/fabricio2021/222400
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/222400
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CINE PIPOCA 01
-http://snxt.online:80/fabricio2021/fabricio2021/222401
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/222401
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CINE PIPOCA 02
-http://snxt.online:80/fabricio2021/fabricio2021/222402
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/222402
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CINE PIPOCA 03
-http://snxt.online:80/fabricio2021/fabricio2021/222403
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/222403
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CINE PIPOCA 04
-http://snxt.online:80/fabricio2021/fabricio2021/222404
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/222404
 #EXTINF:-1  tvg-logo="ICONE-LS" group-title="Canais tvs",[COLOR orange][B]LS -> [COLOR white]CINE PIPOCA 05
-http://snxt.online:80/fabricio2021/fabricio2021/222405
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=LS -> TVs ONLINE;url=http://snxt.online:80/fabricio2021/fabricio2021/222405
