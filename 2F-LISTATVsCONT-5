@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/q9KDBB4/TV-online.png" group-title="",[COLOR orange][B] SELECIONE UM ITEM [/B][/COLOR]
+LINKDOFILME
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="https.com/FSpBdys.png",LS -> Animal Planet HD
 plugin://plugin.video.f4mhttpsr/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184987
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet SD." tvg-logo="https.com/FSpBdys.png",LS -> Animal Planet SD.
