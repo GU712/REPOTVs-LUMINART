@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais: 24H",[COLOR white][B]LS - 24HRs -> [COLOR lime][24H] 3 Palavrinhas[/B][/COLOR]
+#EXTINF:-1  tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais: 24H",[COLOR white][B]LS - 24HRs -> [COLOR white][24H] 3 Palavrinhas[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR lime]24HRs TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/ed2021/2021ed/47459	
 #EXTINF:-1  tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais: 24H",[COLOR white][B]LS - 24HRs -> [COLOR lime][24H] 101 Dalmatas[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR lime]24HRs TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/ed2021/2021ed/47458	
