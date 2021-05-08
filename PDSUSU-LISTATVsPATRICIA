@@ -1,0 +1,242 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q9KDBB4/TV-online.png" group-title="SELETIVA",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Animal Planet FHD [H265][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71773	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Animal Planet 4K FHDR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71774	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Animal Planet FHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71772	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Animal Planet HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71775	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Animal Planet SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71776	
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Combate FHD [H265][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71843	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Combate 4K FHDR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71844	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Combate FHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71842	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Combate HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71845	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Combate SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71846
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Discovery Channel FHD [H265][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71863	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Discovery Channel 4K FHDR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71864	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Discovery Channel FHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71862	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Discovery Channel HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71865	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Discovery Channel SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71866	
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Discovery H&H FHD [H265][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71868	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Discovery H&H 4K FHDR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90251	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Discovery H&H FHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71867	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Discovery H&H HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71869	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Discovery H&H SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71870
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Disney Channel FHD [H265][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71892	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Disney Channel 4K FHDR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/103508	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Disney Channel FHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71891	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Disney Channel HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71893	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Disney Channel SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71894	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Disney Junior FHD [H265][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71896	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Disney Junior 4K FHDR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/103507	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Disney Junior FHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71895	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Disney Junior HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71897	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Disney Junior SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71898	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Disney XD SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71899
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]E! FHD [H265][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71901	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]E! 4K FHDR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/103506	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]E! FHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71900	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]E! HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71902	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]E! SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71903
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Fox Sports FHD [H265][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71958	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]FOX 4K FHDR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90249	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Fox Sports 4K FHDR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71959	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Fox Sports FHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71957	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Fox Sports HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71960	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Fox Sports SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71961	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Fox Sports 2 FHD [H265][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71953	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]US: Fox Sports FHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/103236	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Fox Sports 2 4K FHDR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71954	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Fox Sports 2 FHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71952	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Fox Sports 2 HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71955	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Fox Sports 2 SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71956
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]History FHD [H265][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72147	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]History 4K FHDR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90244	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]History FHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72146	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]History HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72148	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]History SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72149
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Nick Jr FHD [H265][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72202		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Nick Jr. 4K FHDR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/103485		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Nick Jr FHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72201		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Nick Jr HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72203		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Nick Jr SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72204
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Megapix FHD [H265][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72167		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Megapix 4K FHDR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72168		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Megapix FHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72166		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Megapix FHD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90680		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Megapix HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72169		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Megapix HD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90679		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Megapix SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72170		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Megapix SD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90678
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Action FHD [H265][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72347		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Action 4K FHDR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90239		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Action FHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72346		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Action FHD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90668		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Action HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72348		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Action HD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90667		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Action SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72349		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Action SD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90666		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Cult FHD [H265][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72351		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Cult 4K FHDR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/103456		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Cult FHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72350		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Cult FHD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90665		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Cult HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72352		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Cult HD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90664		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Cult SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72353		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Cult SD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90663		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Fun FHD [H265][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72355		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Fun 4K FHDR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/103455		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Fun FHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72354		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Fun FHD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90662		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Fun HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72356		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Fun HD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90661		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Fun SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72357		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Fun SD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90660		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Pipoca FHD [H265][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72359		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Pipoca 4K FHDR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90238		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Pipoca FHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72358		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Pipoca FHD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90659		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Pipoca HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72360		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Pipoca HD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90658		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Pipoca SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72361		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Pipoca SD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90657		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Premium FHD [H265][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72363		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Premium 4K FHDR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90237		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Premium FHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72362		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Premium FHD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90656		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Premium HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72364		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Premium HD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90655		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Premium SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72365		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Premium SD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90654		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Touch FHD [H265][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72367		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Touch 4K FHDR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/103454		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Touch FHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72366		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Touch FHD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90653		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Touch HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72368		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Touch HD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90652		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Touch SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72369		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Telecine Touch SD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90651
