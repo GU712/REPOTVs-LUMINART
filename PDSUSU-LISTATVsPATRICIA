@@ -105,6 +105,122 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]Fox Sports 2 SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/71956
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO 2 FHD [H265][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72111	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO 2 4K FHDR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90246	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO 2 FHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72110	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO 2 HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72112	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO 2 SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72113	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Family FHD [H265][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72115	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO 4K FHDR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90247	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Family 4K FHDR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90637	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Family FHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72114	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Family HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72116	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Family SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72117	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO FHD [H265][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72119	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO FHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72118	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO FHD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90698	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72120	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO HD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90697	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Mundi FHD [H265][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72122	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO MUNDI 4K FHDR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/103496	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Mundi FHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72121	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Mundi FHD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90695	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Mundi HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72123	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Mundi HD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90694	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Mundi SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72124	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Mundi SD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90693	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Plus FHD [H265][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72126	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Plus 4K FHDR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90635	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Plus FHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72125	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Plus FHD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90692	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Plus HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72127	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Plus HD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90691	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Plus SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72128	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Plus SD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90690	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Pop FHD [H265][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72130	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO POP 4K FHDR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/103495	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Pop FHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72129	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Pop FHD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90689	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Pop HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72131	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Pop HD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90688	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Pop SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72132	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Pop SD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90687	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72133	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO SD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90696	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Signature FHD [H265][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72135	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Signature 4K FHDR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/103494	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Signature FHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72134	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Signature FHD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90686	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Signature HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72136	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Signature HD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90685	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Signature SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72137	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Signature SD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90684	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Xtreme FHD [H265][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72139	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Xtreme 4K FHDR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90636	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Xtreme FHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72138	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Xtreme FHD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90683	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Xtreme HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72140	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Xtreme HD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90682	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Xtreme SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72141	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]HBO Xtreme SD [LEG][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/90681
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]History FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://b5.vc:80/renan2021/2021renan/72147	
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MBh3Lzv/premium.png" group-title="Canais tvs",[COLOR orange][B]LS - TVs[COLOR yellow] ->[COLOR white]History 4K FHDR[/B][/COLOR]
