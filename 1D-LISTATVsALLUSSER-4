@@ -1,3 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q9KDBB4/TV-online.png" group-title="SELETIVA",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
 #EXTINF:-1 tvg-id="" tvg-name="(24h) 3 Palavrinhas" tvg-logo="" group-title="24 HORAS",(24h) 3 Palavrinhas[/B][/COLOR]
 http://sv1.casap2p.cf:80/adelina/102030/27088							
 #EXTINF:-1 tvg-id="" tvg-name="(24h) A Bruxinha Sabrina" tvg-logo="" group-title="24 HORAS",(24h) A Bruxinha Sabrina[/B][/COLOR]
