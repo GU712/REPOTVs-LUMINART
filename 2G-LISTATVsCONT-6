@@ -1,358 +1,617 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/q9KDBB4/TV-online.png" group-title="",[COLOR orange][B] SELECIONE UM ITEM [/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q9KDBB4/TV-online.png" group-title="SELETIVA",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="https://i.imgur.com/FSpBdys.png" group-title="CANAIS BR DOCUMENTARIO",Animal Planet HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184987
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet SD." tvg-logo="https://i.imgur.com/FSpBdys.png" group-title="CANAIS BR DOCUMENTARIO",Animal Planet SD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184988
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel HD" tvg-logo="https://i.imgur.com/hIiJnWz.png" group-title="CANAIS BR DOCUMENTARIO",Discovery Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184989
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel SD" tvg-logo="https://i.imgur.com/hIiJnWz.png" group-title="CANAIS BR DOCUMENTARIO",Discovery Channel SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184990
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home e Health HD." tvg-logo="https://i.imgur.com/JF2Y1ln.png" group-title="CANAIS BR DOCUMENTARIO",Discovery Home e Health HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184991
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home e Health SD." tvg-logo="https://i.imgur.com/JF2Y1ln.png" group-title="CANAIS BR DOCUMENTARIO",Discovery Home e Health SD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184992
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids SD" tvg-logo="https://i.imgur.com/GHBV1tZ.png" group-title="CANAIS BR INFANTIL",Discovery Kids SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184995
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science HD" tvg-logo="https://i.imgur.com/JdmLUwg.png" group-title="CANAIS BR DOCUMENTARIO",Discovery Science HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184996
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science SD" tvg-logo="https://i.imgur.com/JdmLUwg.png" group-title="CANAIS BR DOCUMENTARIO",Discovery Science SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184997
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater HD" tvg-logo="https://i.imgur.com/mEVTqVO.png" group-title="CANAIS BR DOCUMENTARIO",Discovery Theater HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184998
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater SD." tvg-logo="https://i.imgur.com/mEVTqVO.png" group-title="CANAIS BR DOCUMENTARIO",Discovery Theater SD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184999
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo HD." tvg-logo="https://i.imgur.com/J67CNHZ.png" group-title="CANAIS BR DOCUMENTARIO",Discovery Turbo HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185000
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo SD." tvg-logo="https://i.imgur.com/J67CNHZ.png" group-title="CANAIS BR DOCUMENTARIO",Discovery Turbo SD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185001
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World HD" tvg-logo="https://i.imgur.com/dKdL84k.png" group-title="CANAIS BR DOCUMENTARIO",Discovery World HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185002
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World SD" tvg-logo="https://i.imgur.com/dKdL84k.png" group-title="CANAIS BR DOCUMENTARIO",Discovery World SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185003
-#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD." tvg-logo="https://i.imgur.com/b5E2WSk.png" group-title="CANAIS BR DOCUMENTARIO",H2 HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185004
-#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 SD." tvg-logo="https://i.imgur.com/b5E2WSk.png" group-title="CANAIS BR DOCUMENTARIO",H2 SD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185005
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="History Channel HD." tvg-logo="https://i.imgur.com/JaaXRWZ.png" group-title="CANAIS BR DOCUMENTARIO",History Channel HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185008
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="History channel SD." tvg-logo="https://i.imgur.com/JaaXRWZ.png" group-title="CANAIS BR DOCUMENTARIO",History channel SD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185009
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="Nat Geo WILD SD." tvg-logo="https://i.imgur.com/VqaCFR4.png" group-title="CANAIS BR DOCUMENTARIO",Nat Geo WILD SD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185011
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NatGeo HD." tvg-logo="https://i.imgur.com/vy9doOf.png" group-title="CANAIS BR DOCUMENTARIO",NatGeo HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185012
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NatGeo SD." tvg-logo="https://i.imgur.com/vy9doOf.png" group-title="CANAIS BR DOCUMENTARIO",NatGeo SD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185013
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NatGeo Wild HD" tvg-logo="https://i.imgur.com/VqaCFR4.png" group-title="CANAIS BR DOCUMENTARIO",NatGeo Wild HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185014
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD" tvg-logo="https://i.imgur.com/2tdPDQm.png" group-title="CANAIS BR FILMES E SERIES",Multishow HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185043
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD" tvg-logo="https://i.imgur.com/2tdPDQm.png" group-title="CANAIS BR FILMES E SERIES",MULTISHOW SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185044
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva HD" tvg-logo="https://i.imgur.com/MkVKxeZ.png" group-title="CANAIS BR FILMES E SERIES",Viva HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185055
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva SD" tvg-logo="https://i.imgur.com/MkVKxeZ.png" group-title="CANAIS BR FILMES E SERIES",Viva SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185056
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://i.imgur.com/t7ievTn.png" group-title="CANAIS BR NOTICIAS",GLOBO NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185069
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News SD" tvg-logo="https://i.imgur.com/t7ievTn.png" group-title="CANAIS BR NOTICIAS",Globo News SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185070
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere 1 SD." tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="CANAIS BR PREMIERES",Premiere 1 SD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185216
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD." tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="CANAIS BR PREMIERES",Premiere 2 HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185217
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 SD." tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="CANAIS BR PREMIERES",Premiere 2 SD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185218
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD." tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="CANAIS BR PREMIERES",Premiere 3 HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185219
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD." tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="CANAIS BR PREMIERES",PREMIERE 3 SD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185220
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD." tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="CANAIS BR PREMIERES",Premiere 4 HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185221
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 SD" tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="CANAIS BR PREMIERES",Premiere 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185222
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="CANAIS BR PREMIERES",PREMIERE 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185223
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 SD." tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="CANAIS BR PREMIERES",Premiere 5 SD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185224
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="CANAIS BR PREMIERES",Premiere 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185225
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 SD" tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="CANAIS BR PREMIERES",Premiere 6 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185226
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="CANAIS BR PREMIERES",Premiere 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185227
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 SD" tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="CANAIS BR PREMIERES",Premiere 7 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185228
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="CANAIS BR PREMIERES",Premiere Clubes HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185230
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes SD" tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="CANAIS BR PREMIERES",Premiere Clubes SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185231
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 HD." tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="CANAIS BR ESPORTES",SporTV 2 HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185236
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 SD." tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="CANAIS BR ESPORTES",SporTV 2 SD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185237
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 HD." tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="CANAIS BR ESPORTES",SporTV 3 HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185238
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 SD." tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="CANAIS BR ESPORTES",SporTV 3 SD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185239
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="CANAIS BR ESPORTES",SPORTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185240
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV SD" tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="CANAIS BR ESPORTES",SporTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185241
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action HD." tvg-logo="https://i.imgur.com/jA3Gzh1.png" group-title="CANAIS BR TELECINE",Telecine Action HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185242
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD." tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-action-hd_m.png" group-title="CANAIS BR TELECINE",TELECINE ACTION SD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185243
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult HD" tvg-logo="https://i.imgur.com/sw2ouTS.png" group-title="CANAIS BR TELECINE",Telecine Cult HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185244
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT SD." tvg-logo="https://i.imgur.com/sw2ouTS.png" group-title="CANAIS BR TELECINE",TELECINE CULT SD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185245
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD." tvg-logo="https://i.imgur.com/lcxkVop.png" group-title="CANAIS BR TELECINE",TELECINE FUN HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185246
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun SD" tvg-logo="https://i.imgur.com/lcxkVop.png" group-title="CANAIS BR TELECINE",Telecine Fun SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185247
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca HD." tvg-logo="https://i.imgur.com/ODdvtS6.png" group-title="CANAIS BR TELECINE",Telecine Pipoca HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185248
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca SD." tvg-logo="https://i.imgur.com/ODdvtS6.png" group-title="CANAIS BR TELECINE",Telecine Pipoca SD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185249
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium HD." tvg-logo="https://i.imgur.com/HJxe9Lf.png" group-title="CANAIS BR TELECINE",Telecine Premium HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185250
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium SD." tvg-logo="https://i.imgur.com/HJxe9Lf.png" group-title="CANAIS BR TELECINE",Telecine Premium SD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185251
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD." tvg-logo="https://i.imgur.com/ZACae07.png" group-title="CANAIS BR TELECINE",TELECINE TOUCH HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185252
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch SD." tvg-logo="https://i.imgur.com/HJxe9Lf.png" group-title="CANAIS BR TELECINE",Telecine Touch SD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185253
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR Life HD" tvg-logo="https://starsat.co.za/wp-content/uploads/2019/06/StarLife.jpg" group-title="CANAIS BR FILMES E SERIES",STAR Life HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184862
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD." tvg-logo="https://i.imgur.com/EWKsvAH.png" group-title="CANAIS BR FILMES E SERIES",FX HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184869
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD." tvg-logo="https://i.imgur.com/EWKsvAH.png" group-title="CANAIS BR FILMES E SERIES",FX SD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184870
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount Channel HD" tvg-logo="https://i.imgur.com/VpSGYOm.png" group-title="CANAIS BR FILMES E SERIES",Paramount Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184873
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount Channel SD" tvg-logo="https://i.imgur.com/VpSGYOm.png" group-title="CANAIS BR FILMES E SERIES",Paramount Channel SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184874
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="Sony HD" tvg-logo="https://img1.pnghut.com/25/24/6/bsKu2TFkwd/joint-television-channel-monochrome-photography-zee-tv-sony-entertainment.jpg" group-title="CANAIS BR FILMES E SERIES",Sony HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184875
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="Sony SD" tvg-logo="https://img1.pnghut.com/25/24/6/bsKu2TFkwd/joint-television-channel-monochrome-photography-zee-tv-sony-entertainment.jpg" group-title="CANAIS BR FILMES E SERIES",Sony SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184876
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal HD" tvg-logo="https://i.imgur.com/W2DX18j.png" group-title="CANAIS BR FILMES E SERIES",Studio Universal HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184879
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal SD" tvg-logo="https://i.imgur.com/W2DX18j.png" group-title="CANAIS BR FILMES E SERIES",Studio Universal SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184880
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="Syfy HD" tvg-logo="https://i.imgur.com/OsHUmIG.png" group-title="CANAIS BR FILMES E SERIES",Syfy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184881
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="Syfy SD" tvg-logo="https://i.imgur.com/OsHUmIG.png" group-title="CANAIS BR FILMES E SERIES",Syfy SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184882
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD" tvg-logo="https://i.imgur.com/GNLfeHy.png" group-title="CANAIS BR FILMES E SERIES",TBS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184883
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD" tvg-logo="https://i.imgur.com/GNLfeHy.png" group-title="CANAIS BR FILMES E SERIES",TBS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184884
-#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="https://i.imgur.com/ShwJeRP.png" group-title="CANAIS BR FILMES E SERIES",TCM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184885
-#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="https://i.imgur.com/ShwJeRP.png" group-title="CANAIS BR FILMES E SERIES",TCM SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184886
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SD." tvg-logo="https://i.imgur.com/FRD2G5E.png" group-title="CANAIS BR FILMES E SERIES",TNT SD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184888
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series HD." tvg-logo="https://i.imgur.com/14I7HQ6.png" group-title="CANAIS BR FILMES E SERIES",TNT Series HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184889
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD" tvg-logo="https://i.imgur.com/14I7HQ6.png" group-title="CANAIS BR FILMES E SERIES",TNT SERIES SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184890
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal Channel HD" tvg-logo="https://i.imgur.com/9mhNMZq.png" group-title="CANAIS BR FILMES E SERIES",Universal Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184892
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal Channel SD" tvg-logo="https://i.imgur.com/9mhNMZq.png" group-title="CANAIS BR FILMES E SERIES",Universal Channel SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184893
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel HD." tvg-logo="https://i.imgur.com/DtwTyz9.png" group-title="CANAIS BR FILMES E SERIES",Warner Channel HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184894
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel SD." tvg-logo="https://i.imgur.com/DtwTyz9.png" group-title="CANAIS BR FILMES E SERIES",Warner Channel SD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184895
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band Campinas SD." tvg-logo="https://i.imgur.com/EFikBBd.png" group-title="CANAIS BR BAND",Band Campinas SD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184896
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band Nordeste SD." tvg-logo="https://i.imgur.com/EFikBBd.png" group-title="CANAIS BR BAND",Band Nordeste SD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184897
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RJ HD" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/c1/2018/04/03/logo-da-band-1522794110655_v2_450x450.png" group-title="CANAIS BR BAND",BAND RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184898
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RJ SD" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/c1/2018/04/03/logo-da-band-1522794110655_v2_450x450.png" group-title="CANAIS BR BAND",BAND RJ SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184899
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo.png" group-title="CANAIS BR ABERTOS",Canal Brasil SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184901
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="Cultura HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo.png" group-title="CANAIS BR ABERTOS",Cultura HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184902
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="Cultura SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo.png" group-title="CANAIS BR ABERTOS",Cultura SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184903
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1200px-Canal_Futura.png" group-title="CANAIS BR ABERTOS",Futura HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184904
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1200px-Canal_Futura.png" group-title="CANAIS BR ABERTOS",Futura SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184905
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record Campinas HD." tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="CANAIS BR RECORD",Record Campinas HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184909
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record Campinas SD." tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="CANAIS BR RECORD",Record Campinas SD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184910
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record DF HD" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="CANAIS BR RECORD",Record DF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184911
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record DF SD." tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="CANAIS BR RECORD",Record DF SD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184912
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record Manaus HD" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="CANAIS BR RECORD",Record Manaus HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184916
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RS HD" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="CANAIS BR RECORD",RECORD RS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184921
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record RS SD" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="CANAIS BR RECORD",Record RS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184922
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV HD." tvg-logo="https://listaiptv.gratis/logos/imagens/redetvto.png" group-title="CANAIS BR ABERTOS",RedeTV HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184926
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV SD." tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/05/Logotipo_da_RedeTV%21_%282015%E2%80%932019%29.png" group-title="CANAIS BR ABERTOS",RedeTV SD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184927
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT Goias HD" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="CANAIS BR SBT",SBT Goias HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184928
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT Nordeste HD" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="CANAIS BR SBT",SBT Nordeste HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184929
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta HD" tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png" group-title="CANAIS BR ABERTOS",TV Gazeta HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184939
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="Discovery ID HD." tvg-logo="https://i.imgur.com/yBM4voC.png" group-title="CANAIS BR DOCUMENTARIO",Discovery ID HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184993
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery ID SD." tvg-logo="https://i.imgur.com/yBM4voC.png" group-title="CANAIS BR DOCUMENTARIO",Discovery ID SD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/184994
-#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="CANAIS BR DOCUMENTARIO",HGTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185006
-#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="CANAIS BR DOCUMENTARIO",HGTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185007
-#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="Nat Geo Kids HD" tvg-logo="https://i.imgur.com/TzONFTx.png" group-title="CANAIS BR INFANTIL",Nat Geo Kids HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185010
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="https://i.imgur.com/wx7Nf99.png" group-title="CANAIS BR FILMES E SERIES",TLC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185015
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD" tvg-logo="https://i.imgur.com/wx7Nf99.png" group-title="CANAIS BR FILMES E SERIES",TLC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185016
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="Woohoo SD" tvg-logo="https://i.imgur.com/AQKs5qx.png" group-title="CANAIS BR VARIEDADES",Woohoo SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185017
-#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS HD" tvg-logo="https://i.imgur.com/y6b7nzQ.png" group-title="CANAIS BR VARIEDADES",BIS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185018
-#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS SD" tvg-logo="https://i.imgur.com/y6b7nzQ.png" group-title="CANAIS BR VARIEDADES",BIS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185019
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central HD." tvg-logo="https://i.imgur.com/lVnskSo.png" group-title="CANAIS BR FILMES E SERIES",Comedy Central HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185022
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central SD." tvg-logo="https://i.imgur.com/lVnskSo.png" group-title="CANAIS BR FILMES E SERIES",Comedy Central SD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185023
-#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Curta%21.svg/1200px-Logo_of_Curta%21.svg.png" group-title="CANAIS BR FILMES E SERIES",Curta HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185024
-#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Curta%21.svg/1200px-Logo_of_Curta%21.svg.png" group-title="CANAIS BR FILMES E SERIES",Curta SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185025
-#EXTINF:-1 tvg-id="E.br" tvg-name="E HD." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png" group-title="CANAIS BR ESPORTES ESPECIAIS",E HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185028
-#EXTINF:-1 tvg-id="E.br" tvg-name="E SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png" group-title="CANAIS BR ESPORTES ESPECIAIS",E SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185029
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="Food Network  SD" tvg-logo="https://i.imgur.com/mmYRl9S.png" group-title="CANAIS BR DOCUMENTARIO",Food Network  SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185031
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="Food Network HD" tvg-logo="https://i.imgur.com/mmYRl9S.png" group-title="CANAIS BR DOCUMENTARIO",Food Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185032
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD." tvg-logo="https://i.imgur.com/uS0lrJB.png" group-title="CANAIS BR FILMES E SERIES",GNT HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185034
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD." tvg-logo="https://i.imgur.com/uS0lrJB.png" group-title="CANAIS BR FILMES E SERIES",GNT SD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185035
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/iTya3Vq.png" group-title="CANAIS BR DOCUMENTARIO",Lifetime HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185036
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime SD" tvg-logo="https://i.imgur.com/iTya3Vq.png" group-title="CANAIS BR DOCUMENTARIO",Lifetime SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185037
-#EXTINF:-1 tvg-id="" tvg-name="Mais Globosat HD" tvg-logo="https://i.imgur.com/f4Inuw2.png" group-title="CANAIS BR DOCUMENTARIO",Mais Globosat HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185038
-#EXTINF:-1 tvg-id="" tvg-name="Mais Globosat SD" tvg-logo="https://i.imgur.com/f4Inuw2.png" group-title="CANAIS BR DOCUMENTARIO",Mais Globosat SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185039
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD." tvg-logo="https://i.imgur.com/sU3aNtp.png" group-title="CANAIS BR VARIEDADES",MTV HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185041
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD" tvg-logo="https://i.imgur.com/sU3aNtp.png" group-title="CANAIS BR VARIEDADES",MTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185042
-#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="CANAIS BR VARIEDADES",VH1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185053
-#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="CANAIS BR VARIEDADES",VH1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185054
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="Woohoo HD" tvg-logo="https://i.imgur.com/AQKs5qx.png" group-title="CANAIS BR VARIEDADES",Woohoo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185057
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News HD." tvg-logo="https://i.imgur.com/SZ9PKal.png" group-title="CANAIS BR NOTICIAS",Band News HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185058
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News SD." tvg-logo="https://i.imgur.com/SZ9PKal.png" group-title="CANAIS BR NOTICIAS",Band News SD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185059
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL HD." tvg-logo="https://i.ibb.co/dt3wYWZ/cnn-brasi.png" group-title="CANAIS BR NOTICIAS",CNN BRASIL HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185067
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN Brasil SD." tvg-logo="https://i.ibb.co/dt3wYWZ/cnn-brasi.png" group-title="CANAIS BR NOTICIAS",CNN Brasil SD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185068
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News HD." tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png" group-title="CANAIS BR NOTICIAS",Record News HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185072
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png" group-title="CANAIS BR NOTICIAS",Record News SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185073
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="Canção Nova  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="CANAIS BR RELIGIOSO",Canção Nova  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185075
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="Canção Nova SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="CANAIS BR RELIGIOSO",Canção Nova SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185076
-#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="NOVO TEMPO HD" tvg-logo="https://i.imgur.com/pnno7SN.png" group-title="CANAIS BR RELIGIOSO",NOVO TEMPO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185079
-#EXTINF:-1 tvg-id="Redevida.br" tvg-name="Rede Vida HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="CANAIS BR RELIGIOSO",Rede Vida HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185083
-#EXTINF:-1 tvg-id="Redevida.br" tvg-name="Rede Vida SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="CANAIS BR RELIGIOSO",Rede Vida SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185084
-#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV Aparecida SD." tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="CANAIS BR RELIGIOSO",TV Aparecida SD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185086
-#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV Novo Tempo SD" tvg-logo="https://i.imgur.com/pnno7SN.png" group-title="CANAIS BR RELIGIOSO",TV Novo Tempo SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185089
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BabyTV HD" tvg-logo="https://i.imgur.com/k2Nuw1J.png" group-title="CANAIS BR INFANTIL",BabyTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185092
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BabyTV SD" tvg-logo="https://i.imgur.com/k2Nuw1J.png" group-title="CANAIS BR INFANTIL",BabyTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185093
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Boomerang HD" tvg-logo="https://i.imgur.com/2Yjz9j9.png" group-title="CANAIS BR INFANTIL",Boomerang HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185094
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD" tvg-logo="https://i.imgur.com/2Yjz9j9.png" group-title="CANAIS BR INFANTIL",BOOMERANG SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185095
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="https://i.imgur.com/H9WliIY.png" group-title="CANAIS BR INFANTIL",Cartoon Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185096
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CartoonNetwork  SD" tvg-logo="https://i.imgur.com/H9WliIY.png" group-title="CANAIS BR INFANTIL",CartoonNetwork  SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185097
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids HD" tvg-logo="https://i.imgur.com/GHBV1tZ.png" group-title="CANAIS BR INFANTIL",Discovery Kids HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185098
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob HD" tvg-logo="https://i.imgur.com/r8fmJ82.png" group-title="CANAIS BR INFANTIL",Gloob HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185105
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob SD" tvg-logo="https://i.imgur.com/r8fmJ82.png" group-title="CANAIS BR INFANTIL",Gloob SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185106
-#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS SD" tvg-logo="https://i.imgur.com/TzONFTx.png" group-title="CANAIS BR INFANTIL",NAT GEO KIDS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185110
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="Nick Jr HD" tvg-logo="https://i.imgur.com/JUScx4P.png" group-title="CANAIS BR INFANTIL",Nick Jr HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185111
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR SD" tvg-logo="https://i.imgur.com/JUScx4P.png" group-title="CANAIS BR INFANTIL",NICK JR SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185112
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon HD" tvg-logo="https://i.imgur.com/qd7cWnd.png" group-title="CANAIS BR INFANTIL",Nickelodeon HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185113
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon SD" tvg-logo="https://i.imgur.com/qd7cWnd.png" group-title="CANAIS BR INFANTIL",Nickelodeon SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185114
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast HD" tvg-logo="https://i.imgur.com/zVNaltj.png" group-title="CANAIS BR INFANTIL",Tooncast HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185117
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast SD" tvg-logo="https://i.imgur.com/zVNaltj.png" group-title="CANAIS BR INFANTIL",Tooncast SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185118
-#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="CANAIS BR INFANTIL",TV RA TIM BUM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185119
-#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="Zoomoo HD" tvg-logo="https://i.imgur.com/vvgtZf2.png" group-title="CANAIS BR INFANTIL",Zoomoo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185120
-#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="Zoomoo SD" tvg-logo="https://i.imgur.com/vvgtZf2.png" group-title="CANAIS BR INFANTIL",Zoomoo SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185121
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band Sports HD." tvg-logo="https://i.imgur.com/4qhayiv.png" group-title="CANAIS BR BAND",Band Sports HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185185
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SPORTS SD." tvg-logo="https://i.imgur.com/4qhayiv.png" group-title="CANAIS BR BAND",BAND SPORTS SD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185186
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL.png" group-title="CANAIS BR ESPORTES ESPECIAIS",DAZN 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185193
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL.png" group-title="CANAIS BR ESPORTES ESPECIAIS",DAZN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185194
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 3 HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL.png" group-title="CANAIS BR ESPORTES ESPECIAIS",DAZN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185195
-#EXTINF:-1 tvg-id="E.br" tvg-name="EI Plus  01" tvg-logo="https://s3.amazonaws.com/static.prod.eiplus.com.br/media/canal/thumb_logo_nov.png" group-title="CANAIS BR ESPORTES ESPECIAIS",EI Plus  01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185197
-#EXTINF:-1 tvg-id="E.br" tvg-name="EI Plus 02" tvg-logo="https://s3.amazonaws.com/static.prod.eiplus.com.br/media/canal/thumb_logo_nov.png" group-title="CANAIS BR ESPORTES ESPECIAIS",EI Plus 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185198
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD" tvg-logo="https://i.imgur.com/qS8OedV.png" group-title="CANAIS BR DOCUMENTARIO",FISH TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185207
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD" tvg-logo="https://i.imgur.com/qS8OedV.png" group-title="CANAIS BR DOCUMENTARIO",FISH TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185208
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://i.imgur.com/1q5BvWY.png" group-title="CANAIS BR VARIEDADES",OFF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185215
-#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="Premiere 8 SD" tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="CANAIS BR PREMIERES",Premiere 8 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://e.advd.cyou:80/jeferson/jeferson123/185229
-
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]A&E HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46294	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]ADORAR TV[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109815	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]AGRO BRASIL HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/115456	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]AMC HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46296	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]ANIMAL PLANET HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46337	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]ANIME TV HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109830	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]ARTE 1 HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46457	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]AXN HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46298	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]BABY TV SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/115435	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]BAND NEWS HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46507	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]BAND SP HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46425	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]BAND SPORTS HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46394	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]BBB 1 HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/105642	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]BBB 2 HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/115344	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]BIS HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46459	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]BONS TEMPO TV[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109893	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]BOOMERANG HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46365	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CAMPEONATO CARIOCA 1 HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/105658	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CAMPEONATO CARIOCA 2 HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/105659	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CAMPEONATO CARIOCA 3 HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106102	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CAMPEONATO CARIOCA 4 HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106103	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CAMPEONATO CATARINENSE 1[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106099	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CAMPEONATO CATARINENSE 2[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106100	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CAMPEONATO CATARINENSE 3[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106101	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CANAL BRASIL HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/47073	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CANAL RURAL SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/115436	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CANAL SONY HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46300	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CARTOON NETWORK HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46367	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CINE BRASIL TV HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/104161	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CINE SKY 01 HD - O Desaparecimento[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106457	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CINE SKY 02 HD - A Vida em um Ano[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106458	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CINE SKY 03 HD - Trolls 2[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106459	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CINE SKY 04 HD - Uma Ultima Vez[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106451	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CINE SKY 05 HD - Todos os Meus Amigos Estão Mortos[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106461	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CINE SKY 06 HD - Mulher Maravilha 1984[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106462	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CINE SKY 07 HD - Sombras do Terror[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106463	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CINE SKY 08 HD - Liga da Justiça de Zack Snyders[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106450	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CINE SKY 09 HD - Justiça Brutal[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106460	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CINE SKY 10 HD - O Caçador de Recompensas[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106464	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CINE SKY 11 HD - A Sentinela[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106465	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CINE SKY 12 HD - Becky[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106466	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CINE SKY 13 HD - Freaky - No Corpo de um Assassino[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106469	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CINE SKY 14 HD - Querência[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106467	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CINE SKY 15 HD - Moxie - Quando as Garotas Vão à Luta[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106468	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CINE SKY 16 HD - Raya e o Último Dragão[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106452	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CINE SKY 17 HD - Um Príncipe em Nova York 2[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106454	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CINE SKY 18 HD - Archive[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106453	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CINE SKY 19 HD - Don Oscar[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106455	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CINE SKY 20 HD - Feitiço[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106456	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CINEMAX HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46302	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CLASSIQUE WESTERN TV[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109810	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CLIMA TEMPO FULL HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/103633	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CLIMA TEMPO HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/103632	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CNN BRASIL HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46509	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CNN INTERNACIONAL HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/115454	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CNT HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/115455	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]COMBATE HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46396	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]COMEDY CENTRAL HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46369	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CONMEBOL - LIBERTADORES 1 HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/115355	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CONMEBOL - LIBERTADORES 2 HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/115352	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CONMEBOL - LIBERTADORES 3 Full HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/110011	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CONMEBOL - LIBERTADORES 3 HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/115353	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CONMEBOL - LIBERTADORES 4 Full HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/110010	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CONMEBOL - LIBERTADORES 4 HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/115354	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]COPA DO NORDESTE 1 HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/115459	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]COPA DO NORDESTE 2 HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/115460	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]COPA DO NORDESTE 3 HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/115461	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]CURTA!  HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/103630	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]DAZN 1[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46402	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]DAZN 2[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46403	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]DISCOVERY CHANNEL HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46339	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]DISCOVERY H&H HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46341	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]DISCOVERY KIDS HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46371	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]DISCOVERY SCENCE HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46343	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]DISCOVERY THEATER HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46345	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]DISCOVERY TLC HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46347	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]DISCOVERY TURBO HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46349	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]DISCOVERY WORLD HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46351	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]DISNEY CHANNEL HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46373	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]DISNEY JUNIOR HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46375	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]DISNEY XD HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46377	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]DOG TV HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/80701	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]E! HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109840	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]ESPN EXTRA HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46408	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]ESR HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/115433	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]FASHIONTV BRASIL HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109847	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]FILM & ARTS HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/77308	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]FISH TV HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46473	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]FONTE TV[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109809	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]FOOD NETWORK HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46475	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]FOX NEWS SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/115447	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]FOX SPORTS 2 HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46413	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]FUTEBOL PELO MUNDO[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/113956	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]FX HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46315	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO BELO HORIZONTE HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/94614	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO BRASILIA HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/104956	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO CENTRO AMÉRICA HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/104622	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO EPTV CAMPINAS HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/103298	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO EPTV RIBEIRÃO PRETO HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/103301	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO EPTV SUL DE MINAS HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/94635	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO INTER TV ALTO LITORAL HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/104968	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO INTER TV CABUGI HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/104775	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO INTER TV DOS VALES HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/94632	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO INTER TV GRANDE MINAS MG Full HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/104262	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO INTER TV GRANDE MINAS MG HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/104263	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO NEWS HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46511	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO NSC BLUMENAU HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/104271	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO NSC CHAPECO HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/104265	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO NSC CRICIUMA HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/104269	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO NSC JOINVILLE HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/104267	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO NSC TV FLORIANÓPOLIS HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/94626	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO RBS PORTO ALEGRE HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46665	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO RBS TV CAXIAS DO SUL HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/94628	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO RBS TV PASSO FUNDO HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/103505	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO RBS TV PELOTAS HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/104261	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO REDE AMAZONICA RONDONIA HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/104392	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO RIO DE JANEIRO HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46670	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO RPC CURITIBA HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46672	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO RPC FOZ DO IGUAÇU HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/94623	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO RPC MARINGA HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/103327	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO RPC PARANAVAI HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/103324	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO RPC TV PONTA GROSSA HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/94617	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO SAO PAULO HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46677	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO TV ANHANGUERA HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/104384	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]Globo TV BAHIA HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46679	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO TV DIÁRIO HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/105254	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO TV FRONTEIRA HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/104777	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO TV GAZETA DE ALAGOAS HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/104953	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO TV GAZETA SUL HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/104960	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO TV GAZETA VITORIA HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/104962	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO TV INTEGRAÇAO JUIZ DE FORA - MG HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/104259	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO TV INTEGRAÇÃO ARAXA HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/94620	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO TV LIBERAL BELEM HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/104618	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO TV MORENA HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46688	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO TV NORDESTE HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/104620	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO TV RIO SUL HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/104779	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO TV SERRA+MAR HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/104781	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO TV TEM BAURU HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/103321	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO TV TEM SOROCABA HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/104958	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO TV TEM SÃO JOSÉ DO RIO PRETO HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/104964	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO TV TRIBUNA SANTOS HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/103304	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO TV VANGUARDA S. J. DOS CAMPOS HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/103307	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO TV VANGUARDA TAUBATÉ HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/104966	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOBO VERDES MARES HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/104183	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOOB HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46379	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOOBINHO FULL HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/49734	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GLOOBINHO HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/49735	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GNT HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46477	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GOLF CHANNEL HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/115345	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GOSPEL CARTOON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109822	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GOSPEL MOVIE TV[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109823	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]GOSPEL MOVIE TV 2[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109824	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]HBO 2 HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46528	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]HBO FAMILY HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46530	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]HBO HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46532	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]HBO MUNDI HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46533	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]HBO PLUS HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46535	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]HBO POP HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46539	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]HBO SIGNATURE HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46542	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]HBO XTREME HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46544	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]HGTV HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46479	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]HISTORY 2 HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/90026	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]HISTORY CHANNEL HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46355	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]ID INVESTIGAÇÃO DISCOVERY HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46357	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]IGREJA MUNDIAL DO PODER DE DEUS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109818	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]LIFETIME HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46481	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]LOADING HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/103629	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]LOVE NATURE HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/47058	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]MAIS GLOBOSAT HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46483	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]MEGAPIX HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46318	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]MELHORES MOMENTOS TNT ESTADIO[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106053	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]MTV HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46485	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]MULTISHOW HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46488	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]MUSIC BOX BRASIL HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/47056	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]NASA TV[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109820	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]NATIONAL GEOGRAPHIC HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46361	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]NAT GEO KIDS HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46382	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]NAT GEO WILD HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46359	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]NHK HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46491	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]NICK JR HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46384	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]NICKELODEON HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46386	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]OFF HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46493	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]PARAMOUNT CHANNEL HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46320	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]PAULISTAO PLAY[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/113952	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]PAULISTAO PLAY[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/113953	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]PAULISTAO PLAY[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/113954	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]PAULISTAO PLAY[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/113955	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]POLISHOP HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/115438	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]POWER COUPLE HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/115410	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]PREMIERE 2 HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46514	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]PREMIERE 3 HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46516	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]PREMIERE 4 HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46518	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]PREMIERE 5 HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46520	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]PREMIERE CLUBES HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46526	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]PRIME BOX BRASIL HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109845	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]PROGRAMAÇÃO TNT ESTADIO[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106051	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]RBTV - REDE BRASIL[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109808	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]RDC TV HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109892	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]RECORD BELEM DO PARÁ HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109696	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]RECORD CABRALIA HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109700	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]RECORD GOIAS HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109702	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]RECORD INTERIOR SP HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109694	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]RECORD ITAPOAN HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/115443	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]RECORD LITORAL VALE DO PARNAÍBA HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/115441	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]RECORD NEWS HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46434	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]RECORD PARANAÍBA DE UBERLÂNDIA FULL HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109683	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]RECORD PARANAÍBA DE UBERLÂNDIA HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109684	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]RECORD PAULISTA Full HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109681	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]RECORD PAULISTA HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109682	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]RECORD RIO FULL HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109685	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]RECORD RIO HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109686	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]RECORD RIO PRETO HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109692	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]RECORD RJ INTERIOR HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109698	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]RECORD RS HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46437	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]RECORD SIC TV RONDÔNIA FULL HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109540	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]RECORD SIC TV RONDÔNIA HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109541	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]RECORD SP HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/105257	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]RECORD TV THATHI CAMPINAS HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109690	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]RECORD TV VILA REAL HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109688	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]RED BULL TV HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109816	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]REDE FAMILIA HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/90028	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]REDE MINAS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109814	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]REDE PREMIUM TV HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109819	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]REDE SECULO 21 HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/89945	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]REDE SUPER HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/90029	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]REDETV! HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46443	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]RETRÔ CARTOON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109821	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SBT REDE MASSA  HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109826	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SBT REDE MASSA LONDRINA HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/115449	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SBT REDE MASSA MARINGA HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/115448	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SBT RIO HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/115347	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SBT RS HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109749	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SBT SP HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46449	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SBT TV ALTEROSA Full HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109538	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SBT TV ALTEROSA HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109539	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERIE C (MC)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106052	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SEXYKPOP TV[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109813	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SHOPTIME[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109838	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SPACE HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46322	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SPORTV 3 HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46419	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]STUDIO UNIVERSAL HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46324	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]ST✩R CHANELL HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46305	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]ST✩R HITS 1 HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46308	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]ST✩R HITS 2 HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46310	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]ST✩R LIFE HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46306	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SYFY HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46326	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TBS HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/74154	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TCM HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/90024	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TELECINE ACTION HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46545	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TELECINE CULT HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46547	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TELECINE FUN HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46549	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TELECINE PIPOCA HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46551	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TELECINE PREMIUM HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46553	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TELECINE TOUCH HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46555	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TERRA VIVA HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/100712	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TNT ESTADIO 1[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106209	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TNT ESTADIO 2[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106210	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TNT ESTADIO 3[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106211	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TNT ESTADIO 4[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106212	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TNT ESTADIO 5[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106213	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TNT HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46329	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TNT SERIES HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46331	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TRAVEL BOX BRASIL HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109848	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TRU TV HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/115220	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TV ACRITICA HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/115446	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TV ARACATI HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109825	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TV ASSEMBLEIA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109850	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TV CANDIDÉS HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109832	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TV CARIOCA NET[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106104	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TV CIDADE VERDE FULL HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/113958	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TV GAZETA HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/90023	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TV GIDEÔES HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109835	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TV IRACEMA HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109833	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TV JAGUAR HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109834	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TV JAPI[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109812	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TV JOCKEY HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/115457	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TV JORNAL  DO NORDESTE HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109827	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TV MANCHETE[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109829	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TV MAR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109811	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TV NOVO TEMPO HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/92634	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TV PAMPA HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/97519	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TV RA TIM BUM FULL HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46391	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TV RA TIM BUM HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/103214	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TV SENADO HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/91763	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TV SERIES[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109894	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TV WA HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/115458	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TV5 MONDE[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/104238	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TVE HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/89944	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]UNIVERSAL CHANNEL HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46333	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]URBAN DOCS HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/115450	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]URBAN KIDS HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/115453	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]URBAN MOVIES HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/115452	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]URBAN SERIES HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/115451	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]TV URSO POLAR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109828	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]VIVA HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46455	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]WARNER  CHANNEL HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46335	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]WOOHOO HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/46505	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]ZOOMO HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/115222	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SPORTV 2 HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/115467	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]PREMIERE 6 HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/116287	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]PREMIERE 7 HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/116288	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]PREMIERE 8 SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/116289	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SPORTV HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/116297	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]ESPN HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/116298	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]FOX SPORTS HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/116300	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]ESPN BRASIL HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/116301	
+#EXTINF:-1,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]ESPN 2 HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/116302	
