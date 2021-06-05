@@ -2,232 +2,232 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q9KDBB4/TV-online.png" group-title="SELETIVA",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]	
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]101 DALMATAS[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]101 DALMATAS[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106379	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]3 PALAVRINHAS[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]3 PALAVRINHAS[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106359	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]A MANSÃO FOSTER PARA AMIGOS IMAGINÁRIOS[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]A MANSÃO FOSTER PARA AMIGOS IMAGINÁRIOS[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106394	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]A PANTERA COR DE ROSA[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]A PANTERA COR DE ROSA[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106360	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]A PEQUENA SEREIA[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]A PEQUENA SEREIA[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106426	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]A TURMA DO PATETA[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]A TURMA DO PATETA[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106361	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]A VACA E O FRANGO[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]A VACA E O FRANGO[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106346	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]ALADDIN[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]ALADDIN[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106420	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]ANIMANIACS[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]ANIMANIACS[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106347	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]AS AVENTURAS DE JACKIE CHAN[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]AS AVENTURAS DE JACKIE CHAN[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106362	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]AS AVENTURAS DE TINTIN[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]AS AVENTURAS DE TINTIN[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106363	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]AS MENINAS SUPER PODEROSAS[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]AS MENINAS SUPER PODEROSAS[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106413	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]AS TERRIVEIS AVENTURAS DE BILLY E MANDY[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]AS TERRIVEIS AVENTURAS DE BILLY E MANDY[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106380	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]BABY LOONEY TUNES[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]BABY LOONEY TUNES[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106395	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]BEN 10[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]BEN 10[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106364	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]BEN 10 OMNIVERSE[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]BEN 10 OMNIVERSE[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106365	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]BEYBLADE[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]BEYBLADE[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106396	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]BITA E OS ANIMAIS[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]BITA E OS ANIMAIS[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106353	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]BOB ESPONJA[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]BOB ESPONJA[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106366	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CADILLACS E DINOSSAUROS[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CADILLACS E DINOSSAUROS[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106399	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CAPITÃO PLANETA[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CAPITÃO PLANETA[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106381	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CAPITÃO TSUBASA[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CAPITÃO TSUBASA[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106367	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CASTELO RÁ-TIM-BUM[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CASTELO RÁ-TIM-BUM[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106348	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CAVALEIROS DO ZODÍACO - FILMES[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CAVALEIROS DO ZODÍACO - FILMES[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106376	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CAVALO DE FOGO[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CAVALO DE FOGO[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106400	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CAVERNA DO DRAGÃO[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CAVERNA DO DRAGÃO[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106368	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CAÇA FANTASMAS[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CAÇA FANTASMAS[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106397	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CHAPOLIN COLORADO[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CHAPOLIN COLORADO[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106369	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CHAVES[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CHAVES[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106370	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CHAVES EM DESENHO ANIMADO[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CHAVES EM DESENHO ANIMADO[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106410	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]COELHO RICOCHETE[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]COELHO RICOCHETE[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106382	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]COMO APRENDER QUALQUER IDIOMA SOZINHO EM CASA[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]COMO APRENDER QUALQUER IDIOMA SOZINHO EM CASA[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106429	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CORAGEM O CÃO COVARDE[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CORAGEM O CÃO COVARDE[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106349	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CORRIDA MALUCA[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CORRIDA MALUCA[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106383	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CULINARIA ROUXBE[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CULINARIA ROUXBE[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106431	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CULINÁRIA CHOCOLATES SEM AÇÚCAR, GLUTEM LACTOSE[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CULINÁRIA CHOCOLATES SEM AÇÚCAR, GLUTEM LACTOSE[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106430	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CURSO COMPLETO DE ITALIANO PARA BRASILEIROS[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CURSO COMPLETO DE ITALIANO PARA BRASILEIROS[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106432	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CURSO DE INGLES[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CURSO DE INGLES[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106433	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CURSO DE MESTRE CERVEJEIRO ARTESANAL[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CURSO DE MESTRE CERVEJEIRO ARTESANAL[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106435	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CURSO DE RUSSO[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CURSO DE RUSSO[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106434	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CURSO DE SUSHIMAN[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CURSO DE SUSHIMAN[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106436	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]DE VOLTA PARA O FUTURO[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]DE VOLTA PARA O FUTURO[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106384	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]DESENHOS BIBLICOS[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]DESENHOS BIBLICOS[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106423	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]DRAGON BALL SUPER[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]DRAGON BALL SUPER[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106371	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]DU, DUDU E EDU[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]DU, DUDU E EDU[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106385	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]DUCK DODGERS[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]DUCK DODGERS[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106401	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]DUCKTALES[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]DUCKTALES[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106332	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]ESQUADRÃO ESPECIAL WINSPECTOR[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]ESQUADRÃO ESPECIAL WINSPECTOR[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106427	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]EU A PATROA E AS CRIANÇAS[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]EU A PATROA E AS CRIANÇAS[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106372	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]FLASH GORDON[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]FLASH GORDON[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106373	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]FORMIGA ATÔMICA[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]FORMIGA ATÔMICA[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106393	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]FULL METAL ACHEMIST[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]FULL METAL ACHEMIST[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106415	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]FUNDAMENTOS DA CONFEITARIA[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]FUNDAMENTOS DA CONFEITARIA[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106437	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]GALINHA PINTADINHA[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]GALINHA PINTADINHA[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106374	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]GOSPEL[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]GOSPEL[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106328	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]GUMBALL[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]GUMBALL[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106409	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]HAMTARO[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]HAMTARO[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106386	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]HEAVY METAL[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]HEAVY METAL[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106329	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]HOMEM ARANHA[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]HOMEM ARANHA[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106375	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]INUYASHA[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]INUYASHA[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106411	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]IRMÃO DO JOREL[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]IRMÃO DO JOREL[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106339	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]LABORATÓRIO DE DEXTER[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]LABORATÓRIO DE DEXTER[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106354	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]MEDABOTS[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]MEDABOTS[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106408	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]MEGAMAN[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]MEGAMAN[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106422	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]MESTRE DO CHURRASCO[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]MESTRE DO CHURRASCO[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106438	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]MIRACULOUS AS AVENTURAS DE LADYBUG E CHAT NOIR[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]MIRACULOUS AS AVENTURAS DE LADYBUG E CHAT NOIR[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106416	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]MORTAL KOMBAT  , DEFENSORES DA TERRA[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]MORTAL KOMBAT  , DEFENSORES DA TERRA[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106421	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]MUNDO DE BEAKMAN[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]MUNDO DE BEAKMAN[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106355	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]O FANTÁSTICO MUNDO DE BOBBY[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]O FANTÁSTICO MUNDO DE BOBBY[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106330	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]O MÁSKARA[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]O MÁSKARA[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106350	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]O SHOW DO NOVO PICA-PAU[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]O SHOW DO NOVO PICA-PAU[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106338	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]OS CAVALEIROS DO ZODÍACO SAGA TORNEIO GALÁTICO[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]OS CAVALEIROS DO ZODÍACO SAGA TORNEIO GALÁTICO[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106377	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]OS GÁRGULAS[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]OS GÁRGULAS[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106387	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]OS SIMPSONS[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]OS SIMPSONS[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106414	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]OS SUPER PATOS[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]OS SUPER PATOS[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106388	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]OS VINGADORES[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]OS VINGADORES[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106417	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]PADRINHOS MÁGICOS[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]PADRINHOS MÁGICOS[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106351	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]PAPA LÉGUAS E WILE COYOTE[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]PAPA LÉGUAS E WILE COYOTE[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106352	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]PATATI PATATA[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]PATATI PATATA[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106340	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]PATRULHA CANINA[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]PATRULHA CANINA[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106418	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]PEGADINHAS IVO HOLANDA[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]PEGADINHAS IVO HOLANDA[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106424	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]PEPE LEGAL[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]PEPE LEGAL[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106389	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]PEPPA PIG[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]PEPPA PIG[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106358	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]PERNALONGA[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]PERNALONGA[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106356	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]PICA-PAU CLÁSSICO[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]PICA-PAU CLÁSSICO[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106337	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]PINKY E O CÉREBRO[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]PINKY E O CÉREBRO[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106331	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]POPEYE[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]POPEYE[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106341	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]POWER RANGERS[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]POWER RANGERS[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/109703	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]RECEITAS , COMIDAS DE BOTECO OS MELHORES PETICOS BRASILEIROS[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]RECEITAS , COMIDAS DE BOTECO OS MELHORES PETICOS BRASILEIROS[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106428	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]RICK AND MORTY[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]RICK AND MORTY[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106342	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]SAILOR MOON[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]SAILOR MOON[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106412	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]SAMURAI WARRIORS[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]SAMURAI WARRIORS[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106407	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]SCOOBY-DOO[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]SCOOBY-DOO[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106336	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]SERTANEJO[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]SERTANEJO[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106327	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]SESSÃO DISNEY DESENHOS[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]SESSÃO DISNEY DESENHOS[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106419	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]SITIO DO PICA-PAU AMARELO[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]SITIO DO PICA-PAU AMARELO[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106335	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]SORVETES ARTESANAIS PARA SEU NEGÓCIO[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]SORVETES ARTESANAIS PARA SEU NEGÓCIO[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106439	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]SOUTHPARK[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]SOUTHPARK[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106334	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]STEVEN UNIVERSE[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]STEVEN UNIVERSE[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106406	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]SUPER CHOQUE[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]SUPER CHOQUE[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106390	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]TAZ-MANIA[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]TAZ-MANIA[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106391	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]THUNDERCATS[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]THUNDERCATS[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106405	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]TIMÃO E PUMBA[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]TIMÃO E PUMBA[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106344	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]TODO MUNDO ODEIA O CHRIS[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]TODO MUNDO ODEIA O CHRIS[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106343	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]TOP SERTANEJO[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]TOP SERTANEJO[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106357	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]TROLLS - O RITIMO CONTINUA[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]TROLLS - O RITIMO CONTINUA[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106402	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]TRÊS ESPIÃS DEMAIS[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]TRÊS ESPIÃS DEMAIS[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106404	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]TURMA DA MONICA[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]TURMA DA MONICA[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106378	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]URSINHOS CARINHOSOS[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]URSINHOS CARINHOSOS[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106403	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]VAI QUE COLA[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]VAI QUE COLA[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106345	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]X-MAN CLÁSSICO[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]X-MAN CLÁSSICO[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106333	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]ZUMBA FITNESS EXPERIÊNCE[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]ZUMBA FITNESS EXPERIÊNCE[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106392	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]ZUMBA STRONG[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]ZUMBA STRONG[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106425	
-#EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]ZÉ COLMÉIA[/B][/COLOR]	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQGfBMx/Server-2tvonline.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]ZÉ COLMÉIA[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106398	
 	
