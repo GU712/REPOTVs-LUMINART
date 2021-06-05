@@ -1,6 +1,7 @@
 #EXTM3U	
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q9KDBB4/TV-online.png" group-title="SELETIVA",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]	
-LINKDOFILME	
+LINKDOFILME
+
 #EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]101 DALMATAS[/B][/COLOR]	
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 Hs[/B][/COLOR];url=http://login.iptvcompany.org:8080/Alessa/123456/106379	
 #EXTINF:-1 tvg-logo="ICONELS",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]3 PALAVRINHAS[/B][/COLOR]	
