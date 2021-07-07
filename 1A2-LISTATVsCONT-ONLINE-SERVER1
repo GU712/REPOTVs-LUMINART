@@ -15,8 +15,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/4404
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]AGRO BRASIL TV[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/61437
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]ALADIN 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34864
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]ALEXANDRE PIRES #FIQUE EM CASA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/58493
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]AMC FHD H265 ²[/B][/COLOR]
@@ -55,8 +53,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/75487
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]ARTE 1 SD²[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/60930
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]As Meninas Superpoderosas 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34865
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]AXN FHD H265²[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/61197
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]AXN FHD H265¹[/B][/COLOR]
@@ -133,8 +129,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/75481
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]BELO #FIQUE EM CASA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/58495
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]BEN 10 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34866
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]BIS FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/61274
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]BIS HD[/B][/COLOR]
@@ -143,10 +137,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/62838
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]BIS SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/61158
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Bita e os Animais 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34943
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]BOB ESPONJA 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34867
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]BOOMERANG FHD H265[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/11534
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]BOOMERANG FHD²[/B][/COLOR]
@@ -159,8 +149,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/61101
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]BOOMERANG SD¹[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/4396
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Breaking Bad 24HRS¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34868
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]BRUNO E MARRONE #FIQUE EM CASA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/58496
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Campeonato Carioca 2 HD² 2021[/B][/COLOR]
@@ -205,8 +193,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/61156
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]CANCAO NOVA SD¹[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/6173
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]CAO CORAGEM 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34869
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]CARTOON NETWORK FHD H265 ²[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/61243
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]CARTOON NETWORK FHD H265¹[/B][/COLOR]
@@ -219,10 +205,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/61103
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]CARTOON NETWORK SD¹[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/4394
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]CHAVES DESENHO 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34873
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]CHERNOBYL 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/60771
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]CINE 01²[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/60951
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]CINE 02²[/B][/COLOR]
@@ -245,8 +227,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/63309
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]CINE MARVEL³[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/60789
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]CINE SESSÃO DA TARDE 24HRS³[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/60777
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]CINE SKY 01 (CH281)²[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/60940
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]CINE SKY 02 (CH282)²[/B][/COLOR]
@@ -393,14 +373,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/33640
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]DAZN SD²[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/68211
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Denis o Pimentinha 24HRS¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34874
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Desenhos Biblicos 24HRS¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34875
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Desenhos Disney 24HRS¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34876
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Digimon 24HRS¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34877
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]DISCOVERY CHANNEL 4K[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/33754
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Discovery Channel FHD²[/B][/COLOR]
@@ -521,18 +493,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/61458
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]DOG TV HD¹[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/61459
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Dois Homens e Meio 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34878
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Doug 24HRS¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34879
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]DR. STONE (ANIME)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/75548
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]DRAGON BALL 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34880
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]DRAGON BALL SUPER 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34881
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]DRAGON BALL Z 24HRS¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34882
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]DW SD¹[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/4425
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]E! HD²[/B][/COLOR]
@@ -611,8 +571,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/32163
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]ESTADIO TNT SPORTS¹ (Jogo 4)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/24835
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Eu a Patroa e as Crianças 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34883
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]FABIO JR #FIQUE EM CASA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/58488
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]FASHION TV HD¹[/B][/COLOR]
@@ -643,8 +601,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/61162
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]FOOD NETWORK SD¹[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/6959
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Formiga Atómica 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34884
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]FOX LIFE FHD H265²[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/61200
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]FOX LIFE HD ²[/B][/COLOR]
@@ -725,10 +681,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/60971
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]FX SD¹[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/4371
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Galinha Pintadinha 24HRS¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34885
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]GALINHA PINTADINHA MINI 24hrs[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/60726
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]GLOBO ACRE HD²[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/62380
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]GLOBO ACRE SD²[/B][/COLOR]
@@ -1051,8 +1003,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/61461
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Gostei Gospel Tv SP FHD²[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/60928
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]GRAN HOTEL 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/60770
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]H2 FHD H265[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/13187
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]H2 FHD H265²[/B][/COLOR]
@@ -1207,8 +1157,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/4357
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]HBO XTREME FHD H265[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/25014
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]He-Man 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34887
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]HGTV FHD H265¹[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/13208
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]HGTV FHD²[/B][/COLOR]
@@ -1225,8 +1173,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/61084
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]HGTV SD¹[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/10236
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Historias Disney 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34889
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]HISTORY 2 FHD H264[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/69152
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]HISTORY 2 FHD H265²[/B][/COLOR]
@@ -1243,14 +1189,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/4314
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]HISTORY FHD H264[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/61460
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]HOMEM ARANHA 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34890
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Homem de Ferro 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34891
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]HOMEMS DE PRETO 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34892
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Hércules 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34888
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]ID - INVESTIGACAO DISCOVERY HD¹[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/6869
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]ID - INVESTIGACAO DISCOVERY SD¹[/B][/COLOR]
@@ -1259,30 +1197,12 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/61236
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]ID Investigação  Discovery FHD¹[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/30696
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Incrível Hulk 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34893
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]InterTv Cabo Frio  HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34531
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]IVETE SANGALO #FIQUE EM CASA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/58484
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]J.QUEST #FIQUE EM CASA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/58485
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Jack-Chan 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34894
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Jaspion 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34895
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]JESUS UM REINO SEM FRONTEIRA 24Hors[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/60724
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]JIRAYA O Incrível Ninja 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34896
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]JOELMA #FIQUE EM CASA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/58491
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Kenan e Kel 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34897
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]LADY NIGHT 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/60774
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]LARGADOS E PELADOS A TRIBO 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/60773
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]LIFETIME FHD H264¹[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/69157
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]LIFETIME FHD H265[/B][/COLOR]
@@ -1297,8 +1217,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/61170
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]LIFETIME SD¹[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/7876
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Liga da Justica 24HRS¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34944
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]LIGA FUTSAL 2 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/79199
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]LIGA FUTSAL 2 SD²[/B][/COLOR]
@@ -1311,10 +1229,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/75484
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]LOANDING HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/75483
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]LOUIE 24hors[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/60723
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Luluzinha 24HRS¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34898
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Mais Globosat FHD H265[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/75479
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Mais GLOBOSAT FHD[/B][/COLOR]
@@ -1327,8 +1241,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/61172
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]MAIS GLOBOSAT SD¹[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/6953
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]MALHAÇÃO 1999  24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/60743
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]MARILIA MENDONÇA #FIQUE EM CASA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/58494
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]MAX FHD H265¹[/B][/COLOR]
@@ -1337,8 +1249,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/47755
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]MAX UP FHD  [/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/47756
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Medabots 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34899
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]MegaMan 24HRS[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34900
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]MEGAPIX FHD H265²[/B][/COLOR]
@@ -1353,12 +1263,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/60989
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]MEGAPIX SD¹[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/4354
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Mortal Kombat 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34901
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]MOSAICO CONMEBOL²[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/68353
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Mr.Ben 24HRS¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34902
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]MTV FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/61277
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]MTV HD¹[/B][/COLOR]
@@ -1381,10 +1287,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/4352
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Naha Airport[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/63427
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]NARUTO 24HRS¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34903
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Naruto Shippuden DUB 24HRS¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34904
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]NATGEO FHD H264¹[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/69153
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]NATGEO FHD H265²[/B][/COLOR]
@@ -1461,10 +1363,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/61149
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]NOVO TEMPO SD¹[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/6948
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]O Fantástico Mundo de Bobby 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34905
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]O MASKARA 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34907
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]OFF FHD¹[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/9152
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]OFF HD ²[/B][/COLOR]
@@ -1475,20 +1373,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/61065
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]OFF SD¹[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/4344
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Os Anjinhos - Rugrats 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34908
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]OS CAVALEIROS DO ZODIACO 24HRS¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34909
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]OS FLINTSTONES 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34910
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]OS MENOTTI #FIQUE EM CASA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/58487
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]OS SIMPSONS 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34911
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]OS SNORKS 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/60775
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Papa-Léguas 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34913
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]PARAMOUNT NETWORK  FHD H265²[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/61214
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]PARAMOUNT NETWORK  FHD H265¹[/B][/COLOR]
@@ -1503,34 +1387,14 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/6946
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Paris - Torre Eiffel[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/63421
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]PEGADINHAS AMERICANAS 2 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/60769
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]PEPE LEGAL 24Hors[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/60729
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Peppa Pig 24HRS¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34914
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]PERNALONGA 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34915
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Phineas e Ferb 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34916
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]PICA PAU 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34917
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Pink-e-Cerebro 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34918
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]PLAY KIDS HD¹[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/32164
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]PLAY TV SD²[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/61185
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]PLAY TV SD¹[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/20617
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]POKEMON 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34919
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]POLISHOP TV SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/4342
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]POLLY POCKET 24hrs³[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/60722
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Popeye O Marinheiro 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34920
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]POWER COUPLE BRASIL²[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/79943
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]POWER COUPLE BRASIL[/B][/COLOR]
@@ -1633,10 +1497,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/62826
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]FUJI TV JAPAN SD¹[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/4332
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Rambo 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34921
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]REALITY Z 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/60772
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]RECORD BA HD²[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/60868
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]RECORD BA SD²[/B][/COLOR]
@@ -1797,18 +1657,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/33284
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SBT Serra Dourada  HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/33768
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Scooby-Doo 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34922
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SIMONE E SIMARAIA #FIQUE EM CASA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/58497
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SKANK #FIQUE EM CASA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/58489
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Smallville 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34923
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Sobrenatural 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34924
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SONIC THE HEDGEHOG 24Hors[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/60730
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SONY CHANNEL FHD H265²[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/61215
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SONY HD²[/B][/COLOR]
@@ -1895,10 +1743,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/60997
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]STUDIO UNIVERSAL SD¹[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/4324
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Super Choque 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34947
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Superman 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34927
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SYFY FHD (LEGENDADO)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/47757
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SYFY FHD H265²[/B][/COLOR]
@@ -1917,8 +1761,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/4323
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SÉRGIO REIS #FIQUE EM CASA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/58490
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]TARTARUGAS NINJAS 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34928
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]TBS HD²[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/61002
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]TBS HD¹[/B][/COLOR]
@@ -2093,26 +1935,16 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/61019
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]TNT SERIES SD¹[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/4311
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]TODO MUNDO ODEIA O CHRIS 24HRS²[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34931
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Tom & Jerry 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34932
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]TOM & JERRY CLASSICO 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/60776
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]TOONCAST HD ²[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/61129
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]TOONCAST SD²[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/61128
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]TOONCAST SD¹[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/4310
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]TRAPALHÕES 24Hors[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/60728
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]TRAVEL BOX BRASIL FHD¹ H264[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/75476
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]TRAVEL BOX BRASIL HD¹[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/75475
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Tres Espias Demais 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34933
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]TRUT TV FHD H264¹[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/75485
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]TRUTV SD²[/B][/COLOR]
@@ -2213,10 +2045,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/33603
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]TV VITORIA ES SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/33602
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]UM MALUCO NO PEDAÇO 24HRS²[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34934
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Uma Família da Pesada 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34935
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]UNIVERSAL CHANNEL FHD H265²[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/61227
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]UNIVERSAL CHANNEL FHD H265¹[/B][/COLOR]
@@ -2229,10 +2057,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/61021
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]UNIVERSAL CHANNEL SD¹[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/20465
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Ursinhos Carinhos 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34936
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Vai Que Cola 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34946
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]VH1 HD²[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/61190
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]VH1 MEGA HITS HD¹[/B][/COLOR]
@@ -2271,14 +2095,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/20453
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]WOOHOO TV HD¹[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/75489
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]Xena 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/34938
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]YU-GI-OH 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/63147
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]YU-YU-Hakusho 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/63148
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]ZILLION 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/60744
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]ZooMoo Kids FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs ONLINE[/B][/COLOR];url=http://propdsrv.com:80/anacleto9817/@anacleto1299/47765
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]ZooMoo Kids HD DUAL²[/B][/COLOR]
