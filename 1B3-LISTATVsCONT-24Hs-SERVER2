@@ -1,171 +1,57 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/82qmMMR/TV-online.png",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bBQKKZg/TVs24hrs-SERVER1.png",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Irmão do Jorel[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/93334
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Scooby-Doo e Scrappy-Doo[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/93351
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]A Guarda Do Leão[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/93352
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Gravity Falls [/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/93382
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Clarencio o Otimista[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/93383
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Speed Race[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/93384
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Meu Titio Avô[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/93385
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]As Terríveis Aventuras de Billy e Mandy[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/93386
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Kick Buttowski[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/93387
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Timão e Pumba[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/93388
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Digimon Adventure Zero Two[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/93956
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Liga Da Justiça[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/93389
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Jiraiya[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/92453
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Mickey Mouse[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/93665
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CyberCop[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/93666
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Jaspion[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/93726
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Jonny Quest[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/93727
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Johnny Bravo[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/93812
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Apenas Um Show[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/93391
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Peppa Pig[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/93392
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Coragem - O Cão Covarde[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/93423
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]As Meninas Superpoderosas[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/93424
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white][24] A Praça é Nossa[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/93390
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Sessão da Tarde[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/93664
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]iCarly[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/93813
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]3 Palavrinhas ²[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54636
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]A Pequena Sereia[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54611
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]A Vaca e o Frango[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54614
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Aladdin[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54613
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]American Dad[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54599
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]As Meninas Superpoderosas[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54601
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Ben 10[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54602
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Beyblade[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54603
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Bob Esponja[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54615
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Bob Zoom [/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54639
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Cascão Maratona²[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54640
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Castelo Rá-Tim-Bum[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54384
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Cavaleiros do Zodiaco²[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54641
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Caverna do Dragão[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54616
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Chaves em Desenho Animado[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54617
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Chaves²[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54414
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Detona Ralph[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54605
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Dora, a Aventureira[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54619
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Doug[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54620
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Formiga Atômica[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54622
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Fusão - Dragon Ball[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54621
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Galinha Pintadinha [/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54643
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Galinha Pintadinha²[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54449
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Gasparzinho[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54623
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Hantaro[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54624
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Homem de Ferro[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54607
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Jackie Chan[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54600
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Jambo e Ruivão[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54625
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Johnny Bravo[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54381
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]João Grandão[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54626
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Ladybug[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54627
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Ligeirinho[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54608
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Lilo & Stitch[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54609
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Luluzinha [/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54644
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Magilla Gorilla[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54629
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Marcelino Pão e Vinho[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54630
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Masha e o Urso[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54579
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Naruto[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54631
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]O Máskara[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54632
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]O Novo Testamento[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/86435
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]O Poderoso Chefinho[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54610
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Os Cavaleiros do Zodíaco[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54604
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Os Flintstones[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54634
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Os Jetsons[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54542
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Os Padrinhos Mágicos[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54635
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Os Três Mosqueteiros[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54633
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Pernalonga[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54612
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Popeye[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54558
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Scooby-Doo[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54645
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Super Choque[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54598
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Tico e Teco [/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54547
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Timão e Pumba[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/54549
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Denis o Pimentinha[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/38367
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Liga da Justica[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/38447
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Pica-Pau[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/38410
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Pink e Cérebro[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/38411
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Pokemon[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/38412
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Pegadinhas da TV[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/93995
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKHMryf/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Tela Quente[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]TVs 24 HRs[/B][/COLOR];url=http://xsrv.me:8080/Bruno2021/2021Bruno/94068
+#EXTINF:-1 tvg-id="" tvg-name="Masha e o Urso" tvg-logo="https://logos.servidor.tv/467fe2284004a47bda10cd1f17143dd7.jpg" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Masha e o Urso[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/32593
+#EXTINF:-1 tvg-id="" tvg-name="Medabots" tvg-logo="https://logos.servidor.tv/e210927a2cb7a7d825d1076778fc2959.jpg" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Medabots[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/32608
+#EXTINF:-1 tvg-id="" tvg-name="Megapix 4K UHD" tvg-logo="https://logos.servidor.tv/megapix.png" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Megapix 4K UHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/56501
+#EXTINF:-1 tvg-id="" tvg-name="Megapix HD" tvg-logo="https://logos.servidor.tv/megapix.png" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Megapix HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/1454
+#EXTINF:-1 tvg-id="" tvg-name="Megapix HD+" tvg-logo="https://logos.servidor.tv/megapix.png" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Megapix HD+[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/204
+#EXTINF:-1 tvg-id="" tvg-name="Mickey Mouse Cartoon" tvg-logo="https://logos.servidor.tv/2bb72187feaa09b5f53391d430669692.jpg" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Mickey Mouse Cartoon[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/32598
+#EXTINF:-1 tvg-id="" tvg-name="Mickey Mouse Clássico" tvg-logo="https://logos.servidor.tv/mickeyclassico.png" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Mickey Mouse Clássico[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/32597
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="https://logos.servidor.tv/mtv.jpg" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]MTV HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/1453
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD+" tvg-logo="https://logos.servidor.tv/mtv.jpg" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]MTV HD+[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/202
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD" tvg-logo="https://logos.servidor.tv/e1637db47c46b8716519c81a006cc045.png" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]MTV Live HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/33259
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD+" tvg-logo="https://logos.servidor.tv/e1637db47c46b8716519c81a006cc045.png" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]MTV Live HD+[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/33258
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow 4K UHD" tvg-logo="https://logos.servidor.tv/multishow.png" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Multishow 4K UHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/56503
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow HD" tvg-logo="https://logos.servidor.tv/multishow.png" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Multishow HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/1452
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow HD+" tvg-logo="https://logos.servidor.tv/multishow.png" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Multishow HD+[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/199
+#EXTINF:-1 tvg-id="" tvg-name="Mundo Bita" tvg-logo="https://logos.servidor.tv/a857d7d773d7f92e9918d53f07eb8f27.jpg" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Mundo Bita[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/32607
+#EXTINF:-1 tvg-id="" tvg-name="Nanatsu no Taizai" tvg-logo="https://logos.servidor.tv/nanatsunotaizai.png" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Nanatsu no Taizai[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/33095
+#EXTINF:-1 tvg-id="" tvg-name="Naruto" tvg-logo="https://logos.servidor.tv/naruto.png" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Naruto[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/33096
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden" tvg-logo="https://logos.servidor.tv/narutoshippuden.png" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Naruto Shippuden[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/33097
+#EXTINF:-1 tvg-id="" tvg-name="O Pequeno Urso" tvg-logo="https://logos.servidor.tv/0dc1830acacc5dd5c401478242ee42f8.jpg" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]O Pequeno Urso[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/32630
+#EXTINF:-1 tvg-id="" tvg-name="O Show da Luna" tvg-logo="https://logos.servidor.tv/084c030736e2e02b7d6f9b89efa449c7.jpg" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]O Show da Luna[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/32606
+#EXTINF:-1 tvg-id="" tvg-name="One Punch Man" tvg-logo="https://logos.servidor.tv/onepunchman.png" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]One Punch Man[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/33098
+#EXTINF:-1 tvg-id="" tvg-name="Operação Fronteira América do Sul" tvg-logo="https://f.i.uol.com.br/fotografia/2020/03/13/15841247755e6bd367a7e44_1584124775_3x2_md.jpg" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Operação Fronteira América do Sul[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/32681
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco" tvg-logo="https://logos.servidor.tv/oscavaleirosdozodiaco.png" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Os Cavaleiros do Zodíaco[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/33100
+#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons" tvg-logo="https://logos.servidor.tv/ced53d26e045bc8376c2fd469c9ed59f.jpg" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Os Simpsons[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/32591
+#EXTINF:-1 tvg-id="" tvg-name="Papaléguas e o Coiote" tvg-logo="https://logos.servidor.tv/82d210a469387d9d5db847fe869f4f0a.jpg" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Papaléguas e o Coiote[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/32605
+#EXTINF:-1 tvg-id="" tvg-name="Patrulha Canina" tvg-logo="https://logos.servidor.tv/6cdcafdbd3c8856d103b4f1e67ef5e26.jpg" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Patrulha Canina[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/32604
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig" tvg-logo="https://logos.servidor.tv/d5f99332ba57d15b3c0c5464caf639aa.jpg" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Peppa Pig[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/32631
