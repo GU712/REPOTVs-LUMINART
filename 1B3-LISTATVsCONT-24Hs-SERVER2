@@ -1,57 +1,215 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bBQKKZg/TVs24hrs-SERVER1.png",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bBQKKZg/TVs24hrs-SERVER2.png",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
-#EXTINF:-1 tvg-id="" tvg-name="Masha e o Urso" tvg-logo="https://logos.servidor.tv/467fe2284004a47bda10cd1f17143dd7.jpg" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Masha e o Urso[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/32593
-#EXTINF:-1 tvg-id="" tvg-name="Medabots" tvg-logo="https://logos.servidor.tv/e210927a2cb7a7d825d1076778fc2959.jpg" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Medabots[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/32608
-#EXTINF:-1 tvg-id="" tvg-name="Megapix 4K UHD" tvg-logo="https://logos.servidor.tv/megapix.png" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Megapix 4K UHD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/56501
-#EXTINF:-1 tvg-id="" tvg-name="Megapix HD" tvg-logo="https://logos.servidor.tv/megapix.png" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Megapix HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/1454
-#EXTINF:-1 tvg-id="" tvg-name="Megapix HD+" tvg-logo="https://logos.servidor.tv/megapix.png" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Megapix HD+[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/204
-#EXTINF:-1 tvg-id="" tvg-name="Mickey Mouse Cartoon" tvg-logo="https://logos.servidor.tv/2bb72187feaa09b5f53391d430669692.jpg" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Mickey Mouse Cartoon[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/32598
-#EXTINF:-1 tvg-id="" tvg-name="Mickey Mouse Clássico" tvg-logo="https://logos.servidor.tv/mickeyclassico.png" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Mickey Mouse Clássico[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/32597
-#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="https://logos.servidor.tv/mtv.jpg" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]MTV HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/1453
-#EXTINF:-1 tvg-id="" tvg-name="MTV HD+" tvg-logo="https://logos.servidor.tv/mtv.jpg" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]MTV HD+[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/202
-#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD" tvg-logo="https://logos.servidor.tv/e1637db47c46b8716519c81a006cc045.png" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]MTV Live HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/33259
-#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD+" tvg-logo="https://logos.servidor.tv/e1637db47c46b8716519c81a006cc045.png" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]MTV Live HD+[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/33258
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow 4K UHD" tvg-logo="https://logos.servidor.tv/multishow.png" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Multishow 4K UHD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/56503
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow HD" tvg-logo="https://logos.servidor.tv/multishow.png" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Multishow HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/1452
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow HD+" tvg-logo="https://logos.servidor.tv/multishow.png" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Multishow HD+[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/199
-#EXTINF:-1 tvg-id="" tvg-name="Mundo Bita" tvg-logo="https://logos.servidor.tv/a857d7d773d7f92e9918d53f07eb8f27.jpg" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Mundo Bita[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/32607
-#EXTINF:-1 tvg-id="" tvg-name="Nanatsu no Taizai" tvg-logo="https://logos.servidor.tv/nanatsunotaizai.png" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Nanatsu no Taizai[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/33095
-#EXTINF:-1 tvg-id="" tvg-name="Naruto" tvg-logo="https://logos.servidor.tv/naruto.png" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Naruto[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/33096
-#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden" tvg-logo="https://logos.servidor.tv/narutoshippuden.png" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Naruto Shippuden[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/33097
-#EXTINF:-1 tvg-id="" tvg-name="O Pequeno Urso" tvg-logo="https://logos.servidor.tv/0dc1830acacc5dd5c401478242ee42f8.jpg" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]O Pequeno Urso[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/32630
-#EXTINF:-1 tvg-id="" tvg-name="O Show da Luna" tvg-logo="https://logos.servidor.tv/084c030736e2e02b7d6f9b89efa449c7.jpg" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]O Show da Luna[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/32606
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man" tvg-logo="https://logos.servidor.tv/onepunchman.png" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]One Punch Man[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/33098
-#EXTINF:-1 tvg-id="" tvg-name="Operação Fronteira América do Sul" tvg-logo="https://f.i.uol.com.br/fotografia/2020/03/13/15841247755e6bd367a7e44_1584124775_3x2_md.jpg" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Operação Fronteira América do Sul[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/32681
-#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco" tvg-logo="https://logos.servidor.tv/oscavaleirosdozodiaco.png" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Os Cavaleiros do Zodíaco[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/33100
-#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons" tvg-logo="https://logos.servidor.tv/ced53d26e045bc8376c2fd469c9ed59f.jpg" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Os Simpsons[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/32591
-#EXTINF:-1 tvg-id="" tvg-name="Papaléguas e o Coiote" tvg-logo="https://logos.servidor.tv/82d210a469387d9d5db847fe869f4f0a.jpg" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Papaléguas e o Coiote[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/32605
-#EXTINF:-1 tvg-id="" tvg-name="Patrulha Canina" tvg-logo="https://logos.servidor.tv/6cdcafdbd3c8856d103b4f1e67ef5e26.jpg" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Patrulha Canina[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/32604
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig" tvg-logo="https://logos.servidor.tv/d5f99332ba57d15b3c0c5464caf639aa.jpg" ,[COLOR orange][B]LS - 24 HRS[COLOR yellow] -> [COLOR white]Peppa Pig[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS[COLOR yellow] -> [COLOR white]24 HRs - SERVER 1[/B][/COLOR];url=http://canaishd.servidor.tv:8080/Everton12/12everton/32631
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]+ FAMILIA FULL HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/105423
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - 101 DALMATAS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106379
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - 3 PALAVRINHAS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106359
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - A MANSÃO FOSTER PARA AMIGOS IMAGINÁRIOS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106394
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - A PANTERA COR DE ROSA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106360
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - A PEQUENA SEREIA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106426
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - A TURMA DO PATETA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106361
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - A VACA E O FRANGO[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106346
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - ALADDIN[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106420
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - ANIMANIACS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106347
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - AS AVENTURAS DE JACKIE CHAN[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106362
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - AS AVENTURAS DE TINTIN[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106363
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - AS MENINAS SUPER PODEROSAS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106413
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - AS TERRIVEIS AVENTURAS DE BILLY E MANDY[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106380
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - BABY LOONEY TUNES[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106395
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - BEN 10[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106364
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - BEN 10 OMNIVERSE[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106365
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - BEYBLADE[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106396
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - BITA E OS ANIMAIS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106353
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - BOB ESPONJA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106366
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - CADILLACS E DINOSSAUROS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106399
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - CAPITÃO PLANETA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106381
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - CAPITÃO TSUBASA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106367
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - CASTELO RÁ-TIM-BUM[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106348
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - CAVALEIROS DO ZODÍACO - FILMES[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106376
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - CAVALO DE FOGO[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106400
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - CAVERNA DO DRAGÃO[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106368
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - CAÇA FANTASMAS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106397
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - CHAPOLIN COLORADO[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106369
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - CHAVES[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106370
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - CHAVES EM DESENHO ANIMADO[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106410
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - COELHO RICOCHETE[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106382
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - COMO APRENDER QUALQUER IDIOMA SOZINHO EM CASA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106429
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - CORAGEM O CÃO COVARDE[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106349
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - CORRIDA MALUCA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106383
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - CULINARIA ROUXBE[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106431
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - CULINÁRIA CHOCOLATES SEM AÇÚCAR, GLUTEM LACTOSE[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106430
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - CURSO COMPLETO DE ITALIANO PARA BRASILEIROS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106432
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - CURSO DE INGLES[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106433
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - CURSO DE MESTRE CERVEJEIRO ARTESANAL[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106435
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - CURSO DE RUSSO[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106434
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - CURSO DE SUSHIMAN[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106436
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - DE VOLTA PARA O FUTURO[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106384
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - DESENHOS BIBLICOS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106423
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - DRAGON BALL SUPER[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106371
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - DU, DUDU E EDU[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106385
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - DUCK DODGERS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106401
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - DUCKTALES[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106332
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - ESQUADRÃO ESPECIAL WINSPECTOR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106427
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - EU A PATROA E AS CRIANÇAS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106372
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - FLASH GORDON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106373
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - FORMIGA ATÔMICA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106393
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - FULL METAL ACHEMIST[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106415
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - FUNDAMENTOS DA CONFEITARIA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106437
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - GALINHA PINTADINHA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106374
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - GOSPEL[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106328
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - GUMBALL[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106409
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - HAMTARO[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106386
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - HEAVY METAL[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106329
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - HOMEM ARANHA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106375
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - INUYASHA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106411
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - IRMÃO DO JOREL[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106339
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - LABORATÓRIO DE DEXTER[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106354
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - MEDABOTS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106408
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - MEGAMAN[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106422
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - MESTRE DO CHURRASCO[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106438
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - MIRACULOUS AS AVENTURAS DE LADYBUG E CHAT NOIR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106416
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - MORTAL KOMBAT  , DEFENSORES DA TERRA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106421
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - MUNDO DE BEAKMAN[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106355
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - O FANTÁSTICO MUNDO DE BOBBY[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106330
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - O MÁSKARA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106350
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - O SHOW DO NOVO PICA-PAU[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106338
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - OS CAVALEIROS DO ZODÍACO SAGA TORNEIO GALÁTICO[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106377
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - OS GÁRGULAS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106387
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - OS SIMPSONS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106414
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - OS SUPER PATOS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106388
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - OS VINGADORES[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106417
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - PADRINHOS MÁGICOS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106351
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - PAPA LÉGUAS E WILE COYOTE[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106352
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - PATATI PATATA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106340
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - PATRULHA CANINA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106418
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - PEGADINHAS IVO HOLANDA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106424
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - PEPE LEGAL[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106389
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - PEPPA PIG[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106358
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - PERNALONGA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106356
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - PICA-PAU CLÁSSICO[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106337
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - PINKY E O CÉREBRO[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106331
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - POPEYE[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106341
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - POWER RANGERS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/109703
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - RECEITAS , COMIDAS DE BOTECO OS MELHORES PETICOS BRASILEIROS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106428
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - RICK AND MORTY[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106342
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - SAILOR MOON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106412
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - SAMURAI WARRIORS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106407
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - SCOOBY-DOO[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106336
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - SERTANEJO[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106327
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - SESSÃO DISNEY DESENHOS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106419
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - SITIO DO PICA-PAU AMARELO[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106335
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - SORVETES ARTESANAIS PARA SEU NEGÓCIO[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106439
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - SOUTHPARK[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106334
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - STEVEN UNIVERSE[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106406
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - SUPER CHOQUE[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106390
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - TAZ-MANIA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106391
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - THUNDERCATS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106405
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - TIMÃO E PUMBA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106344
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - TODO MUNDO ODEIA O CHRIS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106343
+#EXTINF:-1,[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]24HS - TOP SERTANEJO[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/106357
