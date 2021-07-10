@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bBQKKZg/TVs24hrs-SERVER2.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ydH7qy3/TVs24hrs-SERVER2.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ydH7qy3/TVs24hrs-SERVER2.png",[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]+ FAMILIA FULL HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://login.iptvcompany.org:8080/Jose/1234/105423
