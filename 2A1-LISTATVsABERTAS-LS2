@@ -1,5 +1,5 @@
 #EXTM3U	
-#EXTINF:-1 tvg-logo="ICONE",[COLOR orange][B]SERVER LS[COLOR yellow] -> SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="ICONE",[COLOR orange][B]SERVER X[COLOR yellow] -> [COLOR orange]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" ,[COLOR orange][B]LS - TVs - VARIEDADES[COLOR yellow] -> [COLOR white] SBT - TV Jornal (PE)[/B][/COLOR]
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
