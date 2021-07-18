@@ -1,3 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CsjxcFS/TVs-ONLINE-SERVER4.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD" tvg-logo="http://liebeurl.me/logos/a&e.png" ,[COLOR orange][B]LS - TVs - VARIEDADES [COLOR yellow] -> [COLOR white]A&E FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://dnsl.me:80/live/Cristiano2021/2021cristiano/4100.m3u8
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="http://liebeurl.me/logos/a&e.png" ,[COLOR orange][B]LS - TVs - VARIEDADES [COLOR yellow] -> [COLOR white]A&E HD[/B][/COLOR]
