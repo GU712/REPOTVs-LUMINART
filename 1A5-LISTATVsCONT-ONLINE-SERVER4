@@ -1,3 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CsjxcFS/TVs-ONLINE-SERVER4.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
 #EXTINF:-1 tvg-ID="aande.br" tvg-name="A&E" tvg-logo="http://logo-load.com/uploads/posts/2016-04/1459526596_a-and-e-logo.png" ,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]A&E[/B][/COLOR]
 plugin://plugin.video.f4mTester/?name=[COLOR red][B]CobraPlay[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5673.ts
 #EXTINF:-1 tvg-ID="axn.br" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" ,[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]AXN[/B][/COLOR]
