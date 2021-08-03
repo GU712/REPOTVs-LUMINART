@@ -2,323 +2,323 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Xena[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34938
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34938
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]YU-GI-OH[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/63147
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/63147
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]YU-YU-Hakusho[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/63148
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/63148
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]ZILLION[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/60744
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/60744
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Ursinhos Carinhos[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34936
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34936
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Vai Que Cola[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34946
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34946
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]UM MALUCO NO PEDAÇO[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34934
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34934
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Uma Família da Pesada[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34935
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34935
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Tres Espias Demais[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34933
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34933
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]TRAPALHÕES[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/60728
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/60728
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]TODO MUNDO ODEIA O CHRIS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34931
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34931
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Tom & Jerry[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34932
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34932
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]TOM & JERRY CLASSICO[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/60776
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/60776
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]TARTARUGAS NINJAS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34928
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34928
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Super Choque[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34947
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34947
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Superman[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34927
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34927
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Scooby-Doo[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34922
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34922
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]SKANK #FIQUE EM CASA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/58489
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/58489
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Smallville[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34923
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34923
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Sobrenatural[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34924
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34924
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]SONIC THE HEDGEHOG[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/60730
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/60730
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Rambo[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34921
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34921
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]REALITY Z[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/60772
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/60772
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]POLLY POCKET 24hrs³[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/60722
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/60722
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Popeye O Marinheiro[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34920
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34920
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]POKEMON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34919
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34919
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]PEGADINHAS AMERICANAS 2[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/60769
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/60769
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]PEPE LEGAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/60729
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/60729
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Peppa Pig 24HRS¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34914
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34914
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]PERNALONGA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34915
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34915
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Phineas e Ferb[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34916
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34916
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]PICA PAU[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34917
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34917
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Pink-e-Cerebro[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34918
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34918
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Os Anjinhos - Rugrats[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34908
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34908
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]OS CAVALEIROS DO ZODIACO 24HRS¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34909
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34909
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]OS FLINTSTONES[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34910
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34910
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]OS MENOTTI #FIQUE EM CASA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/58487
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/58487
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]OS SIMPSONS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34911
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34911
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]OS SNORKS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/60775
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/60775
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Papa-Léguas[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34913
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34913
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]O Fantástico Mundo de Bobby[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34905
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34905
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]O MASKARA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34907
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34907
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]NARUTO 24HRS¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34903
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34903
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Naruto Shippuden DUB 24HRS¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34904
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34904
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Mr.Ben 24HRS¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34902
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34902
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Mortal Kombat[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34901
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34901
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Medabots[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34899
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34899
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]MALHAÇÃO 1999 [/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/60743
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/60743
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]LOUIE[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/60723
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/60723
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Luluzinha 24HRS¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34898
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34898
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Liga da Justica 24HRS¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34944
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34944
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Jack-Chan[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34894
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34894
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Jaspion[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34895
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34895
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]JESUS UM REINO SEM FRONTEIRA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/60724
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/60724
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]JIRAYA O Incrível Ninja[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34896
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34896
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]JOELMA #FIQUE EM CASA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/58491
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/58491
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Kenan e Kel[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34897
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34897
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]LADY NIGHT[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/60774
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/60774
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]LARGADOS E PELADOS A TRIBO[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/60773
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/60773
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Incrível Hulk[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34893
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34893
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]HOMEM ARANHA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34890
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34890
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Homem de Ferro[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34891
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34891
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]HOMEMS DE PRETO[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34892
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34892
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Hércules[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34888
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34888
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Historias Disney[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34889
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34889
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]He-Man[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34887
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34887
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]GRAN HOTEL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/60770
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/60770
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Denis o Pimentinha 24HRS¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34874
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34874
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Desenhos Biblicos 24HRS¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34875
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34875
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Desenhos Disney 24HRS¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34876
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34876
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Digimon 24HRS¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34877
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34877
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CAO CORAGEM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34869
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34869
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Breaking Bad 24HRS¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34868
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34868
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Galinha Pintadinha 24HRS¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34885
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34885
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]GALINHA PINTADINHA MINI[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/60726
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/60726
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Formiga Atómica[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34884
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34884
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Eu a Patroa e as Crianças[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34883
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34883
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Dois Homens e Meio[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34878
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34878
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Doug 24HRS¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34879
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34879
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]DR. STONE (ANIME)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/75548
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/75548
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]DRAGON BALL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34880
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34880
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]DRAGON BALL SUPER[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34881
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34881
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]DRAGON BALL Z 24HRS¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34882
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34882
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CHERNOBYL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/60771
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/60771
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CINE SESSÃO DA TARDE 24HRS³[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/60777
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/60777
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CHAVES DESENHO[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34873
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34873
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Bita e os Animais[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34943
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34943
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]BOB ESPONJA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34867
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34867
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]BEN 10[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34866
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34866
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]As Meninas Superpoderosas[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34865
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34865
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]ALADIN[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34864
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34864
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]3 Palavrinhas[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34941
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34941
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]A Feiticeira[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34948
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34948
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]A Grande Familia[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34942
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34942
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Formiga Atómica[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34884
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34884
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]He-Man[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34887
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34887
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Historias Disney[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34889
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34889
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Homem de Ferro[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34891
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34891
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Hércules[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34888
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34888
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Incrível Hulk[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34893
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34893
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Jack-Chan[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34894
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34894
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Jaspion[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34895
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34895
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Kenan e Kel[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34897
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34897
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Liga da Justica[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34944
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34944
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Luluzinha[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34898
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34898
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Medabots[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34899
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34899
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]MegaMan[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34900
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34900
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Mortal Kombat[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34901
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34901
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Mr.Ben[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34902
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34902
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Naruto Shippuden DUB[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34904
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34904
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]O Fantástico Mundo de Bobby[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34905
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34905
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Os Anjinhos - Rugrats[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34908
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34908
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Papa-Léguas[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34913
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34913
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Peppa Pig[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34914
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34914
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Phineas e Ferb[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34916
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34916
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Pink-e-Cerebro[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34918
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34918
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Smallville[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34923
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34923
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Sobrenatural[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34924
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34924
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Rambo[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34921
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34921
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Scooby-Doo[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34922
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34922
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]South Park[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34925
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34925
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Popeye O Marinheiro[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34920
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34920
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Steven Universe[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34926
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34926
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Tres Espias Demais[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34933
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34933
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Ursinhos Carinhos[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34936
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34936
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Vai Que Cola[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34946
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34946
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Xena[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34938
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34938
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Super Choque[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34947
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34947
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Superman[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34927
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34927
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]Tom & Jerry[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34932
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34932
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]TOM & JERRY CLASSICO[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/60776
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/60776
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]ZILLION[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/60744
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/60744
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]YU-GI-OH[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/63147
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/63147
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]YU-YU-Hakusho[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/63148
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/63148
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]TODO MUNDO ODEIA O CHRIS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34931
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34931
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]TARTARUGAS NINJAS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34928
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34928
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]TRAPALHÕES[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/60728
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/60728
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]SONIC THE HEDGEHOG[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/60730
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/60730
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]REALITY Z[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/60772
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/60772
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]POLLY POCKET[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/60722
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/60722
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]POKEMON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34919
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34919
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]PERNALONGA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34915
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34915
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]PICA PAU[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34917
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34917
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]PEGADINHAS AMERICANAS 2[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/60769
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/60769
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]PEPE LEGAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/60729
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/60729
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]OS SIMPSONS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34911
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34911
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]OS SNORKS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/60775
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/60775
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]OS CAVALEIROS DO ZODIACO[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34909
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34909
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]OS FLINTSTONES[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34910
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34910
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]O MASKARA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34907
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34907
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]NARUTO[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34903
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34903
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]MALHAÇÃO 1999 [/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/60743
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/60743
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]LOUIE[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/60723
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/60723
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]LADY NIGHT[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/60774
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/60774
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]LARGADOS E PELADOS A TRIBO[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/60773
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/60773
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]JIRAYA O Incrível Ninja[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34896
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34896
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]JESUS UM REINO SEM FRONTEIRA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/60724
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/60724
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]HOMEMS DE PRETO[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34892
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34892
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPVjjGx/TVs24hrs-SERVER1.png",[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]HOMEM ARANHA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/Rogeriotv/Rogerioadega/34890
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://propdsrv.com:80/altamiro1/7584017gh/34890
 
 
 
