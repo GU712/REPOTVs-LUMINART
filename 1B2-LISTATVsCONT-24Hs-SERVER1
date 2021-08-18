@@ -29,7 +29,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857327
 #EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]TODO MUNDO ODEIA O CHRIS 24HS[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857325
-#EXTINF:-1 tvg-id="" tvg-name="TOM &amp; JERRY 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]TOM &amp; JERRY 24HS[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="TOM &amp; JERRY 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]TOM E JERRY 24HS[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857326
 #EXTINF:-1 tvg-id="" tvg-name="THUNDERCATS 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]THUNDERCATS 24HS[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857323
@@ -49,8 +49,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857318
 #EXTINF:-1 tvg-id="" tvg-name="SCOOBY-DOO 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]SCOOBY-DOO 24HS[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857316
-#EXTINF:-1 tvg-id="" tvg-name="SHOP TIME HD ¹" tvg-logo="https://i.imgur.com/gZrh4Px.png" group-title="CANAIS | VARIEDADES",SHOP TIME HD ¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/856864
 #EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]SMALLVILLE 24HS[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857317
 #EXTINF:-1 tvg-id="" tvg-name="RAMBO 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]RAMBO 24HS[/B][/COLOR]
@@ -107,8 +105,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857286
 #EXTINF:-1 tvg-id="" tvg-name="HÉRCULES 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]HÉRCULES 24HS[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857282
-#EXTINF:-1 tvg-id="Ilha Record" tvg-name="ILHA RECORD HD ¹" tvg-logo="https://i.imgur.com/8Gm4iCY.png" group-title="CANAIS | REALITY SHOW",ILHA RECORD HD ¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/861217
 #EXTINF:-1 tvg-id="" tvg-name="INCRÍVEL HULK 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]INCRÍVEL HULK 24HS[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857287
 #EXTINF:-1 tvg-id="" tvg-name="HISTORIAS DISNEY 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]HISTORIAS DISNEY 24HS[/B][/COLOR]
