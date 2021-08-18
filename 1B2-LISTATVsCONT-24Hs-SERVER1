@@ -1,157 +1,157 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO1[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 #EXTINF:-1 tvg-id="" tvg-name="ANIME STATION SD" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]ANIME STATION SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/861964
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/861964
 #EXTINF:-1 tvg-id="" tvg-name="ANIME TV" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]ANIME TV[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/861963
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/861963
 #EXTINF:-1 tvg-id="" tvg-name="CAVERNA DO DRAGÃO 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]CAVERNA DO DRAGÃO 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857264
 #EXTINF:-1 tvg-id="" tvg-name="CHAPOLIN COLORADO 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]CHAPOLIN COLORADO 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857265
 #EXTINF:-1 tvg-id="" tvg-name="CHAVES 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]CHAVES 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857266
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857266
 #EXTINF:-1 tvg-id="" tvg-name="CHAVES DESENHO 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]CHAVES DESENHO 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857267
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857267
 #EXTINF:-1 tvg-id="" tvg-name="URSINHOS CARINHOS 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]URSINHOS CARINHOS 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857330
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857330
 #EXTINF:-1 tvg-id="" tvg-name="VAI QUE COLA 24HRS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]VAI QUE COLA 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857349
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857349
 #EXTINF:-1 tvg-id="" tvg-name="VAI QUE COLA 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]VAI QUE COLA 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857350
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857350
 #EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÇO 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]UM MALUCO NO PEDAÇO 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857328
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857328
 #EXTINF:-1 tvg-id="" tvg-name="UMA FAMÍLIA DA PESADA 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]UMA FAMÍLIA DA PESADA 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857329
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857329
 #EXTINF:-1 tvg-id="" tvg-name="TV MANCHETE" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]TV MANCHETE[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/861962
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/861962
 #EXTINF:-1 tvg-id="" tvg-name="TRES ESPIAS DEMAIS 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]TRES ESPIAS DEMAIS 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857327
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857327
 #EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]TODO MUNDO ODEIA O CHRIS 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857325
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857325
 #EXTINF:-1 tvg-id="" tvg-name="TOM &amp; JERRY 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]TOM &amp; JERRY 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857326
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857326
 #EXTINF:-1 tvg-id="" tvg-name="THUNDERCATS 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]THUNDERCATS 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857323
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857323
 #EXTINF:-1 tvg-id="" tvg-name="TIMAO E PUMBA 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]TIMAO E PUMBA 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857324
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857324
 #EXTINF:-1 tvg-id="" tvg-name="TARTARUGAS NINJAS 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]TARTARUGAS NINJAS 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857322
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857322
 #EXTINF:-1 tvg-id="" tvg-name="SUPER CHOQUE 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]SUPER CHOQUE 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857351
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857351
 #EXTINF:-1 tvg-id="" tvg-name="SUPERMAN 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]SUPERMAN 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857321
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857321
 #EXTINF:-1 tvg-id="" tvg-name="STEVEN UNIVERSE 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]STEVEN UNIVERSE 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857320
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857320
 #EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]SOUTH PARK 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857319
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857319
 #EXTINF:-1 tvg-id="" tvg-name="SOBRENATURAL 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]SOBRENATURAL 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857318
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857318
 #EXTINF:-1 tvg-id="" tvg-name="SCOOBY-DOO 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]SCOOBY-DOO 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857316
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857316
 #EXTINF:-1 tvg-id="" tvg-name="SHOP TIME HD ¹" tvg-logo="https://i.imgur.com/gZrh4Px.png" group-title="CANAIS | VARIEDADES",SHOP TIME HD ¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/856864
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/856864
 #EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]SMALLVILLE 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857317
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857317
 #EXTINF:-1 tvg-id="" tvg-name="RAMBO 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]RAMBO 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857315
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857315
 #EXTINF:-1 tvg-id="" tvg-name="POPEYE O MARINHEIRO 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]POPEYE O MARINHEIRO 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857314
 #EXTINF:-1 tvg-id="" tvg-name="PEPPA PIG 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]PEPPA PIG 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857308
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857308
 #EXTINF:-1 tvg-id="" tvg-name="PAPA-LÉGUAS 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]PAPA-LÉGUAS 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857307
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857307
 #EXTINF:-1 tvg-id="" tvg-name="OS ANJINHOS - RUGRATS 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]OS ANJINHOS - RUGRATS 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857302
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857302
 #EXTINF:-1 tvg-id="" tvg-name="OS CAVALEIROS DO ZODIACO 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]OS CAVALEIROS DO ZODIACO 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857303
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857303
 #EXTINF:-1 tvg-id="" tvg-name="OS FLINTSTONES 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]OS FLINTSTONES 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857304
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857304
 #EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]OS SIMPSONS 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857305
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857305
 #EXTINF:-1 tvg-id="" tvg-name="OS VINGADORES 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]OS VINGADORES 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857306
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857306
 #EXTINF:-1 tvg-id="" tvg-name="O FANTÁSTICO MUNDO DE BOBBY 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]O FANTÁSTICO MUNDO DE BOBBY 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857299
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857299
 #EXTINF:-1 tvg-id="" tvg-name="O INSPETOR 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]O INSPETOR 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857300
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857300
 #EXTINF:-1 tvg-id="" tvg-name="O MASKARA 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]O MASKARA 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857301
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857301
 #EXTINF:-1 tvg-id="" tvg-name="NARUTO 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]NARUTO 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857297
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857297
 #EXTINF:-1 tvg-id="" tvg-name="NARUTO SHIPPUDEN DUB 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]NARUTO SHIPPUDEN DUB 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857298
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857298
 #EXTINF:-1 tvg-id="" tvg-name="MORTAL KOMBAT 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]MORTAL KOMBAT 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857295
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857295
 #EXTINF:-1 tvg-id="" tvg-name="MR.BEN 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]MR.BEN 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857296
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857296
 #EXTINF:-1 tvg-id="" tvg-name="MEDABOTS 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]MEDABOTS 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857293
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857293
 #EXTINF:-1 tvg-id="" tvg-name="LULUZINHA 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]LULUZINHA 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857292
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857292
 #EXTINF:-1 tvg-id="" tvg-name="LIGA DA JUSTICA 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]LIGA DA JUSTICA 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857348
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857348
 #EXTINF:-1 tvg-id="" tvg-name="JACK-CHAN 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]JACK-CHAN 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857288
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857288
 #EXTINF:-1 tvg-id="" tvg-name="JASPION 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]JASPION 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857289
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857289
 #EXTINF:-1 tvg-id="" tvg-name="JIRAYA O INCRÍVEL NINJA 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]JIRAYA O INCRÍVEL NINJA 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857290
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857290
 #EXTINF:-1 tvg-id="" tvg-name="KENAN E KEL 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]KENAN E KEL 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857291
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857291
 #EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]HOMEM ARANHA 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857284
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857284
 #EXTINF:-1 tvg-id="" tvg-name="HOMEM DE FERRO 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]HOMEM DE FERRO 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857285
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857285
 #EXTINF:-1 tvg-id="" tvg-name="HOMEMS DE PRETO 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]HOMEMS DE PRETO 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857286
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857286
 #EXTINF:-1 tvg-id="" tvg-name="HÉRCULES 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]HÉRCULES 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857282
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857282
 #EXTINF:-1 tvg-id="Ilha Record" tvg-name="ILHA RECORD HD ¹" tvg-logo="https://i.imgur.com/8Gm4iCY.png" group-title="CANAIS | REALITY SHOW",ILHA RECORD HD ¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/861217
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/861217
 #EXTINF:-1 tvg-id="" tvg-name="INCRÍVEL HULK 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]INCRÍVEL HULK 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857287
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857287
 #EXTINF:-1 tvg-id="" tvg-name="HISTORIAS DISNEY 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]HISTORIAS DISNEY 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857283
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857283
 #EXTINF:-1 tvg-id="" tvg-name="HE-MAN 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]HE-MAN 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857281
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857281
 #EXTINF:-1 tvg-id="" tvg-name="GUARDIÕES DA GALAXIA 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]GUARDIÕES DA GALAXIA 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857280
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857280
 #EXTINF:-1 tvg-id="" tvg-name="GALINHA PINTADINHA 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]GALINHA PINTADINHA 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857279
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857279
 #EXTINF:-1 tvg-id="" tvg-name="FORMIGA ATÓMICA 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]FORMIGA ATÓMICA 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857278
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857278
 #EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANÇAS 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]EU A PATROA E AS CRIANÇAS 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857277
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857277
 #EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]DOIS HOMENS E MEIO 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857272
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857272
 #EXTINF:-1 tvg-id="" tvg-name="DOUG 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]DOUG 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857273
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857273
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]DRAGON BALL 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857274
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857274
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]DRAGON BALL SUPER 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857275
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857275
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]DRAGON BALL Z 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857276
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857276
 #EXTINF:-1 tvg-id="" tvg-name="DENIS O PIMENTINHA 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]DENIS O PIMENTINHA 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857268
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857268
 #EXTINF:-1 tvg-id="" tvg-name="DESENHOS BIBLICOS 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]DESENHOS BIBLICOS 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857269
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857269
 #EXTINF:-1 tvg-id="" tvg-name="DESENHOS DISNEY 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]DESENHOS DISNEY 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857270
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857270
 #EXTINF:-1 tvg-id="" tvg-name="DIGIMON 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]DIGIMON 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857271
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857271
 #EXTINF:-1 tvg-id="" tvg-name="CORRIDA MALUCA" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]CORRIDA MALUCA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857353
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857353
 #EXTINF:-1 tvg-id="" tvg-name="MEGAMAN 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]MEGAMAN 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857294
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Lua123/Lua123/857294
 #EXTINF:-1 tvg-id="" tvg-name="PERNALONGA 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]PERNALONGA 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Marquinhos/marquinhos/857309
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Marquinhos/marquinhos/857309
 #EXTINF:-1 tvg-id="" tvg-name="PHINEAS E FERB 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]PHINEAS E FERB 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Marquinhos/marquinhos/857310
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Marquinhos/marquinhos/857310
 #EXTINF:-1 tvg-id="" tvg-name="PICA PAU 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]PICA PAU 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Marquinhos/marquinhos/857311
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Marquinhos/marquinhos/857311
 #EXTINF:-1 tvg-id="" tvg-name="PINK-E-CEREBRO 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]PINK-E-CEREBRO 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Marquinhos/marquinhos/857312
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Marquinhos/marquinhos/857312
 #EXTINF:-1 tvg-id="" tvg-name="POKEMON 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]POKEMON 24HS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HHs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Marquinhos/marquinhos/857313
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://dazul.me:80/Marquinhos/marquinhos/857313
