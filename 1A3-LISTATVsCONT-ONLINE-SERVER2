@@ -31,15 +31,15 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Bu
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71770
 #EXTINF:-1 tvg-logo="http://a5.vc/Xun" ,[COLOR orange][B]LS-TVs-FILMES/SÉRIESS [COLOR yellow] -> [COLOR white]AMC SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71771
-#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]Animal Planet FHD [H265][/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Animal Planet FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71773
 #EXTINF:-1 tvg-logo="http://a5.vc/Sx8" ,[COLOR orange][B]LS-TVs-4K [COLOR yellow] -> [COLOR white]Animal Planet 4K FHDR[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71774
-#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]Animal Planet FHD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Animal Planet FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71772
-#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]Animal Planet HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Animal Planet HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71775
-#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]Animal Planet SD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Animal Planet SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71776
 #EXTINF:-1 tvg-logo="http://a5.vc/8lJ" ,[COLOR orange][B]LS-TVs-ESPN [COLOR yellow] -> [COLOR white]ESPN FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71920
@@ -81,15 +81,15 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Bu
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71917
 #EXTINF:-1 tvg-logo="http://a5.vc/i1l" ,[COLOR orange][B]LS-TVs-ESPN [COLOR yellow] -> [COLOR white]ESPN Extra SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71918
-#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]Arte 1 FHD [H265][/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Arte 1 FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71778
 #EXTINF:-1 tvg-logo="http://a5.vc/aDZ" ,[COLOR orange][B]LS-TVs-4K [COLOR yellow] -> [COLOR white]Arte 1 4K FHDR[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/103531
-#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]Arte 1 FHD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Arte 1 FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71777
-#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]Arte 1 HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Arte 1 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71779
-#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]Arte 1 SD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Arte 1 SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71780
 #EXTINF:-1 tvg-logo="http://a5.vc/dbM" ,[COLOR orange][B]LS-TVs-FILMES/SÉRIESS [COLOR yellow] -> [COLOR white]AXN FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71782
@@ -361,15 +361,15 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Bu
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71853
 #EXTINF:-1 tvg-logo="http://a5.vc/CyU" ,[COLOR orange][B]LS-TVs-ABERTOS [COLOR yellow] -> [COLOR white]Cultura SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71854
-#EXTINF:-1 tvg-logo="http://a5.vc/CyU" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]Curta FHD [H265][/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/CyU" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Curta FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71856
 #EXTINF:-1 tvg-logo="http://a5.vc/CyU" ,[COLOR orange][B]LS-TVs-4K [COLOR yellow] -> [COLOR white]Curta! 4K FHDR[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/103512
-#EXTINF:-1 tvg-logo="http://a5.vc/CyU" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]Curta FHD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/CyU" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Curta FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71855
-#EXTINF:-1 tvg-logo="http://a5.vc/CyU" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]Curta HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/CyU" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Curta HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71857
-#EXTINF:-1 tvg-logo="http://a5.vc/CyU" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]Curta SD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/CyU" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Curta SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71858
 #EXTINF:-1 tvg-logo="http://a5.vc/6qb" ,[COLOR orange][B]LS-TVs-PPV [COLOR yellow] -> [COLOR white]DAZN 1 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71860
@@ -451,15 +451,15 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Bu
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72260
 #EXTINF:-1 tvg-logo="http://a5.vc/77e" ,[COLOR orange][B]LS-TVs-PREMIERE [COLOR yellow] -> [COLOR white]Premiere 8 SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72261
-#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]Discovery Channel FHD [H265][/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Discovery Channel FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71863
 #EXTINF:-1 tvg-logo="http://a5.vc/Oj9" ,[COLOR orange][B]LS-TVs-4K [COLOR yellow] -> [COLOR white]Discovery Channel 4K FHDR[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71864
-#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]Discovery Channel FHD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Discovery Channel FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71862
-#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]Discovery Channel HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Discovery Channel HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71865
-#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]Discovery Channel SD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Discovery Channel SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71866
 #EXTINF:-1 tvg-logo="http://a5.vc/XcV" ,[COLOR orange][B]LS-TVs-VARIEDADES [COLOR yellow] -> [COLOR white]Discovery H&H FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71868
@@ -481,25 +481,25 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Bu
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71873
 #EXTINF:-1 tvg-logo="http://a5.vc/KvX" ,[COLOR orange][B]LS-TVs-INFANTIL [COLOR yellow] -> [COLOR white]Discovery Kids SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71874
-#EXTINF:-1 tvg-logo="http://a5.vc/0gi" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]Discovery Science FHD [H265][/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/0gi" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Discovery Science FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71876
 #EXTINF:-1 tvg-logo="http://a5.vc/0gi" ,[COLOR orange][B]LS-TVs-4K [COLOR yellow] -> [COLOR white]Discovery Science 4K FHDR[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/103511
-#EXTINF:-1 tvg-logo="http://a5.vc/0gi" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]Discovery Science FHD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/0gi" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Discovery Science FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71875
-#EXTINF:-1 tvg-logo="http://a5.vc/0gi" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]Discovery Science HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/0gi" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Discovery Science HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71877
-#EXTINF:-1 tvg-logo="http://a5.vc/0gi" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]Discovery Science SD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/0gi" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Discovery Science SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71878
-#EXTINF:-1 tvg-logo="http://a5.vc/Nib" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]Discovery Theater FHD [H265][/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/Nib" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Discovery Theater FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71880
 #EXTINF:-1 tvg-logo="http://a5.vc/Nib" ,[COLOR orange][B]LS-TVs-4K [COLOR yellow] -> [COLOR white]Discovery Theater 4K FHDR[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/103510
-#EXTINF:-1 tvg-logo="http://a5.vc/Nib" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]Discovery Theater FHD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/Nib" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Discovery Theater FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71879
-#EXTINF:-1 tvg-logo="http://a5.vc/Nib" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]Discovery Theater HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/Nib" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Discovery Theater HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71881
-#EXTINF:-1 tvg-logo="http://a5.vc/Nib" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]Discovery Theater SD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/Nib" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Discovery Theater SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71882
 #EXTINF:-1 tvg-logo="http://a5.vc/uCQ" ,[COLOR orange][B]LS-TVs-VARIEDADES [COLOR yellow] -> [COLOR white]Discovery Turbo FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71884
@@ -511,15 +511,15 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Bu
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71885
 #EXTINF:-1 tvg-logo="http://a5.vc/uCQ" ,[COLOR orange][B]LS-TVs-VARIEDADES [COLOR yellow] -> [COLOR white]Discovery Turbo SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71886
-#EXTINF:-1 tvg-logo="http://a5.vc/wgC" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]Discovery World FHD [H265][/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/wgC" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Discovery World FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71888
 #EXTINF:-1 tvg-logo="http://a5.vc/wgC" ,[COLOR orange][B]LS-TVs-4K [COLOR yellow] -> [COLOR white]Discovery World 4K FHDR[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/103509
-#EXTINF:-1 tvg-logo="http://a5.vc/wgC" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]Discovery World FHD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/wgC" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Discovery World FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71887
-#EXTINF:-1 tvg-logo="http://a5.vc/wgC" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]Discovery World HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/wgC" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Discovery World HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71889
-#EXTINF:-1 tvg-logo="http://a5.vc/wgC" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]Discovery World SD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/wgC" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Discovery World SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71890
 #EXTINF:-1 tvg-logo="http://a5.vc/MJq" ,[COLOR orange][B]LS-TVs-INFANTIL [COLOR yellow] -> [COLOR white]Disney Channel FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/71892
@@ -1089,15 +1089,15 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Bu
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72104
 #EXTINF:-1 tvg-logo="http://a5.vc/scT" ,[COLOR orange][B]LS-TVs-VARIEDADES [COLOR yellow] -> [COLOR white]GNT SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72105
-#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]H2 FHD [H265][/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]H2 FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72107
 #EXTINF:-1 tvg-logo="http://a5.vc/Zwg" ,[COLOR orange][B]LS-TVs-4K [COLOR yellow] -> [COLOR white]H2 4K FHDR[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/90245
-#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]H2 FHD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]H2 FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72106
-#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]H2 HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]H2 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72108
-#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]H2 SD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]H2 SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72109
 #EXTINF:-1 tvg-logo="http://a5.vc/0qQ" ,[COLOR orange][B]LS-TVs-HBO [COLOR yellow] -> [COLOR white]HBO 2 FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72111
@@ -1215,35 +1215,35 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Bu
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72141
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" ,[COLOR orange][B]LS-TVs-LEGENDADOS [COLOR yellow] -> [COLOR white]HBO Xtreme SD [LEG][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/90681
-#EXTINF:-1 tvg-logo="http://a5.vc/nug" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]HGTV FHD [H265][/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/nug" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]HGTV FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72143
 #EXTINF:-1 tvg-logo="http://a5.vc/nug" ,[COLOR orange][B]LS-TVs-4K [COLOR yellow] -> [COLOR white]HGTV 4K FHDR[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/103493
-#EXTINF:-1 tvg-logo="http://a5.vc/nug" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]HGTV FHD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/nug" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]HGTV FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72142
-#EXTINF:-1 tvg-logo="http://a5.vc/nug" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]HGTV HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/nug" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]HGTV HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72144
-#EXTINF:-1 tvg-logo="http://a5.vc/nug" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]HGTV SD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/nug" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]HGTV SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72145
-#EXTINF:-1 tvg-logo="http://a5.vc/VE2" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]History FHD [H265][/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/VE2" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]History FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72147
 #EXTINF:-1 tvg-logo="http://a5.vc/VE2" ,[COLOR orange][B]LS-TVs-4K [COLOR yellow] -> [COLOR white]History 4K FHDR[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/90244
-#EXTINF:-1 tvg-logo="http://a5.vc/VE2" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]History FHD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/VE2" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]History FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72146
-#EXTINF:-1 tvg-logo="http://a5.vc/VE2" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]History HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/VE2" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]History HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72148
-#EXTINF:-1 tvg-logo="http://a5.vc/VE2" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]History SD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/VE2" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]History SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72149
-#EXTINF:-1 tvg-logo="http://a5.vc/53O" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]ID FHD [H265][/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/53O" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]ID FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72151
 #EXTINF:-1 tvg-logo="http://a5.vc/53O" ,[COLOR orange][B]LS-TVs-4K [COLOR yellow] -> [COLOR white]ID 4K FHDR[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/90243
-#EXTINF:-1 tvg-logo="http://a5.vc/53O" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]ID FHD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/53O" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]ID FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72150
-#EXTINF:-1 tvg-logo="http://a5.vc/53O" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]ID HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/53O" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]ID HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72152
-#EXTINF:-1 tvg-logo="http://a5.vc/53O" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]ID SD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/53O" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]ID SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72153
 #EXTINF:-1 tvg-logo="http://a5.vc/ecn" ,[COLOR orange][B]LS-TVs-VARIEDADES [COLOR yellow] -> [COLOR white]Lifetime FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72155
@@ -1277,7 +1277,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Bu
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/104922
 #EXTINF:-1 tvg-logo="" ,[COLOR orange][B]LS-TVs-INFANTIL [COLOR yellow] -> [COLOR white]Loading TV SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/89700
-#EXTINF:-1 tvg-logo="" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]Love Nature FHD [H265][/B][/COLOR]
+#EXTINF:-1 tvg-logo="" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Love Nature FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/73004
 #EXTINF:-1 tvg-logo="http://a5.vc/e5K" ,[COLOR orange][B]LS-TVs-VARIEDADES [COLOR yellow] -> [COLOR white]Mais na Tela FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72163
@@ -1379,25 +1379,25 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Bu
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72190
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/natgeokids.png" ,[COLOR orange][B]LS-TVs-INFANTIL [COLOR yellow] -> [COLOR white]Nat Geo Kids SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72191
-#EXTINF:-1 tvg-logo="http://a5.vc/ouq" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]Nat Geo Wild FHD [H265][/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/ouq" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Nat Geo Wild FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72193
 #EXTINF:-1 tvg-logo="http://a5.vc/ouq" ,[COLOR orange][B]LS-TVs-4K [COLOR yellow] -> [COLOR white]Nat Geo Wild 4K FHDR[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/90242
-#EXTINF:-1 tvg-logo="http://a5.vc/ouq" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]Nat Geo Wild FHD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/ouq" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Nat Geo Wild FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72192
-#EXTINF:-1 tvg-logo="http://a5.vc/ouq" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]Nat Geo Wild HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/ouq" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Nat Geo Wild HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72194
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/natgeokids.png" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]Nat Geo Wild SD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/natgeokids.png" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Nat Geo Wild SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72195
-#EXTINF:-1 tvg-logo="http://a5.vc/zO2" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]National Geographic FHD [H265][/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/zO2" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]National Geographic FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72197
 #EXTINF:-1 tvg-logo="http://a5.vc/zO2" ,[COLOR orange][B]LS-TVs-4K [COLOR yellow] -> [COLOR white]National Geographic 4K FHDR[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72198
-#EXTINF:-1 tvg-logo="http://a5.vc/zO2" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]National Geographic FHD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/zO2" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]National Geographic FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72196
-#EXTINF:-1 tvg-logo="http://a5.vc/zO2" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]National Geographic HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/zO2" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]National Geographic HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72199
-#EXTINF:-1 tvg-logo="http://a5.vc/zO2" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]National Geographic SD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://a5.vc/zO2" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]National Geographic SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72200
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" ,[COLOR orange][B]LS-TVs-INFANTIL [COLOR yellow] -> [COLOR white]Nickelodeon FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72206
@@ -1923,11 +1923,11 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Bu
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72392
 #EXTINF:-1 tvg-logo="http://a5.vc/4vg" ,[COLOR orange][B]LS-TVs-VARIEDADES [COLOR yellow] -> [COLOR white]Travel Box Brazil SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72393
-#EXTINF:-1 tvg-logo="http://cdn99.one:80/images/a34029a486c85185ec68bcc24872f728.png" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]TruTV FHD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://cdn99.one:80/images/a34029a486c85185ec68bcc24872f728.png" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]TruTV FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/76668
-#EXTINF:-1 tvg-logo="http://cdn99.one:80/images/a34029a486c85185ec68bcc24872f728.png" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]TruTV HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://cdn99.one:80/images/a34029a486c85185ec68bcc24872f728.png" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]TruTV HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/76669
-#EXTINF:-1 tvg-logo="http://cdn99.one:80/images/a34029a486c85185ec68bcc24872f728.png" ,[COLOR orange][B]LS-TVs-DOCUMENÁRIOS [COLOR yellow] -> [COLOR white]TruTV SD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://cdn99.one:80/images/a34029a486c85185ec68bcc24872f728.png" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]TruTV SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/76670
 #EXTINF:-1 tvg-logo="" ,[COLOR orange][B]LS-TVs-VARIEDADES [COLOR yellow] -> [COLOR white]TV5 Monde SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/72418
