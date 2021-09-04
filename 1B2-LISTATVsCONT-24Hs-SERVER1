@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YPRb6GH/TVs-24-HRs-SERV-1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5r8V5CN/TVs-ONLINE-SERVER1.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]101 Dalmatas[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://lxls.mx:80/Sergio/Sergio123/66934
