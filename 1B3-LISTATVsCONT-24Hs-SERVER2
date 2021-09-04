@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L6tbqYp/oficialtvonline.png",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 #EXTINF:-1 tvg-logo="http://a5.vc/84v" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]3 Palavrinhas[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs 24 HRs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/47459.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs 24 HRs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/47459
 #EXTINF:-1 tvg-logo="http://a5.vc/IJJ" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]101 Dalmatas[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs 24 HRs [COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR]&amp;url=http://b5.vc:80/aerton/123/47458.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/K1n" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]A Bruxinha Sabrina[/B][/COLOR]
