@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HtC5KrZ/ESP-FAZENDA.png",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 " tvg-logo="https://pbs.twimg.com/media/E8osYoJXIAo1Jk5.jpg" ,[COLOR orange][B]LS-TVs -  REALITY SHOW [COLOR yellow] -> [COLOR white]A FAZENDA 13[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://dns.ahbd.xyz:80/ronaldo31/ronaldo31/876374
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA SINAL 1" tvg-logo="https://pbs.twimg.com/media/E8osYoJXIAo1Jk5.jpg" ,[COLOR orange][B]LS-TVs -  REALITY SHOW [COLOR yellow] -> [COLOR white]A FAZENDA SINAL 1[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://dns.ahbd.xyz:80/ronaldo31/ronaldo31/878913
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA SINAL 2" tvg-logo="https://pbs.twimg.com/media/E8osYoJXIAo1Jk5.jpg" ,[COLOR orange][B]LS-TVs -  REALITY SHOW [COLOR yellow] -> [COLOR white]A FAZENDA SINAL 2[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://dns.ahbd.xyz:80/ronaldo31/ronaldo31/878912
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA SINAL 3" tvg-logo="https://pbs.twimg.com/media/E8osYoJXIAo1Jk5.jpg" ,[COLOR orange][B]LS-TVs -  REALITY SHOW [COLOR yellow] -> [COLOR white]A FAZENDA SINAL 3[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://dns.ahbd.xyz:80/ronaldo31/ronaldo31/878911
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA SINAL 4" tvg-logo="https://pbs.twimg.com/media/E8osYoJXIAo1Jk5.jpg" ,[COLOR orange][B]LS-TVs -  REALITY SHOW [COLOR yellow] -> [COLOR white]A FAZENDA SINAL 4[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://dns.ahbd.xyz:80/ronaldo31/ronaldo31/878910
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA SINAL 5" tvg-logo="https://pbs.twimg.com/media/E8osYoJXIAo1Jk5.jpg" ,[COLOR orange][B]LS-TVs -  REALITY SHOW [COLOR yellow] -> [COLOR white]A FAZENDA SINAL 5[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://dns.ahbd.xyz:80/ronaldo31/ronaldo31/878909
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA SINAL 6" tvg-logo="https://pbs.twimg.com/media/E8osYoJXIAo1Jk5.jpg" ,[COLOR orange][B]LS-TVs -  REALITY SHOW [COLOR yellow] -> [COLOR white]A FAZENDA SINAL 6[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://dns.ahbd.xyz:80/ronaldo31/ronaldo31/878908
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA SINAL 7" tvg-logo="https://pbs.twimg.com/media/E8osYoJXIAo1Jk5.jpg" ,[COLOR orange][B]LS-TVs -  REALITY SHOW [COLOR yellow] -> [COLOR white]A FAZENDA SINAL 7[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://dns.ahbd.xyz:80/ronaldo31/ronaldo31/878907
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA SINAL 8" tvg-logo="https://pbs.twimg.com/media/E8osYoJXIAo1Jk5.jpg" ,[COLOR orange][B]LS-TVs -  REALITY SHOW [COLOR yellow] -> [COLOR white]A FAZENDA SINAL 8[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=99999&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR]&amp;url=http://dns.ahbd.xyz:80/ronaldo31/ronaldo31/878906
