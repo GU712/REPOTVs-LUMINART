@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" ,[COLOR orange][B]LS-TVs-VARIEDADES [COLOR yellow] -> [COLOR white]A&E FHD [H265][/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://b5.vc:80/willia10/10willia/71761&amp;streamtype=TSDOWNLOADER&amp;name=A&E
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" ,[COLOR orange][B]LS-TVs-VARIEDADES [COLOR yellow] -> [COLOR white]Animal Planet HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://b5.vc:80/willia10/10willia/71775&amp;streamtype=TSDOWNLOADER&amp;name=Animal Planet HD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KXR7YHJ/TVs-ONLINE-SERV-LS.png",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
