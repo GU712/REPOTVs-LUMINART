@@ -1,150 +1,318 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wy1v0j6/TVs-24-HRs-SERV-4.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
-#EXTINF:-1 tvg-id="" tvg-name="THE BIG BANG THEORY" tvg-logo="https.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/828px-TBBT_logo.svg.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]THE BIG BANG THEORY[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31632
-#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f744e4566e9a28722b080de69d866117.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]TOM E JERRY[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31633
-#EXTINF:-1 tvg-id="" tvg-name="3 ESPIÃS DEMAIS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6ba2d2b3be6f6d3e11e124689cd6eeda.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]3 ESPIÃS DEMAIS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31634
-#EXTINF:-1 tvg-id="" tvg-name="3 PALAVRINHAS" tvg-logo="http://51.222.46.117:80/images/d29e01bdf86931eee9dde4aad25d1940.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]3 PALAVRINHAS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31635
-#EXTINF:-1 tvg-id="" tvg-name="A TURMA DO ZÉ COLMÉIA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d66b0807811d337f160c70e097fac514.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]A TURMA DO ZÉ COLMÉIA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31636
-#EXTINF:-1 tvg-id="" tvg-name="A PANTERA COR-DE-ROSA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d3b3f9870ecfbaab197d185e3dffcbf3.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]A PANTERA COR-DE-ROSA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31637
-#EXTINF:-1 tvg-id="" tvg-name="A PEQUENA SEREIA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1b224e130823455abb643cf883670136.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]A PEQUENA SEREIA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31638
-#EXTINF:-1 tvg-id="" tvg-name="A PEQUENA SEREIA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e3cd80584c24e0d13b92c3aefe23cc9e.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]A PEQUENA SEREIA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31639
-#EXTINF:-1 tvg-id="" tvg-name="A TURMA DO MANDA CHUVA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/0ec7cb71407c1f3658fd4e5d68e1e338.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]A TURMA DO MANDA CHUVA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31640
-#EXTINF:-1 tvg-id="" tvg-name="A VACA E O FRANGO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/84ef4c6bd83ecbf8af993f267253d4c6.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]A VACA E O FRANGO[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31641
-#EXTINF:-1 tvg-id="" tvg-name="ALADDIN" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1833c616f990bfac10d5d974dde4aeca.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]ALADDIN[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31642
-#EXTINF:-1 tvg-id="" tvg-name="ALF O ETEIMOSO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2524d198575514a830d822df724956ab.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]ALF, O ETEIMOSO[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31643
-#EXTINF:-1 tvg-id="" tvg-name="ANIMANIACS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2fc2cd454b298b9dd75ec51d96f5b240.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]ANIMANIACS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31644
-#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DE JACKIE CHAN" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7694fe663ca6088d31b1c5d4c41241d6.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]AS AVENTURAS DE JACKIE CHAN[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31645
-#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DE JACKIE CHAN" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4db0898370772dca680985d491b62ab5.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]AS AVENTURAS DE JACKIE CHAN[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31646
-#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DE TINTIM" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a87ff679a2f3e71d9181a67b7542122c.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]AS AVENTURAS DE TINTIM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31647
-#EXTINF:-1 tvg-id="" tvg-name="AS MENINAS SUPERPODEROSAS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/0a4c421bf2c440dad9d22ef167b84144.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]AS MENINAS SUPERPODEROSAS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31648
-#EXTINF:-1 tvg-id="" tvg-name="AS TARTARUGAS NINJAS" tvg-logo="http://51.222.46.117:80/images/92eb5ffee6ae2fec3ad71c777531578f.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]AS TARTARUGAS NINJAS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31649
-#EXTINF:-1 tvg-id="" tvg-name="BABY LOONEY TUNES" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ed12c257767a00883d0dbd28760ee52b.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]BABY LOONEY TUNES[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31650
-#EXTINF:-1 tvg-id="" tvg-name="BABY LOONEY TUNES" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ed12c257767a00883d0dbd28760ee52b.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]BABY LOONEY TUNES[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31651
-#EXTINF:-1 tvg-id="" tvg-name="BATMAN - SÉRIE ANIMADA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2b1b4086ebb6b4792ecb6b7d7069b669.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]BATMAN - SÉRIE ANIMADA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31652
-#EXTINF:-1 tvg-id="" tvg-name="BEN 10" tvg-logo="http://xcui.vitvabc.xyz:8880/images/891a36d72ddc473d7b3ffd60ccbe5feb.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]BEN 10[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31653
-#EXTINF:-1 tvg-id="" tvg-name="BEN 10 (2005)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/891a36d72ddc473d7b3ffd60ccbe5feb.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]BEN 10 (2005)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31654
-#EXTINF:-1 tvg-id="" tvg-name="BEN 10 OMNIVERSE" tvg-logo="http://xcui.vitvabc.xyz:8880/images/743ef1919b055d34e6853441bfbb0539.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]BEN 10 OMNIVERSE[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31655
-#EXTINF:-1 tvg-id="" tvg-name="BIBO PAI E BOBI FILHO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c51ce410c124a10e0db5e4b97fc2af39.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]BIBO PAI E BOBI FILHO[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31656
-#EXTINF:-1 tvg-id="" tvg-name="BANANAS DE PIJAMAS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/aeae9c93435441532b491274bec4ac0d.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]BANANAS DE PIJAMAS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31657
-#EXTINF:-1 tvg-id="" tvg-name="OS THUNDERMANS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/acdade66e20643aec134735e88515b6f.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]OS THUNDERMANS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31658
-#EXTINF:-1 tvg-id="" tvg-name="BLACK KAMEN RIDER" tvg-logo="http://xcui.vitvabc.xyz:8880/images/743494af01eea667e0abfa5d5953454e.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]BLACK KAMEN RIDER[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31659
-#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/80176ad2631747fe693d79962c1b125c.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]BOB ESPONJA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31660
-#EXTINF:-1 tvg-id="" tvg-name="BOB ZOOM" tvg-logo="http://51.222.46.117:80/images/69d8642942fde75978bf8d13941beb33.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]BOB ZOOM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31661
-#EXTINF:-1 tvg-id="" tvg-name="AS MENINAS SUPER PODEROSAS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4250d382c26189c8daeb6b82e4d62168.jpg" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]AS MENINAS SUPER PODEROSAS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31662
-#EXTINF:-1 tvg-id="" tvg-name="BREAKING BAD ¹" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1806c6bb3f965fea97d25f3320d86c96.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]BREAKING BAD ¹[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31663
-#EXTINF:-1 tvg-id="" tvg-name="LULUZINHA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/8105e79955380bfa43fa8b26d9d93c9c.jpg" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]LULUZINHA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31664
-#EXTINF:-1 tvg-id="" tvg-name="CARANGOS E MOTOCAS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6c9a9d750f55b34fb8d64300e50da0e1.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CARANGOS E MOTOCAS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31665
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO MICKEY" tvg-logo="http://xcui.vitvabc.xyz:8880/images/48bc7a304d9b07944676a40d287cfc89.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CASA DO MICKEY[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31666
-#EXTINF:-1 tvg-id="" tvg-name="SCOOBY DOO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3efa1550342fbbedee17d4935d43d0e2.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]SCOOBY DOO[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31667
-#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS DO ZODÍACO - BATALHA DAS 12 CASAS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/eeffb0e3c3754c7941d6cdef845b71eb.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CAVALEIROS DO ZODÍACO - BATALHA DAS 12 CASAS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31668
-#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS DO ZODÍACO - SAGA DE ASGARD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/eeffb0e3c3754c7941d6cdef845b71eb.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CAVALEIROS DO ZODÍACO - SAGA DE ASGARD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31669
-#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS DO ZODÍACO - SAGA DE HADES" tvg-logo="http://xcui.vitvabc.xyz:8880/images/eeffb0e3c3754c7941d6cdef845b71eb.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CAVALEIROS DO ZODÍACO - SAGA DE HADES[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31670
-#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS DO ZODÍACO - SAGA DE POSEIDON" tvg-logo="http://xcui.vitvabc.xyz:8880/images/eeffb0e3c3754c7941d6cdef845b71eb.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CAVALEIROS DO ZODÍACO - SAGA DE POSEIDON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31671
-#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS DO ZODÍACO - SAGA SANTUÁRIO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/eeffb0e3c3754c7941d6cdef845b71eb.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CAVALEIROS DO ZODÍACO - SAGA SANTUÁRIO[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31672
-#EXTINF:-1 tvg-id="" tvg-name="CAVALO DE FOGO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/254e05c746c7ac24b0b66be67739d74c.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CAVALO DE FOGO[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31673
-#EXTINF:-1 tvg-id="" tvg-name="CAVERNA DO DRAGÃO" tvg-logo="http://51.222.46.117:80/images/5937bd9505234b866fa7e40b3cc52d63.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CAVERNA DO DRAGÃO[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31674
-#EXTINF:-1 tvg-id="" tvg-name="CHAPOLIN" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b5bf77c52a20f81917e9e7d31693a24a.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CHAPOLIN[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31675
-#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="http://xcui.vitvabc.xyz:8880/images/11fa22bd9c5aa4a0e7f769edb69122d4.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CHAVES[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31676
-#EXTINF:-1 tvg-id="" tvg-name="CHAVES DESENHO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/192cac41ceec2363f2afc18724147cc7.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CHAVES DESENHO[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31677
-#EXTINF:-1 tvg-id="" tvg-name="Os Padrinhos Mágicos" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=https://e7.pngegg.com/pngimages/637/575/png-clipart-nickelodeon-cosmo-and-wanda-cosma-cartoon-drawing-others-nickelodeon-cosmo-thumbnail.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]OS PADRINHOS MÁGICOS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31678
-#EXTINF:-1 tvg-id="" tvg-name="COMÉDIA SELVAGEM" tvg-logo="http://xcui.vitvabc.xyz:8880/images/62dfe069c44d5ef285458c75d0534a1a.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]COMÉDIA SELVAGEM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31679
-#EXTINF:-1 tvg-id="" tvg-name="CORAGEM CAO COVARDE" tvg-logo="http://51.222.46.117:80/images/b040df6b4facc3c57e6526ae7104fc75.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CORAGEM CAO COVARDE[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31680
-#EXTINF:-1 tvg-id="" tvg-name="DE VOLTA PARA O FUTURO" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=https://storage.googleapis.com/makestories-202705.appspot.com/ffl7lHjirxRYJVyxQBpUO3aHKc32/unnamed.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]DE VOLTA PARA O FUTURO[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31681
-#EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5608df94701fcf43bc0f55de64ac4326.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]DOIS HOMENS E MEIO[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31684
-#EXTINF:-1 tvg-id="" tvg-name="DRAKE E JOSH" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4257b5c849c9f8ea85e794dbbcab19be.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]DRAKE E JOSH[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31690
-#EXTINF:-1 tvg-id="" tvg-name="EU SOU O MÁXIMO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/47dfca17be4cefdef16507bccdd3da51.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]EU SOU O MÁXIMO[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31695
-#EXTINF:-1 tvg-id="" tvg-name="GARFIELD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4f9954f43d09c7cf43eda125ab2c2fac.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]GARFIELD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31702
-#EXTINF:-1 tvg-id="" tvg-name="KIDS TV" tvg-logo="http://xcui.vitvabc.xyz:8880/images/8709d9cbe5fab7eb90889fcbcc151dc3.jpg" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]KIDS TV[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31703
-#EXTINF:-1 tvg-id="" tvg-name="ICARLY" tvg-logo="http://xcui.vitvabc.xyz:8880/images/cea75a97186309c6d7ab71f8ac7c2a6e.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]ICARLY[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31708
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON GOSPEL" tvg-logo="http://xcui.vitvabc.xyz:8880/images/dbe85364ea51ae6a8da6a886a2664bd6.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]CARTOON GOSPEL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31713
-#EXTINF:-1 tvg-id="" tvg-name="LOONEY TUNES" tvg-logo="http://xcui.vitvabc.xyz:8880/images/85efe2bad551cde78e8bdaf1ca4ece5f.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]LOONEY TUNES[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31720
-#EXTINF:-1 tvg-id="" tvg-name="LOONEY TUNES" tvg-logo="http://51.222.46.117:80/images/84b082dc612d8ad6dfc36b8816411097.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]LOONEY TUNES[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31721
-#EXTINF:-1 tvg-id="" tvg-name="MASHA E O URSO" tvg-logo="http://51.222.46.117:80/images/a110f681be78953084a356d784f45452.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]MASHA E O URSO[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31724
-#EXTINF:-1 tvg-id="" tvg-name="O INCRÍVEL MUNDO DE GUMBALL" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1b4ab133f91ccf9dffff2e2b45703545.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]O INCRÍVEL MUNDO DE GUMBALL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31731
-#EXTINF:-1 tvg-id="" tvg-name="OS JOVENS TITÃS EM AÇÃO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c4ca4238a0b923820dcc509a6f75849b.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]OS JOVENS TITÃS EM AÇÃO[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31740
-#EXTINF:-1 tvg-id="" tvg-name="OS SMURFS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/edb19479cf3a345fee911161d15a239e.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]OS SMURFS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31742
-#EXTINF:-1 tvg-id="" tvg-name="PATRULHA CANINA 24H" tvg-logo="http://xcui.vitvabc.xyz:8880/images/69addbc18c14ec75f0a18aa8011f4ae3.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]PATRULHA CANINA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31746
-#EXTINF:-1 tvg-id="" tvg-name="A CASA DO MICKEY MOUSE" tvg-logo="http://xcui.vitvabc.xyz:8880/images/40d71e919d1e9926c770485c9cac49a9.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]A CASA DO MICKEY MOUSE[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31748
-#EXTINF:-1 tvg-id="" tvg-name="POWER RANGERS" tvg-logo="http://51.222.46.117:80/images/c2b931974cdc4dd161c379f017226ed9.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]POWER RANGERS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31754
-#EXTINF:-1 tvg-id="" tvg-name="DIGIMON" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6dff8967dfdc2e0be6133c0a8d50a932.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]DIGIMON[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31757
-#EXTINF:-1 tvg-id="" tvg-name="SOBRENATURAL" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5cafad622865c953ef43ebd7f03df760.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]SOBRENATURAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31758
-#EXTINF:-1 tvg-id="" tvg-name="STREET FIGTHER" tvg-logo="http://51.222.46.117:80/images/0bd31b0cda59de051da19a00510db7cf.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]STREET FIGTHER[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31761
-#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e6e328104ef8a6a9d8315d8725a654e0.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]TODO MUNDO ODEIA O CHRIS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31765
-#EXTINF:-1 tvg-id="" tvg-name="FÁBULAS DA DISNEY" tvg-logo="http://xcui.vitvabc.xyz:8880/images/092d101c0e0fcea0deece1a0565016a4.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]FÁBULAS DA DISNEY[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31768
-#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÇO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1effbf1c22863c5e9203c1ad008f7a1d.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]UM MALUCO NO PEDAÇO[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31769
-#EXTINF:-1 tvg-id="" tvg-name="X-MAN" tvg-logo="http://xcui.vitvabc.xyz:8880/images/25dc76de6c416e9732864928e82c6fb7.png" ,[COLOR orange][B]LS - 24 HRs[COLOR yellow] -> [COLOR white]X-MAN[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31773
 
+#EXTINF:-1 tvg-id="" tvg-name="24H TRAPALHOES" tvg-logo="GOIABA://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" ,[COLOR orange][B]LS-TVs-PROGRAMAS 24 HORAS [COLOR yellow] -> [COLOR white]24H TRAPALHOES[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/925583
+#EXTINF:-1 tvg-id="" tvg-name="24H TESTE DE FIDELIDADE" tvg-logo="MAXIXE.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" ,[COLOR orange][B]LS-TVs-PROGRAMAS 24 HORAS [COLOR yellow] -> [COLOR white]24H TESTE DE FIDELIDADE[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/925584
+#EXTINF:-1 tvg-id="" tvg-name="24H ACUMULADORES" tvg-logo="MAXIXE.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" ,[COLOR orange][B]LS-TVs-PROGRAMAS 24 HORAS [COLOR yellow] -> [COLOR white]24H ACUMULADORES[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/925586
+#EXTINF:-1 tvg-id="" tvg-name="24H VIDEO CASSETADAS" tvg-logo="MAXIXE.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" ,[COLOR orange][B]LS-TVs-PROGRAMAS 24 HORAS [COLOR yellow] -> [COLOR white]24H VIDEO CASSETADAS[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/925587
+#EXTINF:-1 tvg-id="" tvg-name="24H IRMAOS A OBRA" tvg-logo="MAXIXE.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" ,[COLOR orange][B]LS-TVs-PROGRAMAS 24 HORAS [COLOR yellow] -> [COLOR white]24H IRMAOS A OBRA[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/925588
+#EXTINF:-1 tvg-id="" tvg-name="24H PESADELO NA COZINHA" tvg-logo="MAXIXE.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" ,[COLOR orange][B]LS-TVs-PROGRAMAS 24 HORAS [COLOR yellow] -> [COLOR white]24H PESADELO NA COZINHA[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/925589
+#EXTINF:-1 tvg-id="" tvg-name="24H STAND UP DANILO GENTILI" tvg-logo="MAXIXE.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" ,[COLOR orange][B]LS-TVs-PROGRAMAS 24 HORAS [COLOR yellow] -> [COLOR white]24H STAND UP DANILO GENTILI[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/925590
+#EXTINF:-1 tvg-id="" tvg-name="24H EU A PATROA E AS CRIANÇAS" tvg-logo="MAXIXE.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" ,[COLOR orange][B]LS-TVs-PROGRAMAS 24 HORAS [COLOR yellow] -> [COLOR white]24H EU A PATROA E AS CRIANÇAS[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/925592
+#EXTINF:-1 tvg-id="" tvg-name="24H VAI QUE COLA" tvg-logo="MAXIXE.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" ,[COLOR orange][B]LS-TVs-PROGRAMAS 24 HORAS [COLOR yellow] -> [COLOR white]24H VAI QUE COLA[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/925593
+#EXTINF:-1 tvg-id="" tvg-name="24H TRATO FEITO" tvg-logo="MAXIXE.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" ,[COLOR orange][B]LS-TVs-PROGRAMAS 24 HORAS [COLOR yellow] -> [COLOR white]24H TRATO FEITO[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/925594
+#EXTINF:-1 tvg-id="" tvg-name="24H MYTBUSTER CAÇADORES DE MITOS" tvg-logo="MAXIXE.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" ,[COLOR orange][B]LS-TVs-PROGRAMAS 24 HORAS [COLOR yellow] -> [COLOR white]24H MYTBUSTER CAÇADORES DE MITOS[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/925595
+#EXTINF:-1 tvg-id="" tvg-name="24H PRONTO SOCORRO HISTORIAS DE EMERGENCIA" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-PROGRAMAS 24 HORAS [COLOR yellow] -> [COLOR white]24H PRONTO SOCORRO HISTORIAS DE EMERGENCIA[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/925596
+#EXTINF:-1 tvg-id="" tvg-name="24H POLICIA 24 HORAS" tvg-logo="MAXIXE.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" ,[COLOR orange][B]LS-TVs-PROGRAMAS 24 HORAS [COLOR yellow] -> [COLOR white]24H POLICIA 24 HORAS[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/925597
+#EXTINF:-1 tvg-id="" tvg-name="24H LARGADOS E PELADOS BRASIL" tvg-logo="MAXIXE.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" ,[COLOR orange][B]LS-TVs-PROGRAMAS 24 HORAS [COLOR yellow] -> [COLOR white]24H LARGADOS E PELADOS BRASIL[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/925598
+#EXTINF:-1 tvg-id="" tvg-name="24H PEGADINHA JÃO KLEBER" tvg-logo="MAXIXE.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" ,[COLOR orange][B]LS-TVs-PROGRAMAS 24 HORAS [COLOR yellow] -> [COLOR white]24H PEGADINHA JÃO KLEBER[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/925599
+#EXTINF:-1 tvg-id="" tvg-name="24hs 101 Dálmatas" tvg-logo="JILO.in:80/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs 101 Dálmatas[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931296
+#EXTINF:-1 tvg-id="" tvg-name="24hs 3 Palavrinhas" tvg-logo="JACA.xyz:8080/images/83a5a282f092aa7baf6982b54227bb54.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs 3 Palavrinhas[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931297
+#EXTINF:-1 tvg-id="" tvg-name="24hs A Formiga Atômica" tvg-logo="JACA.xyz:8080/images/83a5a282f092aa7baf6982b54227bb54.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs A Formiga Atômica[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931299
+#EXTINF:-1 tvg-id="" tvg-name="24hs A GRANDE FAMILIA" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs A GRANDE FAMILIA[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931300
+#EXTINF:-1 tvg-id="" tvg-name="24hs A Mansão Foster Para Amigos Imaginários" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs A Mansão Foster Para Amigos Imaginários[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931301
+#EXTINF:-1 tvg-id="" tvg-name="24hs A Pantera Cor de Rosa" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs A Pantera Cor de Rosa[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931302
+#EXTINF:-1 tvg-id="" tvg-name="24hs A Patrulha Canina" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs A Patrulha Canina[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931303
+#EXTINF:-1 tvg-id="" tvg-name="24hs A Vaca e o Frango" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs A Vaca e o Frango[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931304
+#EXTINF:-1 tvg-id="" tvg-name="24hs Aladdin" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Aladdin[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931305
+#EXTINF:-1 tvg-id="" tvg-name="24hs Animaniacs" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Animaniacs[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931306
+#EXTINF:-1 tvg-id="" tvg-name="24hs As Aventuras de Tintin" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs As Aventuras de Tintin[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931307
+#EXTINF:-1 tvg-id="" tvg-name="24hs As Meninas Super Poderosas" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs As Meninas Super Poderosas[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931308
+#EXTINF:-1 tvg-id="" tvg-name="24hs As Visões de Raven" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs As Visões de Raven[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931310
+#EXTINF:-1 tvg-id="" tvg-name="24hs AUTHENTIC GAMES" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs AUTHENTIC GAMES[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931311
+#EXTINF:-1 tvg-id="" tvg-name="24hs Avatar a Lenda de Aang" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Avatar a Lenda de Aang[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931312
+#EXTINF:-1 tvg-id="" tvg-name="24hs Baby Looney Tunes" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Baby Looney Tunes[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931313
+#EXTINF:-1 tvg-id="" tvg-name="24hs BACKARDIGANS" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs BACKARDIGANS[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931314
+#EXTINF:-1 tvg-id="" tvg-name="24hs Ben 10" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Ben 10[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931315
+#EXTINF:-1 tvg-id="" tvg-name="24hs Ben 10 Omniverse" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Ben 10 Omniverse[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931316
+#EXTINF:-1 tvg-id="" tvg-name="24hs Bob Esponja" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Bob Esponja[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931318
+#EXTINF:-1 tvg-id="" tvg-name="24hs BOB O CONSTRUTOR" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs BOB O CONSTRUTOR[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931319
+#EXTINF:-1 tvg-id="" tvg-name="24hs BOB O TREM" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs BOB O TREM[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931320
+#EXTINF:-1 tvg-id="" tvg-name="24hs Bob Zoom" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Bob Zoom[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931321
+#EXTINF:-1 tvg-id="" tvg-name="24hs Boku no Hero Academia" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Boku no Hero Academia[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931322
+#EXTINF:-1 tvg-id="" tvg-name="24hs BOOBA" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs BOOBA[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931323
+#EXTINF:-1 tvg-id="" tvg-name="24hs Brooklyn Nine-Nine" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-PROGRAMAS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Brooklyn Nine-Nine[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931325
+#EXTINF:-1 tvg-id="" tvg-name="24hs Cadillacs e Dinossauros" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Cadillacs e Dinossauros[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931326
+#EXTINF:-1 tvg-id="" tvg-name="24hs CAILLOU" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs CAILLOU[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931327
+#EXTINF:-1 tvg-id="" tvg-name="24hs Chapolin Colorado" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Chapolin Colorado[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931333
+#EXTINF:-1 tvg-id="" tvg-name="24hs CHAVES do 8" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs CHAVES do 8[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931334
+#EXTINF:-1 tvg-id="" tvg-name="24hs Chaves em desenho animado" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Chaves em desenho animado[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931335
+#EXTINF:-1 tvg-id="" tvg-name="24hs Como Eu Conheci Sua Mãe" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-PROGRAMAS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Como Eu Conheci Sua Mãe[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931336
+#EXTINF:-1 tvg-id="" tvg-name="24hs CORAGEM, O CÃO COVARDE" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs CORAGEM, O CÃO COVARDE[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931337
+#EXTINF:-1 tvg-id="" tvg-name="24hs Corrida Maluca" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Corrida Maluca[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931338
+#EXTINF:-1 tvg-id="" tvg-name="24hs CUT THE HOPE" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs CUT THE HOPE[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931339
+#EXTINF:-1 tvg-id="" tvg-name="24hs De Volta para o Futuro" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-PROGRAMAS 24 HORAS [COLOR yellow] -> [COLOR white]24hs De Volta para o Futuro[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931340
+#EXTINF:-1 tvg-id="" tvg-name="24hs Detetives do Prédio Azul" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Detetives do Prédio Azul[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931341
+#EXTINF:-1 tvg-id="" tvg-name="24hs DIGIMON" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs DIGIMON[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931342
+#EXTINF:-1 tvg-id="" tvg-name="24hs Dora a Aventureira" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Dora a Aventureira[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931343
+#EXTINF:-1 tvg-id="" tvg-name="24hs Dragon Ball Super" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Dragon Ball Super[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931344
+#EXTINF:-1 tvg-id="" tvg-name="24hs Drake & Josh" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Drake & Josh[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931345
+#EXTINF:-1 tvg-id="" tvg-name="24hs Du, Dudu e Edu" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Du, Dudu e Edu[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931346
+#EXTINF:-1 tvg-id="" tvg-name="24hs Duck Dodgers" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Duck Dodgers[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931347
+#EXTINF:-1 tvg-id="" tvg-name="24hs EU A PATROA E AS CRIANÇAS" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs EU A PATROA E AS CRIANÇAS[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931349
+#EXTINF:-1 tvg-id="" tvg-name="24hs Flash" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Flash[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931350
+#EXTINF:-1 tvg-id="" tvg-name="24hs Flash Gordon" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Flash Gordon[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931351
+#EXTINF:-1 tvg-id="" tvg-name="24hs FLINTSTONES" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs FLINTSTONES[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931352
+#EXTINF:-1 tvg-id="" tvg-name="24hs Fly o pequeno guerreiro" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Fly o pequeno guerreiro[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931353
+#EXTINF:-1 tvg-id="" tvg-name="24hs Freakazoid!" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Freakazoid![/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931354
+#EXTINF:-1 tvg-id="" tvg-name="24hs FullMetal Alchemist" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs FullMetal Alchemist[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931355
+#EXTINF:-1 tvg-id="" tvg-name="24hs Homem Aranha" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Homem Aranha[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931358
+#EXTINF:-1 tvg-id="" tvg-name="24hs Hércules" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Hércules[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931360
+#EXTINF:-1 tvg-id="" tvg-name="24hs Jackie Chan e Amigos" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Jackie Chan e Amigos[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931361
+#EXTINF:-1 tvg-id="" tvg-name="24hs KENAN E KEL" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs KENAN E KEL[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931362
+#EXTINF:-1 tvg-id="" tvg-name="24hs Little Angel" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Little Angel[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931363
+#EXTINF:-1 tvg-id="" tvg-name="24hs Medabots" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Medabots[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931364
+#EXTINF:-1 tvg-id="" tvg-name="24hs Mega Man" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Mega Man[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931365
+#EXTINF:-1 tvg-id="" tvg-name="24hs Mickey Mouse" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Mickey Mouse[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931367
+#EXTINF:-1 tvg-id="" tvg-name="24hs Miraculous Ladybug" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Miraculous Ladybug[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931368
+#EXTINF:-1 tvg-id="" tvg-name="24hs Mortal Kombat" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Mortal Kombat[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931369
+#EXTINF:-1 tvg-id="" tvg-name="24hs Mucha Lucha" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Mucha Lucha[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931371
+#EXTINF:-1 tvg-id="" tvg-name="24hs Mundo Bita" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Mundo Bita[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931372
+#EXTINF:-1 tvg-id="" tvg-name="24hs Naruto" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Naruto[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931373
+#EXTINF:-1 tvg-id="" tvg-name="24hs O Laboratório de Dexter" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs O Laboratório de Dexter[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931376
+#EXTINF:-1 tvg-id="" tvg-name="24hs O Mundo de Beakman" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs O Mundo de Beakman[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931377
+#EXTINF:-1 tvg-id="" tvg-name="24hs O Máskara" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs O Máskara[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931378
+#EXTINF:-1 tvg-id="" tvg-name="24hs os Cavaleiros do Zodíaco" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs os Cavaleiros do Zodíaco[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931379
+#EXTINF:-1 tvg-id="" tvg-name="24hs Os Flintstones" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Os Flintstones[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931380
+#EXTINF:-1 tvg-id="" tvg-name="24hs Os Padrinhos Mágicos" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Os Padrinhos Mágicos[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931381
+#EXTINF:-1 tvg-id="" tvg-name="24hs Os Super Patos" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Os Super Patos[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931383
+#EXTINF:-1 tvg-id="" tvg-name="24hs Os Vingadores" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Os Vingadores[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931384
+#EXTINF:-1 tvg-id="" tvg-name="24hs Papa Léguas" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Papa Léguas[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931385
+#EXTINF:-1 tvg-id="" tvg-name="24hs Patati e Patatá" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Patati e Patatá[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931386
+#EXTINF:-1 tvg-id="" tvg-name="24hs Peppa Pig" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Peppa Pig[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931387
+#EXTINF:-1 tvg-id="" tvg-name="24hs Pernalonga e seus amigos" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Pernalonga e seus amigos[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931388
+#EXTINF:-1 tvg-id="" tvg-name="24hs Pica Pau" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Pica Pau[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931389
+#EXTINF:-1 tvg-id="" tvg-name="24hs Pocoyo" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Pocoyo[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931391
+#EXTINF:-1 tvg-id="" tvg-name="24hs POKEMOM MANICRAFT" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs POKEMOM MANICRAFT[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931392
+#EXTINF:-1 tvg-id="" tvg-name="24hs RICK E MORTY" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs RICK E MORTY[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931394
+#EXTINF:-1 tvg-id="" tvg-name="24hs Sailor Moon" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Sailor Moon[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931395
+#EXTINF:-1 tvg-id="" tvg-name="24hs Samurai Warriors" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Samurai Warriors[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931396
+#EXTINF:-1 tvg-id="" tvg-name="24hs SCOOBY DOO" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs SCOOBY DOO[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931397
+#EXTINF:-1 tvg-id="" tvg-name="24hs South Park" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs South Park[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931398
+#EXTINF:-1 tvg-id="" tvg-name="24hs Steven Universo" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Steven Universo[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931399
+#EXTINF:-1 tvg-id="" tvg-name="24hs Super Choque" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Super Choque[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931400
+#EXTINF:-1 tvg-id="" tvg-name="24hs Taz Mania" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Taz Mania[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931401
+#EXTINF:-1 tvg-id="" tvg-name="24hs Thundercats" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Thundercats[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931402
+#EXTINF:-1 tvg-id="" tvg-name="24hs Timão e Pumba" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Timão e Pumba[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931403
+#EXTINF:-1 tvg-id="" tvg-name="24hs TODO MUNDO ODEIA O CHRIS" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs TODO MUNDO ODEIA O CHRIS[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931404
+#EXTINF:-1 tvg-id="" tvg-name="24hs TROLLS" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs TROLLS[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931406
+#EXTINF:-1 tvg-id="" tvg-name="24hs Três Espiãs Demais" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Três Espiãs Demais[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931407
+#EXTINF:-1 tvg-id="" tvg-name="24hs Turma da Mônica" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Turma da Mônica[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931408
+#EXTINF:-1 tvg-id="" tvg-name="24hs Turma da Pateta" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Turma da Pateta[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931409
+#EXTINF:-1 tvg-id="" tvg-name="24hs Uma família da pesada" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Uma família da pesada[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931410
+#EXTINF:-1 tvg-id="" tvg-name="24hs Ursinhos Carinhosos" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Ursinhos Carinhosos[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931411
+#EXTINF:-1 tvg-id="" tvg-name="24hs X-men" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs X-men[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931412
+#EXTINF:-1 tvg-id="" tvg-name="24hs Zé Colméia" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Zé Colméia[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931413
+#EXTINF:-1 tvg-id="" tvg-name="24hs Um Maluco no Pedaço" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Um Maluco no Pedaço[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/931415
+#EXTINF:-1 tvg-id="" tvg-name="24hs Escolinha do Professor Raimundo" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-PROGRAMAS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Escolinha do Professor Raimundo[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/953392
+#EXTINF:-1 tvg-id="" tvg-name="24hs THE WALKING DEAD" tvg-logo="MAXIXE.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png" ,[COLOR orange][B]LS-TVs-PROGRAMAS 24 HORAS [COLOR yellow] -> [COLOR white]24hs THE WALKING DEAD[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/953393
+#EXTINF:-1 tvg-id="" tvg-name="24hs Vai que Cola" tvg-logo="MAXIXE.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png" ,[COLOR orange][B]LS-TVs-PROGRAMAS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Vai que Cola[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/953394
+#EXTINF:-1 tvg-id="" tvg-name="24hs Arqueiro Verde" tvg-logo="MAXIXE.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png" ,[COLOR orange][B]LS-TVs-PROGRAMAS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Arqueiro Verde[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/953395
+#EXTINF:-1 tvg-id="" tvg-name="24hs Fate" tvg-logo="MAXIXE.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png" ,[COLOR orange][B]LS-TVs-PROGRAMAS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Fate[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/953396
+#EXTINF:-1 tvg-id="" tvg-name="24hs Vikings" tvg-logo="MAXIXE.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png" ,[COLOR orange][B]LS-TVs-PROGRAMAS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Vikings[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/953397
+#EXTINF:-1 tvg-id="" tvg-name="24hs Big Bang Theory" tvg-logo="MAXIXE.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png" ,[COLOR orange][B]LS-TVs-PROGRAMAS 24 HORAS [COLOR yellow] -> [COLOR white]24hs Big Bang Theory[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/953398
+#EXTINF:-1 tvg-id="" tvg-name="24H ALF O E.TEIMOSO VIP" tvg-logo="GOIABA://i.imgur.com/S28ccjG.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H ALF O E.TEIMOSO VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956467
+#EXTINF:-1 tvg-id="" tvg-name="24H AS AVENTURAS DE TOM & JERRY VIP" tvg-logo="GOIABA://i.pinimg.com/originals/46/88/90/468890c2e5317f3b59792457b4330acd.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H AS AVENTURAS DE TOM & JERRY VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956471
+#EXTINF:-1 tvg-id="" tvg-name="24H AVATAR A LENDA DE KORA H265 VIP" tvg-logo="GOIABA://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_de_Avatar_la_leyenda_de_Aang.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H AVATAR A LENDA DE KORA H265 VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956473
+#EXTINF:-1 tvg-id="" tvg-name="24H BABY LOONEY TUNES VIP" tvg-logo="GOIABA://w7.pngwing.com/pngs/283/647/png-transparent-diaper-infant-looney-tunes-changing-tables-disposable-baby-looney-tunes-food-computer-wallpaper-looney.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H BABY LOONEY TUNES VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956474
+#EXTINF:-1 tvg-id="" tvg-name="24H BEN 10 VIP" tvg-logo="GOIABA://upload.wikimedia.org/wikipedia/commons/6/6f/Ben_10_reboot_logo.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H BEN 10 VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956477
+#EXTINF:-1 tvg-id="" tvg-name="24H BEN 10 OMNIVERSE VIP" tvg-logo="GOIABA://seeklogo.com/images/B/ben-10-omniverse-logo-9459526B49-seeklogo.com.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H BEN 10 OMNIVERSE VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956478
+#EXTINF:-1 tvg-id="" tvg-name="24H BOB ESPONJA T01 A 04 VIP" tvg-logo="GOIABA://2.bp.blogspot.com/-KPWQFOwORaQ/WIiCSCxIgXI/AAAAAAAAJeA/nmRNjSGzfgUO6v7DGRDPQmdDZD5Goc6eQCLcB/s1600/logo_bob_esponja.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H BOB ESPONJA T01 A 04 VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956480
+#EXTINF:-1 tvg-id="" tvg-name="24H CAPITÃO CAVERNA VIP" tvg-logo="GOIABA://3.bp.blogspot.com/-nkrpAaQPwxA/VG1XH2MUXtI/AAAAAAAAh7A/FqXNJGcIU6Y/s1600/capit%C3%A3o-caverna-em-png-queroimagem-cei%C3%A7a-crispim-02.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H CAPITÃO CAVERNA VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956487
+#EXTINF:-1 tvg-id="" tvg-name="24H CAPITÃO PLANETA VIP" tvg-logo="GOIABA://www.nicepng.com/png/full/826-8263081_capito-planeta-logo-png.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H CAPITÃO PLANETA VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956488
+#EXTINF:-1 tvg-id="" tvg-name="24H CAVALO DE FOGO VIP" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H CAVALO DE FOGO VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956490
+#EXTINF:-1 tvg-id="" tvg-name="24H CAVERNA DO DRAGÃO VIP" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H CAVERNA DO DRAGÃO VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956491
+#EXTINF:-1 tvg-id="" tvg-name="24H CORAGEM O CÃO COVARDE VIP" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H CORAGEM O CÃO COVARDE VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956497
+#EXTINF:-1 tvg-id="" tvg-name="24H DIGIMON VIP" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H DIGIMON VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956502
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAKE & JOSH VIP" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H DRAKE & JOSH VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956517
+#EXTINF:-1 tvg-id="" tvg-name="24H DUCK DODGERS VIP" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H DUCK DODGERS VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956518
+#EXTINF:-1 tvg-id="" tvg-name="24H DUCK TALES CLÁSSICO VIP" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H DUCK TALES CLÁSSICO VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956519
+#EXTINF:-1 tvg-id="" tvg-name="24H FLY O PEQUENO GUERREIRO VIP" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H FLY O PEQUENO GUERREIRO VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956521
+#EXTINF:-1 tvg-id="" tvg-name="24H GALINHA PINTADINHA MINI VIP" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H GALINHA PINTADINHA MINI VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956528
+#EXTINF:-1 tvg-id="" tvg-name="24H GATO FELIX VIP" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H GATO FELIX VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956529
+#EXTINF:-1 tvg-id="" tvg-name="24H HE-MAN VIP" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H HE-MAN VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956530
+#EXTINF:-1 tvg-id="" tvg-name="24H JASPION VIP" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H JASPION VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956531
+#EXTINF:-1 tvg-id="" tvg-name="24H MUNDO BITA VIP" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H MUNDO BITA VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956537
+#EXTINF:-1 tvg-id="" tvg-name="24H NARUTO VIP" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H NARUTO VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956538
+#EXTINF:-1 tvg-id="" tvg-name="24H O INCRÍVEL MUNDO DE GUMBALL VIP" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H O INCRÍVEL MUNDO DE GUMBALL VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956540
+#EXTINF:-1 tvg-id="" tvg-name="24H O SHOW DO GARFIELD VIP" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H O SHOW DO GARFIELD VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956543
+#EXTINF:-1 tvg-id="" tvg-name="24H OS CAÇA FANTASMA DESENHO VIP" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H OS CAÇA FANTASMA DESENHO VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956549
+#EXTINF:-1 tvg-id="" tvg-name="24H OS MISTÉRIOS DE PIU-PIU E FRAJOLA VIP" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H OS MISTÉRIOS DE PIU-PIU E FRAJOLA VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956553
+#EXTINF:-1 tvg-id="" tvg-name="24H OS RONI VIP" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H OS RONI VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956554
+#EXTINF:-1 tvg-id="" tvg-name="24H PATO DONALD VIP" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H PATO DONALD VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956561
+#EXTINF:-1 tvg-id="" tvg-name="24H PICA- PAU VIP" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H PICA- PAU VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956567
+#EXTINF:-1 tvg-id="" tvg-name="24H PINK E O CEREBRO VIP" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H PINK E O CEREBRO VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956569
+#EXTINF:-1 tvg-id="" tvg-name="24H POPEYE VIP" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H POPEYE VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956571
+#EXTINF:-1 tvg-id="" tvg-name="24H SITIO DO PICA PAU AMARELO VIP" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H SITIO DO PICA PAU AMARELO VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956578
+#EXTINF:-1 tvg-id="" tvg-name="24H SUPER CHOQUE VIP" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H SUPER CHOQUE VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956580
+#EXTINF:-1 tvg-id="" tvg-name="24H SUPERAMIGOS VIP" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H SUPERAMIGOS VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956581
+#EXTINF:-1 tvg-id="" tvg-name="24H SUPERCAMPEÕES VIP" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H SUPERCAMPEÕES VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956582
+#EXTINF:-1 tvg-id="" tvg-name="24H TRÊS ESPIÃS DEMAIS VIP" tvg-logo="JACA.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" ,[COLOR orange][B]LS-TVs-DESENHOS 24 HORAS [COLOR yellow] -> [COLOR white]24H TRÊS ESPIÃS DEMAIS VIP[/B][/COLOR]
+http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/956586
