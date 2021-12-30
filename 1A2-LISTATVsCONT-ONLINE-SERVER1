@@ -38,8 +38,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/71772.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/Sx8" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Animal Planet FHD [H265][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/71773.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Animal Planet HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/71775.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Animal Planet HD1[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/71775
 #EXTINF:-1 tvg-logo="http://a5.vc/Sx8" ,[COLOR orange][B]LS-TVs-DOCUMENTÁRIOS [COLOR yellow] -> [COLOR white]Animal Planet SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/71776.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/aDZ" ,[COLOR orange][B]LS-TVs-4K [FHDR [COLOR yellow] -> [COLOR white]Arte 1 4K FHDR[/B][/COLOR]
