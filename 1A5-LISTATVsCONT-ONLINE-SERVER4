@@ -3,7 +3,7 @@
 LINKDOFILME
 
 #EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png"TELECINE ACTION SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR]&amp;url=http://fonteangelusiptv.com:25461/Thiago2021/2021thiago/855992
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR]&amp;url=http://fonteangelusiptv.com:25461/Carol123/Carol123/855992
 #EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" ,[COLOR orange][B]LS-TVs-CANAIS TELECINE [COLOR yellow] -> [COLOR white]TELECINE ACTION HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR]&amp;url=http://fonteangelusiptv.com:25461/Carol123/Carol123/855994
 #EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" ,[COLOR orange][B]LS-TVs-CANAIS TELECINE [COLOR yellow] -> [COLOR white]TELECINE ACTION FHD[/B][/COLOR]
