@@ -164,67 +164,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/47536
 #EXTINF:-1 tvg-logo="http://a5.vc/KhE" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white] Campeoes do Sedokai[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/47537
-#EXTINF:-1 tvg-logo="http://a5.vc/VoJ" group-title="Canais | YouTube",[24H] Canal YouTube - 4 Amigos Stand Up Comedy[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/47538
-#EXTINF:-1 tvg-logo="http://a5.vc/Ofv" group-title="Canais | YouTube",[24H] Canal YouTube - 5 Alguma Coisa[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/47539
-#EXTINF:-1 tvg-logo="http://a5.vc/noo" group-title="Canais | YouTube",[24H] Canal YouTube - Badin[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/47540
-#EXTINF:-1 tvg-logo="http://a5.vc/rj2" group-title="Canais | YouTube",[24H] Canal YouTube - Barbixas[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/47541
-#EXTINF:-1 tvg-logo="http://a5.vc/XmK" group-title="Canais | YouTube",[24H] Canal YouTube - BOOM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/47542
-#EXTINF:-1 tvg-logo="http://a5.vc/J9o" group-title="Canais | YouTube",[24H] Canal YouTube - Carol kyoko[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/47543
-#EXTINF:-1 tvg-logo="http://a5.vc/qek" group-title="Canais | YouTube",[24H] Canal YouTube - Ciencia Todo Dia[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/47544
-#EXTINF:-1 tvg-logo="http://a5.vc/a8I" group-title="Canais | YouTube",[24H] Canal YouTube - Dramaturgia Panico na TV[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/47545
-#EXTINF:-1 tvg-logo="http://a5.vc/skQ" group-title="Canais | YouTube",[24H] Canal YouTube - Edu Primitivo[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/47546
-#EXTINF:-1 tvg-logo="http://a5.vc/Ke2" group-title="Canais | YouTube",[24H] Canal YouTube - Encrenca RedeTV[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/47547
-#EXTINF:-1 tvg-logo="http://a5.vc/uMp" group-title="Canais | YouTube",[24H] Canal YouTube - Fatos Desconhecidos[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/47548
-#EXTINF:-1 tvg-logo="http://a5.vc/5Lr" group-title="Canais | YouTube",[24H] Canal YouTube - Fatos Insanos[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/47549
-#EXTINF:-1 tvg-logo="http://a5.vc/gKl" group-title="Canais | YouTube",[24H] Canal YouTube - FitDance[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/47550
-#EXTINF:-1 tvg-logo="http://a5.vc/mKa" group-title="Canais | YouTube",[24H] Canal YouTube - Gerson Albuquerque[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/47551
-#EXTINF:-1 tvg-logo="http://a5.vc/xas" group-title="Canais | YouTube",[24H] Canal YouTube - INCRIVEL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/47552
-#EXTINF:-1 tvg-logo="http://a5.vc/Olw" group-title="Canais | YouTube",[24H] Canal YouTube - John Leitao[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/47553
-#EXTINF:-1 tvg-logo="http://a5.vc/peH" group-title="Canais | YouTube",[24H] Canal YouTube - MASTER TRASH e PANICO CHEF[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/47554
-#EXTINF:-1 tvg-logo="http://a5.vc/2gm" group-title="Canais | YouTube",[24H] Canal YouTube - MixReynold[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/47555
-#EXTINF:-1 tvg-logo="http://a5.vc/B2I" group-title="Canais | YouTube",[24H] Canal YouTube - Na CorreRia[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/47556
-#EXTINF:-1 tvg-logo="http://a5.vc/nPQ" group-title="Canais | YouTube",[24H] Canal YouTube - Pagode da Ofensa na Web[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/47557
-#EXTINF:-1 tvg-logo="http://a5.vc/a8I" group-title="Canais | YouTube",[24H] Canal YouTube - PANICO TROLLAGENS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/47558
-#EXTINF:-1 tvg-logo="http://a5.vc/CBH" group-title="Canais | YouTube",[24H] Canal YouTube - Parafernalha[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/47559
-#EXTINF:-1 tvg-logo="http://a5.vc/ldO" group-title="Canais | YouTube",[24H] Canal YouTube - Porta dos Fundos[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/47560
-#EXTINF:-1 tvg-logo="http://a5.vc/6PY" group-title="Canais | YouTube",[24H] Canal YouTube - Rabisco[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/47561
-#EXTINF:-1 tvg-logo="http://a5.vc/J1Q" group-title="Canais | YouTube",[24H] Canal YouTube - Refugio Mental[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/47562
-#EXTINF:-1 tvg-logo="http://a5.vc/Sny" group-title="Canais | YouTube",[24H] Canal YouTube - South America Memes[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/47563
-#EXTINF:-1 tvg-logo="http://a5.vc/QeF" group-title="Canais | YouTube",[24H] Canal YouTube - Voce na TV[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/47564
-#EXTINF:-1 tvg-logo="http://a5.vc/6OH" group-title="Canais | YouTube",[24H] Canal YouTube - Voce Sabia part 1[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/47565
-#EXTINF:-1 tvg-logo="http://a5.vc/6OH" group-title="Canais | YouTube",[24H] Canal YouTube - Voce Sabia part 2[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/47566
-#EXTINF:-1 tvg-logo="http://a5.vc/7dA" group-title="Canais | YouTube",[24H] Canal YouTube - WEBBULLYING[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/47567
-#EXTINF:-1 tvg-logo="http://a5.vc/CPx" group-title="Canais | YouTube",[24H] Canal YouTube - Ze Pequeno do Povo[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/47568
 #EXTINF:-1 tvg-logo="http://a5.vc/Mrn" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white] Capitao Lento - Curta Metragem[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs 24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://cdn99.one:80/Andra/Andra123/47569
