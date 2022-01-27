@@ -78,6 +78,24 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://viutudo.com:80/wagner63312/fet921851stv/10074122
 #EXTINF:-1  tvg-logo="https://i.ibb.co/mh7LxfX/TVs-ONLINE-SERV-1.png" ,[COLOR orange][B]LS-TV - SERVER 1 [COLOR yellow] -> [COLOR white]BBB 22 CAM 11 OP2[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://viutudo.com:80/wagner63312/fet921851stv/10074123
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO FHD" tvg-logo="https://i.imgur.com/I25tAsR.png" ,[COLOR orange][B]LS-TV - SERVER 1 [COLOR yellow] -> [COLOR white]GLOOBINHO FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://viutudo.com:80/wagner63312/fet921851stv/9202
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO FHD H265" tvg-logo="https://i.imgur.com/I25tAsR.png" ,[COLOR orange][B]LS-TV - SERVER 1 [COLOR yellow] -> [COLOR white]GLOOBINHO FHD H265[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://viutudo.com:80/wagner63312/fet921851stv/17272
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO FHD*" tvg-logo="https://i.imgur.com/I25tAsR.png" ,[COLOR orange][B]LS-TV - SERVER 1 [COLOR yellow] -> [COLOR white]GLOOBINHO FHD*[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://viutudo.com:80/wagner63312/fet921851stv/10054624
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO FHD H265*" tvg-logo="https://i.imgur.com/I25tAsR.png" ,[COLOR orange][B]LS-TV - SERVER 1 [COLOR yellow] -> [COLOR white]GLOOBINHO FHD H265*[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://viutudo.com:80/wagner63312/fet921851stv/10054623
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="https://i.imgur.com/I25tAsR.png" ,[COLOR orange][B]LS-TV - SERVER 1 [COLOR yellow] -> [COLOR white]GLOOBINHO HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://viutudo.com:80/wagner63312/fet921851stv/5346
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD*" tvg-logo="https://i.imgur.com/I25tAsR.png" ,[COLOR orange][B]LS-TV - SERVER 1 [COLOR yellow] -> [COLOR white]GLOOBINHO HD*[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://viutudo.com:80/wagner63312/fet921851stv/10054622
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD²" tvg-logo="https://i.imgur.com/I25tAsR.png" ,[COLOR orange][B]LS-TV - SERVER 1 [COLOR yellow] -> [COLOR white]GLOOBINHO HD²[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://viutudo.com:80/wagner63312/fet921851stv/10051240
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO SD*" tvg-logo="https://i.imgur.com/I25tAsR.png" ,[COLOR orange][B]LS-TV - SERVER 1 [COLOR yellow] -> [COLOR white]GLOOBINHO SD*[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://viutudo.com:80/wagner63312/fet921851stv/10054621
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO SD" tvg-logo="https://i.imgur.com/I25tAsR.png" ,[COLOR orange][B]LS-TV - SERVER 1 [COLOR yellow] -> [COLOR white]GLOOBINHO SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://viutudo.com:80/wagner63312/fet921851stv/5347
 #EXTINF:-1  tvg-logo="https://i.ibb.co/mh7LxfX/TVs-ONLINE-SERV-1.png" ,[COLOR orange][B]LS-TV - SERVER 1 [COLOR yellow] -> [COLOR white]GB SP FHD[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://viutudo.com:80/wagner63312/fet921851stv/6283
 #EXTINF:-1  tvg-logo="https://i.ibb.co/mh7LxfX/TVs-ONLINE-SERV-1.png" ,[COLOR orange][B]LS-TV - SERVER 1 [COLOR yellow] -> [COLOR white]GB SP FHDᴮᴿ[/COLOR][/B]
