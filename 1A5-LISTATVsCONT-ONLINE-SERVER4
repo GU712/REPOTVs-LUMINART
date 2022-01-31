@@ -3,162 +3,162 @@
 LINKDOFILME
 
 #EXTINF:-1 tvg-ID="" tvg-name="AGRO BRASIL" tvg-logo="http://168.205.87.198/logocanais/agrobrasil.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]AGRO BRASIL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/7.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/7
 #EXTINF:-1 tvg-ID="" tvg-name="AGRO CANAL" tvg-logo="http://168.205.87.198/logocanais/agrocanal.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]AGRO CANAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/10.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/10
 #EXTINF:-1 tvg-ID="" tvg-name="AGROMAIS" tvg-logo="" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]AGROMAIS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/175.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/175
 #EXTINF:-1 tvg-ID="" tvg-name="ALL SPORTS" tvg-logo="" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]ALL SPORTS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/148.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/148
 #EXTINF:-1 tvg-ID="" tvg-name="AMERICA LATINO" tvg-logo="http://168.205.87.198/logocanais/americalatino.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]AMERICA LATINO[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/16.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/16
 #EXTINF:-1 tvg-ID="" tvg-name="ARTE1" tvg-logo="" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]ARTE1[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/170.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/170
 #EXTINF:-1 tvg-ID="" tvg-name="BAND NEWS" tvg-logo="" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]BAND NEWS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/174.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/174
 #EXTINF:-1 tvg-ID="" tvg-name="BAND SPORTS" tvg-logo="" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]BAND SPORTS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/176.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/176
 #EXTINF:-1 tvg-ID="" tvg-name="BAND" tvg-logo="http://168.205.87.198/logocanais/bandminas.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]BAND[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/19.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/19
 #EXTINF:-1 tvg-ID="" tvg-name="BOA VONTADE TV" tvg-logo="http://168.205.87.198/logocanais/boavontadetv.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]BOA VONTADE TV[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/21.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/21
 #EXTINF:-1 tvg-ID="" tvg-name="BRA" tvg-logo="http://168.205.87.198/logocanais/bra.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]BRA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/24.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/24
 #EXTINF:-1 tvg-ID="" tvg-name="BRSUPER TV" tvg-logo="" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]BRSUPER TV[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/147.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/147
 #EXTINF:-1 tvg-ID="" tvg-name="CANAL DO BOI" tvg-logo="" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]CANAL DO BOI[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/167.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/167
 #EXTINF:-1 tvg-ID="" tvg-name="CANAL RURAL" tvg-logo="" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]CANAL RURAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/166.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/166
 #EXTINF:-1 tvg-ID="" tvg-name="CANAL SAÚDE" tvg-logo="" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]CANAL SAÚDE[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/165.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/165
 #EXTINF:-1 tvg-ID="" tvg-name="CANÇÃO NOVA" tvg-logo="http://168.205.87.198/logocanais/cancaonova.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]CANÇÃO NOVA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/25.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/25
 #EXTINF:-1 tvg-ID="" tvg-name="CHESPIRITO" tvg-logo="" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]CHESPIRITO[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/159.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CLASSIC HITS" tvg-logo="http://168.205.87.198/logocanais/classichits.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]CLASSIC HITS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/27.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/159
+#EXTINF:-1 tvg-ID="" tvg-name="CLASSIC HITS" tvg-logo="http://168.205.87.198/logocanais/classich.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]CLASSIC HITS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/27
 #EXTINF:-1 tvg-ID="" tvg-name="CNN BRASIL" tvg-logo="" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]CNN BRASIL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/28.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/28
 #EXTINF:-1 tvg-ID="" tvg-name="CNT" tvg-logo="" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]CNT[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/150.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/150
 #EXTINF:-1 tvg-ID="" tvg-name="CULTURA" tvg-logo="http://168.205.87.198/logocanais/tvcultura.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]CULTURA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/32.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/32
 #EXTINF:-1 tvg-ID="" tvg-name="CULT" tvg-logo="http://168.205.87.198/logocanais/cult.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]CULT[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/30.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/30
 #EXTINF:-1 tvg-ID="" tvg-name="FASHION TV" tvg-logo="http://168.205.87.198/logocanais/fashiontv.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]FASHION TV[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/61.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/61
 #EXTINF:-1 tvg-ID="" tvg-name="FISH TV" tvg-logo="http://168.205.87.198/logocanais/fishtv.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]FISH TV[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/62.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/62
 #EXTINF:-1 tvg-ID="" tvg-name="FUTURA" tvg-logo="http://168.205.87.198/logocanais/futura.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]FUTURA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/67.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/67
 #EXTINF:-1 tvg-ID="" tvg-name="GAZETA" tvg-logo="http://168.205.87.198/logocanais/tvgazeta.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]GAZETA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/69.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/69
 #EXTINF:-1 tvg-ID="" tvg-name="GLOBO MINAS" tvg-logo="http://168.205.87.198/logocanais/globominas.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]GLOBO MINAS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/70.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HITTS" tvg-logo="http://168.205.87.198/logocanais/hitts.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]HITTS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/72.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/70
+#EXTINF:-1 tvg-ID="" tvg-name="HITTS" tvg-logo="http://168.205.87.198/logocanais/hi.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]HITTS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/72
 #EXTINF:-1 tvg-ID="" tvg-name="JP NEWS" tvg-logo="" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]JP NEWS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/161.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/161
 #EXTINF:-1 tvg-ID="" tvg-name="KIDS" tvg-logo="" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]KIDS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/143.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/143
 #EXTINF:-1 tvg-ID="" tvg-name="LOADING TV" tvg-logo="" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]LOADING TV[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/142.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/142
 #EXTINF:-1 tvg-ID="" tvg-name="MASTER TV" tvg-logo="http://168.205.87.198/logocanais/mastertv.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]MASTER TV[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/74.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/74
 #EXTINF:-1 tvg-ID="" tvg-name="MEGA" tvg-logo="http://168.205.87.198/logocanais/mega.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]MEGA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/75.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/75
 #EXTINF:-1 tvg-ID="" tvg-name="NOVO TEMPO" tvg-logo="" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]NOVO TEMPO[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/149.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/149
 #EXTINF:-1 tvg-ID="" tvg-name="ONDA OESTE" tvg-logo="" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]ONDA OESTE[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/169.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/169
 #EXTINF:-1 tvg-ID="" tvg-name="PAI ETERNO" tvg-logo="" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]PAI ETERNO[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/144.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/144
 #EXTINF:-1 tvg-ID="" tvg-name="POLISHOP" tvg-logo="" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]POLISHOP[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/153.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/153
 #EXTINF:-1 tvg-ID="" tvg-name="PRIME BOX" tvg-logo="http://168.205.87.198/logocanais/primebox.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]PRIME BOX[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/83.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/83
 #EXTINF:-1 tvg-ID="" tvg-name="RATIMBUM" tvg-logo="http://168.205.87.198/logocanais/tvratimbum.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]RATIMBUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/84.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/84
 #EXTINF:-1 tvg-ID="" tvg-name="RECORD MINAS" tvg-logo="http://168.205.87.198/logocanais/recordtvminas.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]RECORD MINAS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/96.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/96
 #EXTINF:-1 tvg-ID="" tvg-name="RECORD NEWS" tvg-logo="http://168.205.87.198/logocanais/recordnews.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]RECORD NEWS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/97.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/97
 #EXTINF:-1 tvg-ID="" tvg-name="REDE FAMILIA" tvg-logo="" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]REDE FAMILIA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/151.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/151
 #EXTINF:-1 tvg-ID="" tvg-name="REDE GENESIS" tvg-logo="http://168.205.87.198/logocanais/redegenesis.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]REDE GENESIS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/98.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/98
 #EXTINF:-1 tvg-ID="" tvg-name="REDE METROPOLE" tvg-logo="http://168.205.87.198/logocanais/redemetropole.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]REDE METROPOLE[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/99.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/99
 #EXTINF:-1 tvg-ID="" tvg-name="REDE MINAS" tvg-logo="http://168.205.87.198/logocanais/redeminas.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]REDE MINAS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/101.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/101
 #EXTINF:-1 tvg-ID="" tvg-name="REDE SUPER" tvg-logo="" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]REDE SUPER[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/163.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/163
 #EXTINF:-1 tvg-ID="" tvg-name="REDE TV" tvg-logo="http://168.205.87.198/logocanais/redetv.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]REDE TV[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/102.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/102
 #EXTINF:-1 tvg-ID="" tvg-name="REDE VIDA" tvg-logo="http://168.205.87.198/logocanais/redevida.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]REDE VIDA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/103.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/103
 #EXTINF:-1 tvg-ID="" tvg-name="RIT" tvg-logo="" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]RIT[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/168.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/168
 #EXTINF:-1 tvg-ID="" tvg-name="RÁDIO BOSSA NOVA" tvg-logo="http://168.205.87.198/logocanais/radiobossanova.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]RÁDIO BOSSA NOVA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/85.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/85
 #EXTINF:-1 tvg-ID="" tvg-name="RÁDIO FESTA" tvg-logo="http://168.205.87.198/logocanais/radiofesta.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]RÁDIO FESTA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/86.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/86
 #EXTINF:-1 tvg-ID="" tvg-name="RÁDIO LOUNGE" tvg-logo="http://168.205.87.198/logocanais/radiolounge.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]RÁDIO LOUNGE[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/87.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/87
 #EXTINF:-1 tvg-ID="" tvg-name="RÁDIO METAL" tvg-logo="http://168.205.87.198/logocanais/radiometal.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]RÁDIO METAL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/89.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/89
 #EXTINF:-1 tvg-ID="" tvg-name="RÁDIO MÚSICA CLÁSSICA" tvg-logo="http://168.205.87.198/logocanais/radiomusicaclassica.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]RÁDIO MÚSICA CLÁSSICA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/88.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/88
 #EXTINF:-1 tvg-ID="" tvg-name="RÁDIO NEW ROCK" tvg-logo="http://168.205.87.198/logocanais/radionewrock.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]RÁDIO NEW ROCK[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/90.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/90
 #EXTINF:-1 tvg-ID="" tvg-name="RÁDIO PAGODE" tvg-logo="http://168.205.87.198/logocanais/radiopagode.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]RÁDIO PAGODE[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/91.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RÁDIO POP HITS" tvg-logo="http://168.205.87.198/logocanais/radiopophits.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]RÁDIO POP HITS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/92.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/91
+#EXTINF:-1 tvg-ID="" tvg-name="RÁDIO POP HITS" tvg-logo="http://168.205.87.198/logocanais/radiopoph.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]RÁDIO POP HITS[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/92
 #EXTINF:-1 tvg-ID="" tvg-name="RÁDIO POP ROCK" tvg-logo="http://168.205.87.198/logocanais/radiopoprock.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]RÁDIO POP ROCK[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/93.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/93
 #EXTINF:-1 tvg-ID="" tvg-name="RÁDIO TRILHAS SONORAS" tvg-logo="http://168.205.87.198/logocanais/radiotrilhassonoras.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]RÁDIO TRILHAS SONORAS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/95.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/95
 #EXTINF:-1 tvg-ID="" tvg-name="SABOR E ARTE" tvg-logo="" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]SABOR E ARTE[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/172.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/172
 #EXTINF:-1 tvg-ID="" tvg-name="SBT ALTEROSA" tvg-logo="http://168.205.87.198/logocanais/sbtminas.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]SBT ALTEROSA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/104.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/104
 #EXTINF:-1 tvg-ID="" tvg-name="SCH" tvg-logo="http://168.205.87.198/logocanais/sch.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]SCH[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/105.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/105
 #EXTINF:-1 tvg-ID="" tvg-name="SECULO 21" tvg-logo="http://168.205.87.198/logocanais/redeseculo21.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]SECULO 21[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/106.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/106
 #EXTINF:-1 tvg-ID="" tvg-name="SESC TV" tvg-logo="http://168.205.87.198/logocanais/sesctv.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]SESC TV[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/107.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/107
 #EXTINF:-1 tvg-ID="" tvg-name="SHOPTIME" tvg-logo="" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]SHOPTIME[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/164.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/164
 #EXTINF:-1 tvg-ID="" tvg-name="SMITHSONIAN" tvg-logo="" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]SMITHSONIAN[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/173.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/173
 #EXTINF:-1 tvg-ID="" tvg-name="SÉRIES CLÁSSICAS" tvg-logo="" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]SÉRIES CLÁSSICAS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/160.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/160
 #EXTINF:-1 tvg-ID="" tvg-name="TERRA VIVA" tvg-logo="" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]TERRA VIVA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/171.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/171
 #EXTINF:-1 tvg-ID="" tvg-name="TRAVEL" tvg-logo="http://168.205.87.198/logocanais/travelbox.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]TRAVEL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/124.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/124
 #EXTINF:-1 tvg-ID="" tvg-name="TV APARECIDA" tvg-logo="http://168.205.87.198/logocanais/tvaparecida.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]TV APARECIDA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/131.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/131
 #EXTINF:-1 tvg-ID="" tvg-name="TV BRASIL 2" tvg-logo="http://168.205.87.198/logocanais/tvbrasil2.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]TV BRASIL 2[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/135.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/135
 #EXTINF:-1 tvg-ID="" tvg-name="TV BRASIL" tvg-logo="http://168.205.87.198/logocanais/tvbrasil.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]TV BRASIL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/134.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/134
 #EXTINF:-1 tvg-ID="" tvg-name="TV CÂMARA" tvg-logo="http://168.205.87.198/logocanais/tvcamara.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]TV CÂMARA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/136.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/136
 #EXTINF:-1 tvg-ID="" tvg-name="TV ESCOLA" tvg-logo="http://168.205.87.198/logocanais/tvescola.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]TV ESCOLA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/137.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/137
 #EXTINF:-1 tvg-ID="" tvg-name="TV JUSTIÇA" tvg-logo="http://168.205.87.198/logocanais/tvjustica.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]TV JUSTIÇA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/138.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/138
 #EXTINF:-1 tvg-ID="" tvg-name="TV SENADO" tvg-logo="http://168.205.87.198/logocanais/tvsenado.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]TV SENADO[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/139.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/139
 #EXTINF:-1 tvg-ID="" tvg-name="TV TURFE" tvg-logo="" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]TV TURFE[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/152.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/152
 #EXTINF:-1 tvg-ID="" tvg-name="VRT CHANNEL" tvg-logo="" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]VRT CHANNEL[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/146.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/146
 #EXTINF:-1 tvg-ID="" tvg-name="WOOHOO" tvg-logo="http://168.205.87.198/logocanais/woohoo.png" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]WOOHOO[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/141.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/141
 #EXTINF:-1 tvg-ID="" tvg-name="ZOOMOO" tvg-logo="" ,[COLOR orange][B]LS-TVs-CANAIS VARIADOS [COLOR yellow] -> [COLOR white]ZOOMOO[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/162.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 4[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1212/123456/162
