@@ -2,6 +2,18 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pR1YTxj/TVs-ONLINE-SERV-3.png",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
+#EXTINF:-1 tvg-id="" tvg-name="Gloob FHD" tvg-logo="http://159.69.8.18/logos/cdn/Gloob.png"  ,[COLOR orange][B]LS-TVs-CANAIS INFANTIS [COLOR yellow] -> [COLOR white]Gloob FHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 3 [/B][/COLOR]&amp;url=http://cdn.canais.cc:80/55111387/cliente@1387/105008
+#EXTINF:-1 tvg-id="" tvg-name="Gloob HD" tvg-logo="http://159.69.8.18/logos/cdn/Gloob.png"  ,[COLOR orange][B]LS-TVs-CANAIS INFANTIS [COLOR yellow] -> [COLOR white]Gloob HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 3 [/B][/COLOR]&amp;url=http://cdn.canais.cc:80/55111387/cliente@1387/105009
+#EXTINF:-1 tvg-id="" tvg-name="Gloob SD" tvg-logo="http://159.69.8.18/logos/cdn/Gloob.png"  ,[COLOR orange][B]LS-TVs-CANAIS INFANTIS [COLOR yellow] -> [COLOR white]Gloob SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 3 [/B][/COLOR]&amp;url=http://cdn.canais.cc:80/55111387/cliente@1387/105010
+#EXTINF:-1 tvg-id="" tvg-name="Gloobinho FHD" tvg-logo="http://159.69.8.18/logos/cdn/Gloobinho.png"  ,[COLOR orange][B]LS-TVs-CANAIS INFANTIS [COLOR yellow] -> [COLOR white]Gloobinho FHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 3 [/B][/COLOR]&amp;url=http://cdn.canais.cc:80/55111387/cliente@1387/105011
+#EXTINF:-1 tvg-id="" tvg-name="Gloobinho HD" tvg-logo="http://159.69.8.18/logos/cdn/Gloobinho.png"  ,[COLOR orange][B]LS-TVs-CANAIS INFANTIS [COLOR yellow] -> [COLOR white]Gloobinho HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 3 [/B][/COLOR]&amp;url=http://cdn.canais.cc:80/55111387/cliente@1387/105012
+#EXTINF:-1 tvg-id="" tvg-name="Gloobinho SD" tvg-logo="http://159.69.8.18/logos/cdn/Gloobinho.png"  ,[COLOR orange][B]LS-TVs-CANAIS INFANTIS [COLOR yellow] -> [COLOR white]Gloobinho SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 3 [/B][/COLOR]&amp;url=http://cdn.canais.cc:80/55111387/cliente@1387/105013
 #EXTINF:-1 tvg-id="" tvg-name="﻿Band FHD" tvg-logo="http://159.69.8.18/logos/cdn/band.png"  ,[COLOR orange][B]LS-TVs-CANAIS BAND [COLOR yellow] -> [COLOR white]﻿Band FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 3 [/B][/COLOR]&amp;url=http://cdn.canais.cc:80/55111387/cliente@1387/104671
 #EXTINF:-1 tvg-id="" tvg-name="Band HD" tvg-logo="http://159.69.8.18/logos/cdn/band.png"  ,[COLOR orange][B]LS-TVs-CANAIS BAND [COLOR yellow] -> [COLOR white]Band HD[/B][/COLOR]
@@ -664,18 +676,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 3 [/B][/COLOR]&amp;url=http://cdn.canais.cc:80/55111387/cliente@1387/105006
 #EXTINF:-1 tvg-id="" tvg-name="Disney XD SD" tvg-logo="http://159.69.8.18/logos/cdn/DisneyXD.png"  ,[COLOR orange][B]LS-TVs-CANAIS INFANTIS [COLOR yellow] -> [COLOR white]Disney XD SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 3 [/B][/COLOR]&amp;url=http://cdn.canais.cc:80/55111387/cliente@1387/105007
-#EXTINF:-1 tvg-id="" tvg-name="Gloob FHD" tvg-logo="http://159.69.8.18/logos/cdn/Gloob.png"  ,[COLOR orange][B]LS-TVs-CANAIS INFANTIS [COLOR yellow] -> [COLOR white]Gloob FHD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 3 [/B][/COLOR]&amp;url=http://cdn.canais.cc:80/55111387/cliente@1387/105008
-#EXTINF:-1 tvg-id="" tvg-name="Gloob HD" tvg-logo="http://159.69.8.18/logos/cdn/Gloob.png"  ,[COLOR orange][B]LS-TVs-CANAIS INFANTIS [COLOR yellow] -> [COLOR white]Gloob HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 3 [/B][/COLOR]&amp;url=http://cdn.canais.cc:80/55111387/cliente@1387/105009
-#EXTINF:-1 tvg-id="" tvg-name="Gloob SD" tvg-logo="http://159.69.8.18/logos/cdn/Gloob.png"  ,[COLOR orange][B]LS-TVs-CANAIS INFANTIS [COLOR yellow] -> [COLOR white]Gloob SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 3 [/B][/COLOR]&amp;url=http://cdn.canais.cc:80/55111387/cliente@1387/105010
-#EXTINF:-1 tvg-id="" tvg-name="Gloobinho FHD" tvg-logo="http://159.69.8.18/logos/cdn/Gloobinho.png"  ,[COLOR orange][B]LS-TVs-CANAIS INFANTIS [COLOR yellow] -> [COLOR white]Gloobinho FHD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 3 [/B][/COLOR]&amp;url=http://cdn.canais.cc:80/55111387/cliente@1387/105011
-#EXTINF:-1 tvg-id="" tvg-name="Gloobinho HD" tvg-logo="http://159.69.8.18/logos/cdn/Gloobinho.png"  ,[COLOR orange][B]LS-TVs-CANAIS INFANTIS [COLOR yellow] -> [COLOR white]Gloobinho HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 3 [/B][/COLOR]&amp;url=http://cdn.canais.cc:80/55111387/cliente@1387/105012
-#EXTINF:-1 tvg-id="" tvg-name="Gloobinho SD" tvg-logo="http://159.69.8.18/logos/cdn/Gloobinho.png"  ,[COLOR orange][B]LS-TVs-CANAIS INFANTIS [COLOR yellow] -> [COLOR white]Gloobinho SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 3 [/B][/COLOR]&amp;url=http://cdn.canais.cc:80/55111387/cliente@1387/105013
 #EXTINF:-1 tvg-id="" tvg-name="Zoomoo FHD" tvg-logo="http://159.69.8.18/logos/cdn/ZooMoo.png"  ,[COLOR orange][B]LS-TVs-CANAIS INFANTIS [COLOR yellow] -> [COLOR white]Zoomoo FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS - TVs [COLOR yellow] -> [COLOR white]SERVER 3 [/B][/COLOR]&amp;url=http://cdn.canais.cc:80/55111387/cliente@1387/105014
 #EXTINF:-1 tvg-id="" tvg-name="Zoomoo HD" tvg-logo="http://159.69.8.18/logos/cdn/ZooMoo.png"  ,[COLOR orange][B]LS-TVs-CANAIS INFANTIS [COLOR yellow] -> [COLOR white]Zoomoo HD[/B][/COLOR]
