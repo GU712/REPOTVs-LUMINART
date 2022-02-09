@@ -228,7 +228,7 @@ https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_-_canal_sac3bade.jpg" ,[COLOR orange][B]LS-TV - ABERTAS [COLOR yellow] -> [COLOR white] Canal Saúde[/B][/COLOR]
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvideonews.png" group-title="Documentário", TVídeoNews[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvideonews.png" ,[COLOR orange][B]LS-TV - ABERTAS [COLOR yellow] -> [COLOR white] TVídeoNews[/B][/COLOR]
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ngt.png" ,[COLOR orange][B]LS-TV - ABERTAS [COLOR yellow] -> [COLOR white] NGT[/B][/COLOR]
 https://cdn.jmvstream.com/w/AVJ-9644/playlist/playlist.m3u8
@@ -326,9 +326,9 @@ https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redbull.png" ,[COLOR orange][B]LS-TV - ABERTAS [COLOR yellow] -> [COLOR white] Red Bull TV[/B][/COLOR]
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rt.png" group-title="Documentário", RT Documentary Channel[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rt.png" ,[COLOR orange][B]LS-TV - ABERTAS [COLOR yellow] -> [COLOR white] RT Documentary Channel[/B][/COLOR]
 https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CGTN-Espanol.png" group-title="Documentário",CGTN Español[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CGTN-Espanol.png" ,[COLOR orange][B]LS-TV - ABERTAS [COLOR yellow] -> [COLOR white]CGTN Español[/B][/COLOR]
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/La1.png" ,[COLOR orange][B]LS-TV - ABERTAS [COLOR yellow] -> [COLOR white]La 1[/B][/COLOR]
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/index_1500_av-p.m3u8
