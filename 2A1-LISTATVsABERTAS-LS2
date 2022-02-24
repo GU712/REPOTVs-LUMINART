@@ -2,6 +2,8 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/q9KDBB4/TV-online.png" group-title="",[COLOR orange][B] SELECIONE UM ITEM [/B][/COLOR]
 LINKDOFILME
 
+#EXTINF:-1 tvg-logo="https://portal4.files.wordpress.com/2016/02/redebrasil-logo2015.jpg" ,[COLOR orange][B]LS-TV - ABERTAS [COLOR yellow] -> [COLOR white] REDE BRASIL[/B][/COLOR]
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1653521234.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" ,[COLOR orange][B]LS-TV - ABERTAS [COLOR yellow] -> [COLOR white] SBT - TV Jornal (PE)[/B][/COLOR]
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" ,[COLOR orange][B]LS-TV - ABERTAS [COLOR yellow] -> [COLOR white] SBT - TV Jornal Caruaru (PE)[/B][/COLOR]
