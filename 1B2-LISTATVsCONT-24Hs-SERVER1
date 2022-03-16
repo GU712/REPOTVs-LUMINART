@@ -14,7 +14,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS-TVs-24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://tv.cs10.tv:80/celso12345/celso12345/6179
 #EXTINF:-1 tvg-id="" tvg-name="X SCOOBY DOO" tvg-logo="https://1.bp.blogspot.com/-S6LT0c7qHnY/Tqm21R1ADLI/AAAAAAAAM9A/e2GGgxEB7lY/s1600/Scooby+Doo+%25281%2529.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]X SCOOBY DOO[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS-TVs-24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://tv.cs10.tv:80/celso12345/celso12345/7051
-#EXTINF:-1 tvg-id="" tvg-name="X CORAGEM, O CAO COVARDE" tvg-logo="https://i.pinimg.com/originals/8c/50/e5/8c50e5f0076d9bc52e23ef1c6d8ce0d5.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]X CORAGEM, O CAO COVARDE[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="X CORAGEM O CAO COVARDE" tvg-logo="https://i.pinimg.com/originals/8c/50/e5/8c50e5f0076d9bc52e23ef1c6d8ce0d5.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]X CORAGEM O CAO COVARDE[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS-TVs-24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://tv.cs10.tv:80/celso12345/celso12345/7050
 #EXTINF:-1 tvg-id="" tvg-name="X PICA PAU" tvg-logo="http://i.seuip.tv/1066.png" ,[COLOR orange][B]LS-TVs-24 HRs [COLOR yellow] -> [COLOR white]X PICA PAU[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS-TVs-24 HRs[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://tv.cs10.tv:80/celso12345/celso12345/6182
