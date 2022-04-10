@@ -30,29 +30,29 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://45.224.115.214:8080/welisson/123456/502
 #EXTINF:-1 tvg-id="BANDSPORTS" tvg-name="BAND SPORTS" tvg-logo="http://127.0.0.1/icones/bandsports.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white][B] SPORTES [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]BAND SPORTS[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://45.224.115.214:8080/welisson/123456/532
-#EXTINF:-1 tvg-id="" tvg-name="BBB AQUECIMENTO" tvg-logo="http://127.0.0.1/icones/bbb20.png" group-title="BBB",BBB AQUECIMENTO[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="BBB AQUECIMENTO" tvg-logo="http://127.0.0.1/icones/bbb20.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white][B] BBB [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]BBB AQUECIMENTO[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://45.224.115.214:8080/welisson/123456/565
-#EXTINF:-1 tvg-id="" tvg-name="BBB Camera 01" tvg-logo="http://127.0.0.1/icones/bbb20.png" group-title="BBB",BBB Camera 01[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="BBB Camera 01" tvg-logo="http://127.0.0.1/icones/bbb20.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white][B] BBB [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]BBB Camera 01[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://45.224.115.214:8080/welisson/123456/566
-#EXTINF:-1 tvg-id="" tvg-name="BBB Camera 02" tvg-logo="http://127.0.0.1/icones/bbb20.png" group-title="BBB",BBB Camera 02[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="BBB Camera 02" tvg-logo="http://127.0.0.1/icones/bbb20.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white][B] BBB [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]BBB Camera 02[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://45.224.115.214:8080/welisson/123456/567
-#EXTINF:-1 tvg-id="" tvg-name="BBB Camera 03" tvg-logo="http://127.0.0.1/icones/bbb20.png" group-title="BBB",BBB Camera 03[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="BBB Camera 03" tvg-logo="http://127.0.0.1/icones/bbb20.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white][B] BBB [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]BBB Camera 03[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://45.224.115.214:8080/welisson/123456/568
-#EXTINF:-1 tvg-id="" tvg-name="BBB Camera 04" tvg-logo="http://127.0.0.1/icones/bbb20.png" group-title="BBB",BBB Camera 04[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="BBB Camera 04" tvg-logo="http://127.0.0.1/icones/bbb20.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white][B] BBB [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]BBB Camera 04[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://45.224.115.214:8080/welisson/123456/569
-#EXTINF:-1 tvg-id="" tvg-name="BBB Camera 05" tvg-logo="http://127.0.0.1/icones/bbb20.png" group-title="BBB",BBB Camera 05[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="BBB Camera 05" tvg-logo="http://127.0.0.1/icones/bbb20.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white][B] BBB [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]BBB Camera 05[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://45.224.115.214:8080/welisson/123456/570
-#EXTINF:-1 tvg-id="" tvg-name="BBB Camera 06" tvg-logo="http://127.0.0.1/icones/bbb20.png" group-title="BBB",BBB Camera 06[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="BBB Camera 06" tvg-logo="http://127.0.0.1/icones/bbb20.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white][B] BBB [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]BBB Camera 06[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://45.224.115.214:8080/welisson/123456/571
-#EXTINF:-1 tvg-id="" tvg-name="BBB Camera 07" tvg-logo="http://127.0.0.1/icones/bbb20.png" group-title="BBB",BBB Camera 07[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="BBB Camera 07" tvg-logo="http://127.0.0.1/icones/bbb20.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white][B] BBB [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]BBB Camera 07[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://45.224.115.214:8080/welisson/123456/572
-#EXTINF:-1 tvg-id="" tvg-name="BBB Camera 08" tvg-logo="http://127.0.0.1/icones/bbb20.png" group-title="BBB",BBB Camera 08[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="BBB Camera 08" tvg-logo="http://127.0.0.1/icones/bbb20.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white][B] BBB [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]BBB Camera 08[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://45.224.115.214:8080/welisson/123456/573
-#EXTINF:-1 tvg-id="" tvg-name="BBB Camera 09" tvg-logo="http://127.0.0.1/icones/bbb20.png" group-title="BBB",BBB Camera 09[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="BBB Camera 09" tvg-logo="http://127.0.0.1/icones/bbb20.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white][B] BBB [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]BBB Camera 09[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://45.224.115.214:8080/welisson/123456/574
-#EXTINF:-1 tvg-id="" tvg-name="BBB Camera 10" tvg-logo="http://127.0.0.1/icones/bbb20.png" group-title="BBB",BBB Camera 10[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="BBB Camera 10" tvg-logo="http://127.0.0.1/icones/bbb20.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white][B] BBB [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]BBB Camera 10[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://45.224.115.214:8080/welisson/123456/575
-#EXTINF:-1 tvg-id="" tvg-name="BBB Camera 11" tvg-logo="http://127.0.0.1/icones/bbb20.png" group-title="BBB",BBB Camera 11[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="BBB Camera 11" tvg-logo="http://127.0.0.1/icones/bbb20.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white][B] BBB [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]BBB Camera 11[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://45.224.115.214:8080/welisson/123456/576
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="http://127.0.0.1/icones/bis.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white][B] ENTRETENIMENTO [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]BIS[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://45.224.115.214:8080/welisson/123456/599
@@ -360,7 +360,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://45.224.115.214:8080/welisson/123456/383
 #EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS" tvg-logo="http://127.0.0.1/icones/recordnews.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white][B] GLOBO e RECORD [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]RECORD NEWS[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://45.224.115.214:8080/welisson/123456/496
-#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS TO" tvg-logo="http://127.0.0.1/icones/recordnews.png" group-title="TOCANTINS",RECORD NEWS TO[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS TO" tvg-logo="http://127.0.0.1/icones/recordnews.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white][B] TOCANTINS [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]RECORD NEWS TO[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://45.224.115.214:8080/welisson/123456/411
 #EXTINF:-1 tvg-id="" tvg-name="RECORD RIO" tvg-logo="http://127.0.0.1/icones/record.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white][B] GLOBO e RECORD [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]RECORD RIO[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://45.224.115.214:8080/welisson/123456/497
@@ -620,3 +620,4 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]L
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://45.224.115.214:8080/welisson/123456/679
 #EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO" tvg-logo="http://127.0.0.1/icones/zoomoo.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white][B] KIDS [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]ZOOMOO[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER 1[/B][/COLOR];url=http://45.224.115.214:8080/welisson/123456/596
+
