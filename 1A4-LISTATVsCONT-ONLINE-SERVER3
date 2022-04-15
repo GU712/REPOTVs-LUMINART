@@ -27,7 +27,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange]
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoveryturbob.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white][B] HD [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]Discovery Turbo HD+[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/287994016465/287994016465/16711
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6HxrS69/SRS-SERV-1.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pR1YTxj/TVs-ONLINE-SERV-3.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
 LINKDOFILME
 
 
