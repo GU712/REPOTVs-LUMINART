@@ -1,3 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pR1YTxj/TVs-ONLINE-SERV-3.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
+LINKDOFILME
+
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/images/40e4afcfd925c2e4ea83a767993ea8b0.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white][B] HD [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]ANIMAL PLANET HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/287994016465/287994016465/16693
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/images/3f0a25c8c94296bd1563a0ece015ad4e.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white][B] HD [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]DISCOVERY CHANNEL HD[/B][/COLOR]
@@ -26,11 +30,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/287994016465/287994016465/16760
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoveryturbob.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white][B] HD [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]Discovery Turbo HD+[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/287994016465/287994016465/16711
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pR1YTxj/TVs-ONLINE-SERV-3.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
-LINKDOFILME
-
-
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sies HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tntseries.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white][B] HD [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]TNT Sies HD+[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/287994016465/287994016465/16761
 #EXTINF:-1 tvg-id="" tvg-name="H2 HD+" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/images/25fa91858b069b1652a8c0954a90ce60.png" group-title="[COLOR orange][B]Canais[COLOR yellow] -> [COLOR white][B] HD [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]H2 HD+[/B][/COLOR]
