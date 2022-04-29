@@ -1,5 +1,15 @@
+<item>				
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
+<link>NOLINK</link>				
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
 <item>
-<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white][B]BAND[/B][/COLOR]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]BAND[/B][/COLOR]</title>
 <link>rc=band</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/band.jpg</thumbnail>
 <fanart></fanart>
@@ -7,7 +17,7 @@
 </item>
 
 <item>
-<title>[B]GLOBO NORDESTE[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]GLOBO NORDESTE[/B][/COLOR]</title>
 <link>rc=bobonordeste</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/bobonordeste.jpg</thumbnail>
 <fanart></fanart>
@@ -15,7 +25,7 @@
 </item>
 
 <item>
-<title>[B]GLOBO RJ[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]GLOBO RJ[/B][/COLOR]</title>
 <link>rc=boborj</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/boborj.jpg</thumbnail>
 <fanart></fanart>
@@ -23,7 +33,7 @@
 </item>
 
 <item>
-<title>[B]GLOBO SP[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]GLOBO SP[/B][/COLOR]</title>
 <link>rc=bobosp</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/bobosp.jpg</thumbnail>
 <fanart></fanart>
@@ -31,7 +41,7 @@
 </item>
 
 <item>
-<title>[B]SBT[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]SBT[/B][/COLOR]</title>
 <link>rc=sbt</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/sbt.jpg</thumbnail>
 <fanart></fanart>
@@ -39,7 +49,7 @@
 </item>
 
 <item>
-<title>[B]RECORD[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]RECORD[/B][/COLOR]</title>
 <link>rc=recordsp</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/recordsp.jpg</thumbnail>
 <fanart></fanart>
@@ -48,7 +58,7 @@ de rádio) para a TV, que era a grande novidade no começo dos anos 50.</info>
 </item>
 
 <item>
-<title>[B]ANIMAL PLANET[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]ANIMAL PLANET[/B][/COLOR]</title>
 <link>rc=animalplanet</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/animalplanet.jpg</thumbnail>
 <fanart></fanart>
@@ -56,7 +66,7 @@ de rádio) para a TV, que era a grande novidade no começo dos anos 50.</info>
 </item>
 
 <item>
-<title>[B]DISCOVERY CHANNEL[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]DISCOVERY CHANNEL[/B][/COLOR]</title>
 <link>rc=discovery</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/discovery.jpg</thumbnail>
 <fanart></fanart>
@@ -64,7 +74,7 @@ de rádio) para a TV, que era a grande novidade no começo dos anos 50.</info>
 </item>
 
 <item>
-<title>[B]DISCOVERY CIVILIZATION[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]DISCOVERY CIVILIZATION[/B][/COLOR]</title>
 <link>rc=discoverycivilization</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/discoverycivilization.jpg</thumbnail>
 <fanart></fanart>
@@ -72,7 +82,7 @@ de rádio) para a TV, que era a grande novidade no começo dos anos 50.</info>
 </item>
 
 <item>
-<title>[B]DISCOVERY HOME & HEALTH[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]DISCOVERY HOME & HEALTH[/B][/COLOR]</title>
 <link>rc=discoveryhomeihealth</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/discoveryhomeihealth.jpg</thumbnail>
 <fanart></fanart>
@@ -80,7 +90,7 @@ de rádio) para a TV, que era a grande novidade no começo dos anos 50.</info>
 </item>
 
 <item>
-<title>[B]DISCOVERY SCIENCE[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]DISCOVERY SCIENCE[/B][/COLOR]</title>
 <link>rc=discoverysience</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/discoverysience.jpg</thumbnail>
 <fanart></fanart>
@@ -88,7 +98,7 @@ de rádio) para a TV, que era a grande novidade no começo dos anos 50.</info>
 </item>
 
 <item>
-<title>[B]DISCOVERY THEATER[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]DISCOVERY THEATER[/B][/COLOR]</title>
 <link>rc=discoverytheater</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/discoverytheater.jpg</thumbnail>
 <fanart></fanart>
@@ -97,7 +107,7 @@ de rádio) para a TV, que era a grande novidade no começo dos anos 50.</info>
 </item>
 
 <item>
-<title>[B]DISCOVERY TURBO[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]DISCOVERY TURBO[/B][/COLOR]</title>
 <link>rc=discoveryturbo</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/discoveryturbo.jpg</thumbnail>
 <fanart></fanart>
@@ -105,7 +115,7 @@ de rádio) para a TV, que era a grande novidade no começo dos anos 50.</info>
 </item>
 
 <item>
-<title>[B]DISCOVERY WORLD[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]DISCOVERY WORLD[/B][/COLOR]</title>
 <link>rc=discoveryworld</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/discoveryworld.jpg</thumbnail>
 <fanart></fanart>
@@ -113,7 +123,7 @@ de rádio) para a TV, que era a grande novidade no começo dos anos 50.</info>
 </item>
 
 <item>
-<title>[B]FOOD NETWORK[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]FOOD NETWORK[/B][/COLOR]</title>
 <link>rc=foodnetwork</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/foodnetwork.jpg</thumbnail>
 <fanart></fanart>
@@ -121,7 +131,7 @@ de rádio) para a TV, que era a grande novidade no começo dos anos 50.</info>
 </item>
 
 <item>
-<title>[B]HISTORY[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]HISTORY[/B][/COLOR]</title>
 <link>rc=history</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/history.jpg</thumbnail>
 <fanart></fanart>
@@ -129,7 +139,7 @@ de rádio) para a TV, que era a grande novidade no começo dos anos 50.</info>
 </item>
 
 <item>
-<title>[B]H2[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]H2[/B][/COLOR]</title>
 <link>rc=history2</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/history2.jpg</thumbnail>
 <fanart></fanart>
@@ -137,7 +147,7 @@ de rádio) para a TV, que era a grande novidade no começo dos anos 50.</info>
 </item>
 
 <item>
-<title>[B]INVESTIGAÇÃO DISCOVERY[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]INVESTIGAÇÃO DISCOVERY[/B][/COLOR]</title>
 <link>rc=investigacaodiscovery</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/investigacaodiscovery.jpg</thumbnail>
 <fanart></fanart>
@@ -145,7 +155,7 @@ de rádio) para a TV, que era a grande novidade no começo dos anos 50.</info>
 </item>
 
 <item>
-<title>[B]NAT GEO[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]NAT GEO[/B][/COLOR]</title>
 <link>rc=natgeo</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/natgeo.jpg</thumbnail>
 <fanart></fanart>
@@ -153,7 +163,7 @@ de rádio) para a TV, que era a grande novidade no começo dos anos 50.</info>
 </item>
 
 <item>
-<title>[B]NAT GEO WILD[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]NAT GEO WILD[/B][/COLOR]</title>
 <link>rc=natgeowild</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/natgeowild.jpg</thumbnail>
 <fanart></fanart>
@@ -161,7 +171,7 @@ de rádio) para a TV, que era a grande novidade no começo dos anos 50.</info>
 </item>
 
 <item>
-<title>[B]BAND SPORTS[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]BAND SPORTS[/B][/COLOR]</title>
 <link>rc=bandsports</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/bandsports.jpg</thumbnail>
 <fanart></fanart>
@@ -169,7 +179,7 @@ de rádio) para a TV, que era a grande novidade no começo dos anos 50.</info>
 </item>
 
 <item>
-<title>[B]COMBATE[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]COMBATE[/B][/COLOR]</title>
 <link>rc=combate</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/combate.jpg</thumbnail>
 <fanart></fanart>
@@ -178,7 +188,7 @@ O canal exibe todos os eventos do UFC ao vivo, bem como os maiores eventos do mu
 </item>
 
 <item>
-<title>[B]ESPN[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]ESPN[/B][/COLOR]</title>
 <link>rc=espn</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/espn.jpg</thumbnail>
 <fanart></fanart>
@@ -186,7 +196,7 @@ O canal exibe todos os eventos do UFC ao vivo, bem como os maiores eventos do mu
 </item>
 
 <item>
-<title>[B]ESPN 2[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]ESPN 2[/B][/COLOR]</title>
 <link>rc=espn2</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/espnmais.jpg</thumbnail>
 <fanart></fanart>
@@ -194,7 +204,7 @@ O canal exibe todos os eventos do UFC ao vivo, bem como os maiores eventos do mu
 </item>
 
 <item>
-<title>[B]ESPN BRASIL[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]ESPN BRASIL[/B][/COLOR]</title>
 <link>rc=espnbrasil</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/espnbrasil.jpg</thumbnail>
 <fanart></fanart>
@@ -202,7 +212,7 @@ O canal exibe todos os eventos do UFC ao vivo, bem como os maiores eventos do mu
 </item>
 
 <item>
-<title>[B]ESPN EXTRA[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]ESPN EXTRA[/B][/COLOR]</title>
 <link>rc=espnextra</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/espnextra.jpg</thumbnail>
 <fanart></fanart>
@@ -210,7 +220,7 @@ O canal exibe todos os eventos do UFC ao vivo, bem como os maiores eventos do mu
 </item>
 
 <item>
-<title>[B]FOX SPORTS[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]FOX SPORTS[/B][/COLOR]</title>
 <link>rc=foxsports1</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/foxsports1.jpg</thumbnail>
 <fanart></fanart>
@@ -218,7 +228,7 @@ O canal exibe todos os eventos do UFC ao vivo, bem como os maiores eventos do mu
 </item>
 
 <item>
-<title>[B]FOX SPORTS 2[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]FOX SPORTS 2[/B][/COLOR]</title>
 <link>rc=foxsports2</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/foxsports2.jpg</thumbnail>
 <fanart></fanart>
@@ -226,7 +236,7 @@ O canal exibe todos os eventos do UFC ao vivo, bem como os maiores eventos do mu
 </item>
 
 <item>
-<title>[B]SPORTV[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]SPORTV[/B][/COLOR]</title>
 <link>rc=sportv1</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/sportv1.jpg</thumbnail>
 <fanart></fanart>
@@ -234,7 +244,7 @@ O canal exibe todos os eventos do UFC ao vivo, bem como os maiores eventos do mu
 </item>
 
 <item>
-<title>[B]SPORTV 2[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]SPORTV 2[/B][/COLOR]</title>
 <link>rc=sportv2</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/sportv2.jpg</thumbnail>
 <fanart></fanart>
@@ -243,7 +253,7 @@ final dos jogos, mas que, posteriormente, voltaram à atividade.</info>
 </item>
 
 <item>
-<title>[B]SPORTV 3[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]SPORTV 3[/B][/COLOR]</title>
 <link>rc=sportv3</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/sportv3.jpg</thumbnail>
 <fanart></fanart>
@@ -252,7 +262,7 @@ final dos jogos, mas que, posteriormente, voltaram à atividade.</info>
 </item>
 
 <item>
-<title>[B]PREMIERE CLUBES[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]PREMIERE CLUBES[/B][/COLOR]</title>
 <link>rc=premiereclubes</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/premiereclubes.jpg</thumbnail>
 <fanart></fanart>
@@ -260,7 +270,7 @@ final dos jogos, mas que, posteriormente, voltaram à atividade.</info>
 </item>
 
 <item>
-<title>[B]PREMIERE 2[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]PREMIERE 2[/B][/COLOR]</title>
 <link>rc=premiere2</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/premiere2.jpg</thumbnail>
 <fanart></fanart>
@@ -268,7 +278,7 @@ final dos jogos, mas que, posteriormente, voltaram à atividade.</info>
 </item>
 
 <item>
-<title>[B]PREMIERE 3[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]PREMIERE 3[/B][/COLOR]</title>
 <link>rc=premiere3</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/premiere3.jpg</thumbnail>
 <fanart></fanart>
@@ -276,7 +286,7 @@ final dos jogos, mas que, posteriormente, voltaram à atividade.</info>
 </item>
 
 <item>
-<title>[B]PREMIERE 4[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]PREMIERE 4[/B][/COLOR]</title>
 <link>rc=premiere4</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/premiere4.jpg</thumbnail>
 <fanart></fanart>
@@ -284,7 +294,7 @@ final dos jogos, mas que, posteriormente, voltaram à atividade.</info>
 </item>
 
 <item>
-<title>[B]PREMIERE 5[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]PREMIERE 5[/B][/COLOR]</title>
 <link>rc=premiere5</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/premiere5.jpg</thumbnail>
 <fanart></fanart>
@@ -292,7 +302,7 @@ final dos jogos, mas que, posteriormente, voltaram à atividade.</info>
 </item>
 
 <item>
-<title>[B]PREMIERE 6[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]PREMIERE 6[/B][/COLOR]</title>
 <link>rc=premiere6</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/premiere6.jpg</thumbnail>
 <fanart></fanart>
@@ -300,7 +310,7 @@ final dos jogos, mas que, posteriormente, voltaram à atividade.</info>
 </item>
 
 <item>
-<title>[B]PREMIERE 7[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]PREMIERE 7[/B][/COLOR]</title>
 <link>rc=premiere7</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/premiere7.jpg</thumbnail>
 <fanart></fanart>
@@ -308,7 +318,7 @@ final dos jogos, mas que, posteriormente, voltaram à atividade.</info>
 </item>
 
 <item>
-<title>[B]PREMIERE 8[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]PREMIERE 8[/B][/COLOR]</title>
 <link>rc=premiere8</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/premiere8.jpg</thumbnail>
 <fanart></fanart>
@@ -316,7 +326,7 @@ final dos jogos, mas que, posteriormente, voltaram à atividade.</info>
 </item>
 
 <item>
-<title>[B]A&E[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]A&E[/B][/COLOR]</title>
 <link>rc=aie</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/aie.jpg</thumbnail>
 <fanart></fanart>
@@ -324,7 +334,7 @@ final dos jogos, mas que, posteriormente, voltaram à atividade.</info>
 </item>
 
 <item>
-<title>[B]AMC[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]AMC[/B][/COLOR]</title>
 <link>rc=amc</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/amc.jpg</thumbnail>
 <fanart></fanart>
@@ -332,7 +342,7 @@ final dos jogos, mas que, posteriormente, voltaram à atividade.</info>
 </item>
 
 <item>
-<title>[B]AXN[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]AXN[/B][/COLOR]</title>
 <link>rc=axn</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/axn.jpg</thumbnail>
 <fanart></fanart>
@@ -340,7 +350,7 @@ final dos jogos, mas que, posteriormente, voltaram à atividade.</info>
 </item>
 
 <item>
-<title>[B]CANAL BRASIL[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]CANAL BRASIL[/B][/COLOR]</title>
 <link>rc=canalbrasil</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/canalbrasil.jpg</thumbnail>
 <fanart></fanart>
@@ -348,7 +358,7 @@ final dos jogos, mas que, posteriormente, voltaram à atividade.</info>
 </item>
 
 <item>
-<title>[B]COMEDY CENTRAL[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]COMEDY CENTRAL[/B][/COLOR]</title>
 <link>rc=comedycentral</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/comedycentral.jpg</thumbnail>
 <fanart></fanart>
@@ -356,7 +366,7 @@ final dos jogos, mas que, posteriormente, voltaram à atividade.</info>
 </item>
 
 <item>
-<title>[B]CINEMAX[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]CINEMAX[/B][/COLOR]</title>
 <link>rc=cinemax</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/cinemax.jpg</thumbnail>
 <fanart></fanart>
@@ -364,7 +374,7 @@ final dos jogos, mas que, posteriormente, voltaram à atividade.</info>
 </item>
 
 <item>
-<title>[B]STAR CHANNEL[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]STAR CHANNEL[/B][/COLOR]</title>
 <link>rc=fox</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/starchannel.jpg</thumbnail>
 <fanart></fanart>
@@ -372,7 +382,7 @@ final dos jogos, mas que, posteriormente, voltaram à atividade.</info>
 </item>
 
 <item>
-<title>[B]STAR HITS[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]STAR HITS[/B][/COLOR]</title>
 <link>rc=foxpremium1</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/starhits.jpg</thumbnail>
 <fanart></fanart>
@@ -380,7 +390,7 @@ final dos jogos, mas que, posteriormente, voltaram à atividade.</info>
 </item>
 
 <item>
-<title>[B]STAR HITS 2[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]STAR HITS 2[/B][/COLOR]</title>
 <link>rc=foxpremium2</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/starhits2.jpg</thumbnail>
 <fanart></fanart>
@@ -388,7 +398,7 @@ final dos jogos, mas que, posteriormente, voltaram à atividade.</info>
 </item>
 
 <item>
-<title>[B]STAR LIFE[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]STAR LIFE[/B][/COLOR]</title>
 <link>rc=foxlife</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/starlife.jpg</thumbnail>
 <fanart></fanart>
@@ -396,7 +406,7 @@ final dos jogos, mas que, posteriormente, voltaram à atividade.</info>
 </item>
 
 <item>
-<title>[B]FX[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]FX[/B][/COLOR]</title>
 <link>rc=fx</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/fx.jpg</thumbnail>
 <fanart></fanart>
@@ -404,7 +414,7 @@ final dos jogos, mas que, posteriormente, voltaram à atividade.</info>
 </item>
 
 <item>
-<title>[B]HBO[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]HBO[/B][/COLOR]</title>
 <link>rc=hbo</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/hbo.jpg</thumbnail>
 <fanart></fanart>
@@ -412,7 +422,7 @@ final dos jogos, mas que, posteriormente, voltaram à atividade.</info>
 </item>
 
 <item>
-<title>[B]HBO 2[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]HBO 2[/B][/COLOR]</title>
 <link>rc=hbo2</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/hbo2.jpg</thumbnail>
 <fanart></fanart>
@@ -420,7 +430,7 @@ final dos jogos, mas que, posteriormente, voltaram à atividade.</info>
 </item>
 
 <item>
-<title>[B]HBO FAMILY[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]HBO FAMILY[/B][/COLOR]</title>
 <link>rc=hbofamily</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/hbofamily.jpg</thumbnail>
 <fanart></fanart>
@@ -428,7 +438,7 @@ final dos jogos, mas que, posteriormente, voltaram à atividade.</info>
 </item>
 
 <item>
-<title>[B]HBO PLUS[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]HBO PLUS[/B][/COLOR]</title>
 <link>rc=hboplus</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/hboplus.jpg</thumbnail>
 <fanart></fanart>
@@ -436,7 +446,7 @@ final dos jogos, mas que, posteriormente, voltaram à atividade.</info>
 </item>
 
 <item>
-<title>[B]HBO SIGNATURE[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]HBO SIGNATURE[/B][/COLOR]</title>
 <link>rc=hbosignature</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/hbosignature.jpg</thumbnail>
 <fanart></fanart>
@@ -444,7 +454,7 @@ final dos jogos, mas que, posteriormente, voltaram à atividade.</info>
 </item>
 
 <item>
-<title>[B]HBO MUNDI[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]HBO MUNDI[/B][/COLOR]</title>
 <link>rc=hbomundi</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/hbomundi.jpg</thumbnail>
 <fanart></fanart>
@@ -453,7 +463,7 @@ o Cinemax *e. O HBO Mundi é operado pela HBO Latin America Group, uma subsidiá
 </item>
 
 <item>
-<title>[B]HBO XTREME[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]HBO XTREME[/B][/COLOR]</title>
 <link>rc=hboxtreme</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/hboxtreme.jpg</thumbnail>
 <fanart></fanart>
@@ -462,7 +472,7 @@ setembro de 2003 até 2020.</info>
 </item>
 
 <item>
-<title>[B]HBO POP[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]HBO POP[/B][/COLOR]</title>
 <link>rc=hbopop</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/hbopop.jpg</thumbnail>
 <fanart></fanart>
@@ -470,7 +480,7 @@ setembro de 2003 até 2020.</info>
 </item>
 
 <item>
-<title>[B]MEGAPIX[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]MEGAPIX[/B][/COLOR]</title>
 <link>rc=megapix</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/megapix.jpg</thumbnail>
 <fanart></fanart>
@@ -479,7 +489,7 @@ geralmente foram lançados pelo Telecine ou HBO, mas que estreiam com exclusivid
 </item>
 
 <item>
-<title>[B]PARAMOUNT CHANNEL[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]PARAMOUNT CHANNEL[/B][/COLOR]</title>
 <link>rc=paramount</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/paramount.jpg</thumbnail>
 <fanart></fanart>
@@ -487,7 +497,7 @@ geralmente foram lançados pelo Telecine ou HBO, mas que estreiam com exclusivid
 </item>
 
 <item>
-<title>[B]SONY[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]SONY[/B][/COLOR]</title>
 <link>rc=sony</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/sony.jpg</thumbnail>
 <fanart></fanart>
@@ -495,7 +505,7 @@ geralmente foram lançados pelo Telecine ou HBO, mas que estreiam com exclusivid
 </item>
 
 <item>
-<title>[B]SPACE[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]SPACE[/B][/COLOR]</title>
 <link>rc=space</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/space.jpg</thumbnail>
 <fanart></fanart>
@@ -503,7 +513,7 @@ geralmente foram lançados pelo Telecine ou HBO, mas que estreiam com exclusivid
 </item>
 
 <item>
-<title>[B]STUDIO UNIVERSAL[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]STUDIO UNIVERSAL[/B][/COLOR]</title>
 <link>rc=studiouniversal</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/studiouniversal.jpg</thumbnail>
 <fanart></fanart>
@@ -511,7 +521,7 @@ geralmente foram lançados pelo Telecine ou HBO, mas que estreiam com exclusivid
 </item>
 
 <item>
-<title>[B]SYFY[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]SYFY[/B][/COLOR]</title>
 <link>rc=syfy</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/syfy.jpg</thumbnail>
 <fanart></fanart>
@@ -519,7 +529,7 @@ geralmente foram lançados pelo Telecine ou HBO, mas que estreiam com exclusivid
 </item>
 
 <item>
-<title>[B]TCM[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]TCM[/B][/COLOR]</title>
 <link>rc=tcm</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/tcm.jpg</thumbnail>
 <fanart></fanart>
@@ -527,7 +537,7 @@ geralmente foram lançados pelo Telecine ou HBO, mas que estreiam com exclusivid
 </item>
 
 <item>
-<title>[B]TELECINE ACTION[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]TELECINE ACTION[/B][/COLOR]</title>
 <link>rc=telecineaction</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/telecineaction.jpg</thumbnail>
 <fanart></fanart>
@@ -535,7 +545,7 @@ geralmente foram lançados pelo Telecine ou HBO, mas que estreiam com exclusivid
 </item>
 
 <item>
-<title>[B]TELECINE CULT[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]TELECINE CULT[/B][/COLOR]</title>
 <link>rc=telecinecult</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/telecinecult.jpg</thumbnail>
 <fanart></fanart>
@@ -544,7 +554,7 @@ asiáticas, latinas, etc. O canal exibe todos os filmes sem os eventuais interva
 </item>
 
 <item>
-<title>[B]TELECINE FUN[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]TELECINE FUN[/B][/COLOR]</title>
 <link>rc=telecinefun</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/telecinefun.jpg</thumbnail>
 <fanart></fanart>
@@ -552,7 +562,7 @@ asiáticas, latinas, etc. O canal exibe todos os filmes sem os eventuais interva
 </item>
 
 <item>
-<title>[B]TELECINE PIPOCA[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]TELECINE PIPOCA[/B][/COLOR]</title>
 <link>rc=telecinepipoca</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/telecinepipoca.jpg</thumbnail>
 <fanart></fanart>
@@ -561,7 +571,7 @@ Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comercia
 </item>
 
 <item>
-<title>[B]TELECINE PREMIUM[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]TELECINE PREMIUM[/B][/COLOR]</title>
 <link>rc=telecinepremium</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/telecinepremium.jpg</thumbnail>
 <fanart></fanart>
@@ -569,7 +579,7 @@ Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comercia
 </item>
 
 <item>
-<title>[B]TELECINE TOUCH[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]TELECINE TOUCH[/B][/COLOR]</title>
 <link>rc=telecinetouch</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/telecinetouch.jpg</thumbnail>
 <fanart></fanart>
@@ -577,7 +587,7 @@ Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comercia
 </item>
 
 <item>
-<title>[B]TNT[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]TNT[/B][/COLOR]</title>
 <link>rc=tnt</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/tnt.jpg</thumbnail>
 <fanart></fanart>
@@ -585,7 +595,7 @@ Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comercia
 </item>
 
 <item>
-<title>[B]TNT SÉRIES[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]TNT SÉRIES[/B][/COLOR]</title>
 <link>rc=tntseries</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/tntseries.jpg</thumbnail>
 <fanart></fanart>
@@ -593,7 +603,7 @@ Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comercia
 </item>
 
 <item>
-<title>[B]UNIVERSAL TV[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]UNIVERSAL TV[/B][/COLOR]</title>
 <link>rc=universal</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/universal.jpg</thumbnail>
 <fanart></fanart>
@@ -601,7 +611,7 @@ Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comercia
 </item>
 
 <item>
-<title>[B]WARNER TV[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]WARNER TV[/B][/COLOR]</title>
 <link>rc=warner</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/warner.jpg</thumbnail>
 <fanart></fanart>
@@ -609,7 +619,7 @@ Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comercia
 </item>
 
 <item>
-<title>[B]BOOMERANG[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]BOOMERANG[/B][/COLOR]</title>
 <link>rc=boomerang</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/boomerang.jpg</thumbnail>
 <fanart></fanart>
@@ -617,7 +627,7 @@ Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comercia
 </item>
 
 <item>
-<title>[B]CARTOON NETWORK[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]CARTOON NETWORK[/B][/COLOR]</title>
 <link>rc=cartoon</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/cartoon.jpg</thumbnail>
 <fanart></fanart>
@@ -625,7 +635,7 @@ Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comercia
 </item>
 
 <item>
-<title>[B]DISCOVERY KIDS[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]DISCOVERY KIDS[/B][/COLOR]</title>
 <link>rc=discoverykids</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/discoverykids.jpg</thumbnail>
 <fanart></fanart>
@@ -633,7 +643,7 @@ Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comercia
 </item>
 
 <item>
-<title>[B]DISNEY CHANNEL[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]DISNEY CHANNEL[/B][/COLOR]</title>
 <link>rc=disney</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/disney.jpg</thumbnail>
 <fanart></fanart>
@@ -641,7 +651,7 @@ Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comercia
 </item>
 
 <item>
-<title>[B]DISNEY JUNIOR[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]DISNEY JUNIOR[/B][/COLOR]</title>
 <link>rc=disneyjunior</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/disneyjunior.jpg</thumbnail>
 <fanart></fanart>
@@ -649,7 +659,7 @@ Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comercia
 </item>
 
 <item>
-<title>[B]DISNEY XD[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]DISNEY XD[/B][/COLOR]</title>
 <link>rc=disneyxd</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/disneyxd.jpg</thumbnail>
 <fanart></fanart>
@@ -658,7 +668,7 @@ Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comercia
 </item>
 
 <item>
-<title>[B]GLOOB[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]GLOOB[/B][/COLOR]</title>
 <link>rc=gloob</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/gloob.jpg</thumbnail>
 <fanart></fanart>
@@ -666,7 +676,7 @@ Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comercia
 </item>
 
 <item>
-<title>[B]GLOOBINHO[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]GLOOBINHO[/B][/COLOR]</title>
 <link>rc=gloobinho</link>
 <thumbnail>https://i.imgur.com/iJw4f32.png</thumbnail>
 <fanart></fanart>
@@ -674,7 +684,7 @@ Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comercia
 </item>
 
 <item>
-<title>[B]NAT GEO KIDS[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]NAT GEO KIDS[/B][/COLOR]</title>
 <link>rc=natgeokids</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/natgeokids.jpg</thumbnail>
 <fanart></fanart>
@@ -682,7 +692,7 @@ Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comercia
 </item>
 
 <item>
-<title>[B]NICKELODEON[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]NICKELODEON[/B][/COLOR]</title>
 <link>rc=nick</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/nick.jpg</thumbnail>
 <fanart></fanart>
@@ -690,7 +700,7 @@ Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comercia
 </item>
 
 <item>
-<title>[B]NICK JR[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]NICK JR[/B][/COLOR]</title>
 <link>rc=nickjr</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/nickjr.jpg</thumbnail>
 <fanart></fanart>
@@ -698,7 +708,7 @@ Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comercia
 </item>
 
 <item>
-<title>[B]PLAYKIDS[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]PLAYKIDS[/B][/COLOR]</title>
 <link>rc=playkids</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/playkids.jpg</thumbnail>
 <fanart></fanart>
@@ -706,7 +716,7 @@ Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comercia
 </item>
 
 <item>
-<title>[B]TOONCAST[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]TOONCAST[/B][/COLOR]</title>
 <link>rc=tooncast</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/tooncast.jpg</thumbnail>
 <fanart></fanart>
@@ -714,7 +724,7 @@ Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comercia
 </item>
 
 <item>
-<title>[B]ZOOMOO[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]ZOOMOO[/B][/COLOR]</title>
 <link>rc=zoomoo</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/zoomoo.jpg</thumbnail>
 <fanart></fanart>
@@ -722,7 +732,7 @@ Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comercia
 </item>
 
 <item>
-<title>[B]ARTE 1[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]ARTE 1[/B][/COLOR]</title>
 <link>rc=arte1</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/arte1.jpg</thumbnail>
 <fanart></fanart>
@@ -730,7 +740,7 @@ Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comercia
 </item>
 
 <item>
-<title>[B]BIS[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]BIS[/B][/COLOR]</title>
 <link>rc=bis</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/bis.jpg</thumbnail>
 <fanart></fanart>
@@ -738,7 +748,7 @@ Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comercia
 </item>
 
 <item>
-<title>[B]CANAL OFF[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]CANAL OFF[/B][/COLOR]</title>
 <link>rc=off</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/off.jpg</thumbnail>
 <fanart></fanart>
@@ -746,7 +756,7 @@ Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comercia
 </item>
 
 <item>
-<title>[B]CURTA![/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]CURTA![/B][/COLOR]</title>
 <link>rc=curta</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/curta.jpg</thumbnail>
 <fanart></fanart>
@@ -754,7 +764,7 @@ Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comercia
 </item>
 
 <item>
-<title>[B]E! ENTERTAINMENT[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]E! ENTERTAINMENT[/B][/COLOR]</title>
 <link>rc=canale</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/canale.jpg</thumbnail>
 <fanart></fanart>
@@ -762,7 +772,7 @@ Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comercia
 </item>
 
 <item>
-<title>[B]FISH TV[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]FISH TV[/B][/COLOR]</title>
 <link>rc=fishtv</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/fishtv.jpg</thumbnail>
 <fanart></fanart>
@@ -770,7 +780,7 @@ Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comercia
 </item>
 
 <item>
-<title>[B]GNT[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]GNT[/B][/COLOR]</title>
 <link>rc=gnt</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/gnt.jpg</thumbnail>
 <fanart></fanart>
@@ -778,7 +788,7 @@ Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comercia
 </item>
 
 <item>
-<title>[B]LIFETIME[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]LIFETIME[/B][/COLOR]</title>
 <link>rc=lifetime</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/lifetime.jpg</thumbnail>
 <fanart></fanart>
@@ -786,7 +796,7 @@ Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comercia
 </item>
 
 <item>
-<title>[B]MAIS GLOBOSAT[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]MAIS GLOBOSAT[/B][/COLOR]</title>
 <link>rc=maisbobosat</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/maisbobosat.jpg</thumbnail>
 <fanart></fanart>
@@ -794,7 +804,7 @@ Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comercia
 </item>
 
 <item>
-<title>[B]MTV[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]MTV[/B][/COLOR]</title>
 <link>rc=mtv</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/mtv.jpg</thumbnail>
 <fanart></fanart>
@@ -802,7 +812,7 @@ Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comercia
 </item>
 
 <item>
-<title>[B]MTV LIVE[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]MTV LIVE[/B][/COLOR]</title>
 <link>rc=mtvlive</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/mtvlive.jpg</thumbnail>
 <fanart></fanart>
@@ -810,7 +820,7 @@ Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comercia
 </item>
 
 <item>
-<title>[B]VIVA[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]VIVA[/B][/COLOR]</title>
 <link>rc=viva</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/viva.jpg</thumbnail>
 <fanart></fanart>
@@ -818,7 +828,7 @@ Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comercia
 </item>
 
 <item>
-<title>[B]MULTISHOW[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]MULTISHOW[/B][/COLOR]</title>
 <link>rc=multishow</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/multishow.jpg</thumbnail>
 <fanart></fanart>
@@ -827,7 +837,7 @@ do entretenimento.</info>
 </item>
 
 <item>
-<title>[B]BAND NEWS[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]BAND NEWS[/B][/COLOR]</title>
 <link>rc=bandnews</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/bandnews.jpg</thumbnail>
 <fanart></fanart>
@@ -835,7 +845,7 @@ do entretenimento.</info>
 </item>
 
 <item>
-<title>[B]CNN BRASIL[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]CNN BRASIL[/B][/COLOR]</title>
 <link>rc=cnnbrasil</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/cnnbrasil.jpg</thumbnail>
 <fanart></fanart>
@@ -843,7 +853,7 @@ do entretenimento.</info>
 </item>
 
 <item>
-<title>[B]GLOBO NEWS[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]GLOBO NEWS[/B][/COLOR]</title>
 <link>rc=globonews</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/globonews.jpg</thumbnail>
 <fanart></fanart>
@@ -851,7 +861,7 @@ do entretenimento.</info>
 </item>
 
 <item>
-<title>[B]RECORD NEWS[/B]</title>
+<title>[COLOR orange][B]SERVER RC[COLOR yellow] ->[COLOR white]RECORD NEWS[/B][/COLOR]</title>
 <link>rc=recordnews</link>
 <thumbnail>https://redecanaistv.net/player3/imgs-videos/Canais/recordnews.jpg</thumbnail>
 <fanart></fanart>
