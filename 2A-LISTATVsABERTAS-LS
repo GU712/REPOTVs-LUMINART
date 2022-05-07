@@ -1,299 +1,1239 @@
-<item>		
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>		
-<link>NOLINK</link>		
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>		
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]A&E HD[/B][/COLOR]</title>		
-<link>https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_1.m3u8</link>		
-<thumbnail>https://liberador.net/media/images/AE.max-640x640.jpg</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]Arte 1 HD[/B][/COLOR]</title>		
-<link>https://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_3.m3u8</link>		
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]Band HD[/B][/COLOR]</title>		
-<link>http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8</link>		
-<thumbnail>https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2020/05/15/band-8127413.jpg</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]Band SP Interior HD[/B][/COLOR]</title>		
-<link>http://origin-02.nxplay.com.br/BAND_HD_PFZ_NX1/tracks-v1a1/mono.m3u8</link>		
-<thumbnail>https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2020/05/15/band-8127413.jpg</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]Band News HD[/B][/COLOR]</title>		
-<link>http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/chunklist.m3u8</link>		
-<thumbnail>https://i0.wp.com/telaviva.com.br/wp-content/uploads/2019/04/BANDNEWS.jpg?fit=418%2C235&ssl=1</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]Band Sports SD[/B][/COLOR]</title>		
-<link>http://origin-02.nxplay.com.br/band_spor_9913/tracks-v2a1/mono.m3u8</link>		
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1280px-BandSports_logo.svg.png</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]Canal Cult HD[/B][/COLOR]</title>		
-<link>http://origin-02.nxplay.com.br/Cult/tracks-v1a1/mono.m3u8</link>		
-<thumbnail>https://iconape.com/wp-content/files/ld/284920/svg/telecine-cult-logo-logo-icon-png-svg.png</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]Canção Nova HD[/B][/COLOR]</title>		
-<link>http://origin-02.nxplay.com.br/CANCAO_NOVA_01/tracks-v1a1/mono.m3u8</link>		
-<thumbnail>http://img.cancaonova.com/cnimages/especiais/uploads/sites/11/2014/09/marca_cancao_nova_jpg_v140517.jpg</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]Classic Hits[/B][/COLOR]</title>		
-<link>http://origin-02.nxplay.com.br/classichit/tracks-v1a1/mono.m3u8</link>		
-<thumbnail>https://cdn-profiles.tunein.com/s249942/images/brickg.jpg?t=637417553190000000</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]CNN Brasil HD[/B][/COLOR]</title>		
-<link>http://origin-02.nxplay.com.br/CNN_BR_OK_1/tracks-v1a1/mono.m3u8</link>		
-<thumbnail>https://yt3.ggpht.com/ytc/AKedOLR6x4Xeq7in7_LyDuivc_8ywmr4MuonUKH1f8Z4Hg=s900-c-k-c0x00ffffff-no-rj</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]Comedy Central HD[/B][/COLOR]</title>		
-<link>http://origin-02.nxplay.com.br/comed_central-tk/tracks-v1a1/mono.m3u8</link>		
-<thumbnail>https://1.bp.blogspot.com/-nSmbIekVkL4/WxQyiEp7JFI/AAAAAAABIN0/gmkf28364esi7ywu-uwzP1s66Ts77MW_ACLcBGAs/s640/Comedy-Central-Logo.png</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]Esporte Interativo HD[/B][/COLOR]</title>		
-<link>https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8</link>		
-<thumbnail>https://www.esporteinterativo.com.br/__export/1569340825956/sites/esporteinterativo/arte/apps/facebook.jpg</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]Film&Arts HD[/B][/COLOR]</title>		
-<link>http://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v2a1/mono.m3u8</link>		
-<thumbnail>https://www.textual.com.br/wp-content/uploads/2019/10/FIlmeArts_site.png</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]Film&Arts [/B][/COLOR]</title>		
-<link>http://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v1a1/mono.m3u8</link>		
-<thumbnail>https://www.textual.com.br/wp-content/uploads/2019/10/FIlmeArts_site.png</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]FishTv [/B][/COLOR]</title>		
-<link>http://origin-02.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8</link>		
-<thumbnail>https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]Globo News HD[/B][/COLOR]</title>		
-<link>http://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/playlist.m3u8</link>		
-<thumbnail>https://observatoriodatv.uol.com.br/wp-content/uploads/2020/10/Globnews.jpg</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]Globo HD[/B][/COLOR]</title>		
-<link>http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8</link>		
-<thumbnail>https://static.wikia.nocookie.net/tvpediabrasil/images/a/ab/Globo21-1.jpg/revision/latest?cb=20210104213029&path-prefix=pt-br</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]Globo BAHIA HD[/B][/COLOR]</title>		
-<link>https://canal1.proxy.tokplay.com.br/videos/event1/profile2.m3u8</link>		
-<thumbnail>https://static.wikia.nocookie.net/tvpediabrasil/images/a/ab/Globo21-1.jpg/revision/latest?cb=20210104213029&path-prefix=pt-br</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]Globo RJ HD[/B][/COLOR]</title>		
-<link>http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8</link>		
-<thumbnail>https://static.wikia.nocookie.net/tvpediabrasil/images/a/ab/Globo21-1.jpg/revision/latest?cb=20210104213029&path-prefix=pt-br</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]Megapix HD[/B][/COLOR]</title>		
-<link>http://199.127.62.234:2082/streams/171_.m3u8</link>		
-<thumbnail>https://1.bp.blogspot.com/-5t2hfDa4OLs/XIbelmtDiDI/AAAAAAABS0s/IC2YcfVdX_wxIhyAqdl_9-auvv5_stiqgCLcBGAs/s1600/8e98b42584b1a930aee9241e73fa.png</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]MTV HD[/B][/COLOR]</title>		
-<link>http://origin-02.nxplay.com.br/MTV_BR_98588_97731/tracks-v1a1/mono.m3u8</link>		
-<thumbnail>https://ogimg.infoglobo.com.br/in/5809102-bd3-db0/FT1086A/mtv.png</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]MTV Live HD[/B][/COLOR]</title>		
-<link>http://origin-02.nxplay.com.br/MTVLIVE/tracks-v1a1/mono.m3u8</link>		
-<thumbnail>https://pbs.twimg.com/profile_images/1394828347818102784/N_ipZKa4_400x400.jpg</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]Nick. HD[/B][/COLOR]</title>		
-<link>http://origin-02.nxplay.com.br/NICK_JR_00999_1/tracks-v1a1/mono.m3u8</link>		
-<thumbnail>https://variety.com/wp-content/uploads/2014/08/nick-nickelodeon-logo.jpg?crop=97px%2C51px%2C794px%2C442px&resize=681%2C383</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]Nick Jr. HD[/B][/COLOR]</title>		
-<link>http://origin-02.nxplay.com.br/NICK_JR_00999_1/tracks-v1a1/mono.m3u8</link>		
-<thumbnail>https://4.bp.blogspot.com/-jkpcLJ-3eTI/WVa7qyaFr6I/AAAAAAAA8CY/xW2d7p2U7_QqG5slQqr5k5tmee7-CQTZgCLcBGAs/s1600/Nick%2BJr.png</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]Paramount HD[/B][/COLOR]</title>		
-<link>http://origin-02.nxplay.com.br/PCBR_HD_NX_9998_/tracks-v1a1/mono.m3u8</link>		
-<thumbnail>https://cdn2.actitudfem.com/media/files/styles/large/public/images/2014/11/notachannel.jpg</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]Paramount HD  [Opção 2 ][/B][/COLOR]</title>		
-<link>http://origin-02.nxplay.com.br/PCBR_HD_NX_9998_/tracks-v2a1/mono.m3u8</link>		
-<thumbnail>https://cdn2.actitudfem.com/media/files/styles/large/public/images/2014/11/notachannel.jpg</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]Playkids HD[/B][/COLOR]</title>		
-<link>http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_720_av-p.m3u8</link>		
-<thumbnail>https://observatoriodatv.uol.com.br/wp-content/uploads/2018/09/playkids-1.jpg</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]Playkids SD[/B][/COLOR]</title>		
-<link>http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_360_av-p.m3u8</link>		
-<thumbnail>https://observatoriodatv.uol.com.br/wp-content/uploads/2018/09/playkids-1.jpg</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]Prime Box Brasil[/B][/COLOR]</title>		
-<link>http://origin-02.nxplay.com.br/PRIME_HD/tracks-v1a1/mono.m3u8</link>		
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/16/PrimeBoxBrazil2019.png</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]Record News HD[/B][/COLOR]</title>		
-<link>http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8</link>		
-<thumbnail>https://www.simnoticias.com.br/wp-content/uploads/2021/05/RECORD-NEWS.png</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]Record News SD[/B][/COLOR]</title>		
-<link>http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8</link>		
-<thumbnail>https://www.simnoticias.com.br/wp-content/uploads/2021/05/RECORD-NEWS.png</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]Record TV HD[/B][/COLOR]</title>		
-<link>http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8</link>		
-<thumbnail>https://img.r7.com/images/record-tv-06112019150320475?dimensions=660x360</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]Record TV SD [/B][/COLOR]</title>		
-<link>http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8</link>		
-<thumbnail>https://img.r7.com/images/record-tv-06112019150320475?dimensions=660x360</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]Rede Familia HD [/B][/COLOR]</title>		
-<link>https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1096000.m3u8</link>		
-<thumbnail>https://tvpop.com.br/wp-content/uploads/2021/02/Rede-Familia.png</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]Rede TV SP HD [/B][/COLOR]</title>		
-<link>http://origin-02.nxplay.com.br/REDETV_HD_SIMBA/tracks-v1a1/mono.m3u8</link>		
-<thumbnail>https://uploads.metropoles.com/wp-content/uploads/2020/10/01181314/logo-redetv.jpg</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]Rede TV SP  [/B][/COLOR]</title>		
-<link>http://origin-02.nxplay.com.br/REDETV_HD_SIMBA/tracks-v2a1/mono.m3u8</link>		
-<thumbnail>https://uploads.metropoles.com/wp-content/uploads/2020/10/01181314/logo-redetv.jpg</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SBT PE HD [/B][/COLOR]</title>		
-<link>http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w416898237_b216000_sleng.m3u8</link>		
-<thumbnail>https://www.sbt.com.br/assets/images/default-image.png</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]SBT PE HD [ Opção 2 ] [/B][/COLOR]</title>		
-<link>http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w416898237_b176000_sleng.m3u8</link>		
-<thumbnail>https://www.sbt.com.br/assets/images/default-image.png</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]TBS  [/B][/COLOR]</title>		
-<link>http://origin-02.nxplay.com.br/TBS_01/tracks-v2a1/mono.m3u8</link>		
-<thumbnail>http://tvseriesfinale.com/wp-content/uploads/2017/05/TBS-TV-Shows-Canceled-or-Renewed-534x400.png</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]TBS HD [/B][/COLOR]</title>		
-<link>http://origin-02.nxplay.com.br/TBS_01/tracks-v1a1/mono.m3u8</link>		
-<thumbnail>http://tvseriesfinale.com/wp-content/uploads/2017/05/TBS-TV-Shows-Canceled-or-Renewed-534x400.png</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]TNT Sports HD[/B][/COLOR]</title>		
-<link>http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8</link>		
-<thumbnail>https://tntsports.com.br/__export/1610853395834/sites/esporteinterativo/img/2021/01/17/whatsapp_image_2021-01-16_at_20_26_54_1_crop1610853395338.jpeg_554688468.jpeg</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]TNT Sports SD[/B][/COLOR]</title>		
-<link>http://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8</link>		
-<thumbnail>https://tntsports.com.br/__export/1610853395834/sites/esporteinterativo/img/2021/01/17/whatsapp_image_2021-01-16_at_20_26_54_1_crop1610853395338.jpeg_554688468.jpeg</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]TV Aparecida[/B][/COLOR]</title>		
-<link>http://origin-02.nxplay.com.br/TV_APARECIDA/tracks-v1a1/mono.m3u8</link>		
-<thumbnail>https://i.ytimg.com/vi/1KIucmaYkmU/maxresdefault.jpg</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]TV Aparecida 2[/B][/COLOR]</title>		
-<link>https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8</link>		
-<thumbnail>https://i.ytimg.com/vi/1KIucmaYkmU/maxresdefault.jpg</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]TV Cultura[/B][/COLOR]</title>		
-<link>http://200.189.113.201/hls/tve.m3u8</link>		
-<thumbnail>https://static.wikia.nocookie.net/tvpediabrasil/images/3/33/Tvcultura.jpg/revision/latest?cb=20161114060522&path-prefix=pt-br</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]TV Gazeta HD [/B][/COLOR]</title>		
-<link>http://origin-02.nxplay.com.br/TV_GAZETA_NX/tracks-v1a1/mono.m3u8</link>		
-<thumbnail>https://www.tvgazeta.com.br/wp-content/uploads/2017/02/tvgazeta-share-470x246.jpg</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]Warner HD[/B][/COLOR]</title>		
-<link>https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_3.m3u8</link>		
-<thumbnail>https://jornal140.com/wp-content/uploads/2021/05/Warner-tV.jpg</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
-		
-<item>		
-<title>[COLOR orange][B]LS-TVs ONLINE[COLOR yellow] -> [COLOR white]ZooMoo HD[/B][/COLOR]</title>		
-<link>http://origin-02.nxplay.com.br/ZOOMOO_HD_NX_01/tracks-v1a1/mono.m3u8</link>		
-<thumbnail>https://2.bp.blogspot.com/-oaECNqHvlVY/Wjl-eaQboWI/AAAAAAAApps/i4-TTztGCscVqLlcdupn8gK5JFdsnq3iQCLcBGAs/s1600/zoomoo-net-clarotv-banner.jpg</thumbnail><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>		
-</item>		
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KXR7YHJ/TVs-ONLINE-SERV-LS.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] SBT - TV Jornal (PE)[/B][/COLOR]
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] SBT - TV Jornal Caruaru (PE)[/B][/COLOR]
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] SBT - TV Cidade Verde - (PI)[/B][/COLOR]
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] SBT - TV Floresta (PA)[/B][/COLOR]
+https://streaming.sistemafloresta.com.br/tvfloresta/index.m3u8?token=76f9ee988810fdea7c0007cf8ddfaa0
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]SBT - TV Difusora (MA)[/B][/COLOR]
+https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] SBT - TV Serra Dourada - (GO)[/B][/COLOR]
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]SBT Interior SP[/B][/COLOR]
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]SBT Rede Massa (PR)[/B][/COLOR]
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvparaense.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] SBT TV Paraense (PA)[/B][/COLOR]
+https://streaming.portaltvparaense.com.br/rtp_live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvguajara.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] SBT TV Guajará (PA)[/B][/COLOR]
+https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] RecordTV SP (Indisponível)[/B][/COLOR]
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] RecordTV Natal - TV Tropical[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/raniere/_definst_/raniere/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]Band[/B][/COLOR]
+https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]Band - RBA TV (PA)[/B][/COLOR]
+https://streaming.gruporba.com.br/rba.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] RedeTV! TV Arapuan HD (PB)[/B][/COLOR]
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TV Pampa - RedeTV! RS[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvtocantins.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] RedeTV! Tocantins[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanalredetv.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] RedeTV! TV Pantanal (MT)[/B][/COLOR]
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kpoptvplay.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] KpopTV Play[/B][/COLOR]
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/anitv.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] WebTV [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] AniTV[/B][/COLOR]
+https://srv6.zcast.com.br/anitv/anitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/xtreme.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] WebTV [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] XTreme[/B][/COLOR]
+https://srv3.zcast.com.br/webtvxtreme/webtvxtreme/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rvbifdo.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] YEEAAH TV[/B][/COLOR]
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/animetv.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] WebTV [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Anime TV - WebTV[/B][/COLOR]
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/animestation.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] WebTV [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]Anime Station[/B][/COLOR]
+https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://listaiptv.gratis/logos/imagens/jetsons.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] WebTV [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Jetsons - Webtv[/B][/COLOR]
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TV Gazeta (SP)[/B][/COLOR]
+http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bandnews.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Jornalismo [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]Bandnews[/B][/COLOR]
+https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Jornalismo [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]Record News[/B][/COLOR]
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/wham.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] WebTV [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] WHAM TV CLASSIC - WebTV[/B][/COLOR]
+https://srv4.zcast.com.br/andre2183/andre2183/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rbtv-logo-rede-brasil.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Rede Brasil (SP)[/B][/COLOR]
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/brasiloeste.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Brasil Oeste (MT)[/B][/COLOR]
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/varzeagrande.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]TV Várzea Grande (MT)[/B][/COLOR]
+https://video02.kshost.com.br/adauton7191/adauton7191/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/maisnews.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Pública [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]TV MAIS NEWS[/B][/COLOR]
+http://eventials-i.akamaihd.net/hls/live/746370/uymfm3v51659vk7t/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Pública [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]TV Cultura - TV Guará (MA)[/B][/COLOR]
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Pública [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TV Cultura - TV Futuro (RJ)[/B][/COLOR]
+https://streaming03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Pública [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Cultura Pará[/B][/COLOR]
+http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/catve.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Pública [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]Catve - Cultura (PR)[/B][/COLOR]
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redemetropole.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Rede Metrópole[/B][/COLOR]
+http://187.33.200.235:9000/hls/redemetropole.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_redeparanaeducativa.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Pública [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]Paraná Turismo[/B][/COLOR]
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Infantil [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Kuriakos Kids[/B][/COLOR]
+http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tve.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Pública [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TVE Bahia[/B][/COLOR]
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Infantil [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Retrô Cartoon[/B][/COLOR]
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Infantil [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Retrô Cartoon 2[/B][/COLOR]
+https://stmv1.srvif.com/retrotv2/retrotv2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/awtv.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] WebTV [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]AWTV[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/vintagetv.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] WebTV [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]Vintage TV[/B][/COLOR]
+https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-minas-original.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Pública [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Rede Minas[/B][/COLOR]
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_topo.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TV União (CE)[/B][/COLOR]
+https://stmv1.srvif.com/admin/admin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvuniaobrasilia.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TV União (DF)[/B][/COLOR]
+https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede_famc3adlia.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Rede Família[/B][/COLOR]
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-tv8.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TV8 Brasil[/B][/COLOR]
+https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvliberdade.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] WebTV [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TV Liberdade - WebTV[/B][/COLOR]
+http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/clone.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] WebTV [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Rede Clone - WebTV[/B][/COLOR]
+https://stmv1.samcast.com.br/abnerbom1543/abnerbom1543/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-logotipo_da_tv_brasil.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Pública [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TV Brasil 2[/B][/COLOR]
+http://tvbrasil-stream.ebc.com.br/STsEBCLIVE_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-tve-png.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Pública [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TVE RS[/B][/COLOR]
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-kronehit_logo2018_nachtblau_rgb.svg_.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] KroneHIT[/B][/COLOR]
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1hd.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] 1HD Music[/B][/COLOR]
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1onemus.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] 1Mus[/B][/COLOR]
+http://hz1.teleport.cc/HLS/HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-logo-bile2.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Retrô TV[/B][/COLOR]
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_capital_1024x1024-768x384.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Capital TV[/B][/COLOR]
+https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-radio_m2o_-_logo_2019.svg_.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] M2O[/B][/COLOR]
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/musictop2.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Music Top[/B][/COLOR]
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/futura.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Pública [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]FDR - Futura (CE)[/B][/COLOR]
+http://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmarajoara.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Rede Brasil - TV Marajoara (PA)[/B][/COLOR]
+http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/toptv.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]TopTV[/B][/COLOR]
+https://cast.cdnseguro.com:19360/8092/8092.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/toptv.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]TopTV - TV Estado[/B][/COLOR]
+https://cdn.jmvstream.com/w/AVJ-10205/playlist/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kisstv.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]Kiss TV[/B][/COLOR]
+https://cast.cdnseguro.com:19360/8094/8094.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/dataclipe.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]Data Clipe[/B][/COLOR]
+https://stmv5.samcast.com.br/conrado2075/conrado2075/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Esportes [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] All Sports[/B][/COLOR]
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tv_evangelizar.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Religioso [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]TV Evangelizar[/B][/COLOR]
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-rede_vida_logo.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Religioso [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]Rede Vida[/B][/COLOR]
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/2018091805332321logotipo_da_tv_aparecida.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Religioso [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]TV Aparecida[/B][/COLOR]
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/seculo21.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Religioso [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Rede Século 21[/B][/COLOR]
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-super-logo-tv.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Religioso [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Rede Super[/B][/COLOR]
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/izkxzj9.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Religioso [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Novo Tempo[/B][/COLOR]
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/nt8hdct.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Religioso [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] IMPD TV[/B][/COLOR]
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Religioso [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] IURD TV[/B][/COLOR]
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redegospel.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Religioso [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]Rede Gospel[/B][/COLOR]
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/paieterno.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Religioso [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]TV Pai Eterno[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/smilinguido.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Infantil [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Gospel Cartoon[/B][/COLOR]
+https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospel.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Filmes [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]Gospel Movie TV[/B][/COLOR]
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospelmusic.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]Gospel Music[/B][/COLOR]
+https://stmv1.srvstm.com/gmusic/gmusic/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cinekuriakos.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Filmes [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]KURIAKOS CINE[/B][/COLOR]
+http://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/central.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]Central TV[/B][/COLOR]
+https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/chunklist_w2100483638.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/locomotion.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Infantil [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Locomotion - WebTV[/B][/COLOR]
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redepremiumtv.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]Rede Premium[/B][/COLOR]
+https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-fonte.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Pública [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] FonteTV (GO)[/B][/COLOR]
+http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/camara.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Pública [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]TV Câmara[/B][/COLOR]
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvescola.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Pública [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TV Escola[/B][/COLOR]
+https://edge-df-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(Dxg)k(Qdk)m(q-QQ9tbM1LVeQsn3AkKguw)n(a(3LDBWxJLACwHVOavx5cO4BC5lA2ZDpPC)s(HrY)'a(12ztgSdgu3rQqz6xH52ZjVZa)s(Pm8)))s(t(aTo)b(PTsuEXhXAScNjp6w9ssG70foQQQiZk9_8m0vsjgLJ_yzxGPuj8i57PEDMMA4cmTNsKda2B5oX-EEErouZ1HFyun9A4sJuqq-ZZ5UGE5w4A5Lmy-yARb69ZFORunwlRZIfiLswT_MExl8qv6So0l5XeVL4-xmSFY_zRNOMnli)'t(aik)b(-Btgu9O9bZDM7fy6b7p0dDTzGRSrl_Avj_oC)))/live_540_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logotipo_da_tv_metrc3b3pole.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Pública [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]TV Metrópole[/B][/COLOR]
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/utv.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Rede UTV[/B][/COLOR]
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/morena.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] WebTV [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Via Morena[/B][/COLOR]
+https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanal.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] WebTV [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TV Pantanal MS - WebTV[/B][/COLOR]
+https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvtokyo.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] WebTV [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TV Tokyo - WebTV[/B][/COLOR]
+https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvcine.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] WebTV [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TV Cine - Web TV[/B][/COLOR]
+https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/adesso.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Adesso TV[/B][/COLOR]
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/riomadeira.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] WebTV [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TV Rio Madeira - WebTV[/B][/COLOR]
+https://novo.bitstreaming.info:1936/8066/8066/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/valedasartes.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] WebTV [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TV Vale das Artes - WebTV[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvriosul.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] WebTV [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Rede TV Sul - WebTV[/B][/COLOR]
+https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvatividade.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] WebTV [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TV Atividade - WebTV[/B][/COLOR]
+https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmax.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TV MAX[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/jn5adsaa.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] RDC[/B][/COLOR]
+https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo2btv-0.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] WebTV [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TV Aracati[/B][/COLOR]
+https://livefocamundo.com:8081/tvaracati/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kronosmovie.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] WebTV [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] KRÓNOS MOVIE[/B][/COLOR]
+https://5e36c064a2f6a.streamlock.net:1936/8310/8310/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvdigitalbirigui.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] WebTV [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TV Birigui[/B][/COLOR]
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w763334596.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ee19d371-e.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TV Mon[/B][/COLOR]
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/samhost.tvcarioca.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] WebTV [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TV Carioca[/B][/COLOR]
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sesctv_28201329.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Pública [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] SescTV HD[/B][/COLOR]
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_-_canal_sac3bade.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Pública [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Canal Saúde[/B][/COLOR]
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvideonews.png" group-title="Documentário", TVídeoNews[/B][/COLOR]
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ngt.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] NGT[/B][/COLOR]
+https://cdn.jmvstream.com/w/AVJ-9644/playlist/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/diariodosertao.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TV Diário do Sertão[/B][/COLOR]
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/istv.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]ISTV[/B][/COLOR]
+https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/canal29.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] WebTV [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Canal 29 - WebTV[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bonstempos.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] WebTV [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Bons Tempos TV - WebTV[/B][/COLOR]
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvvnatal.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TV Natal[/B][/COLOR]
+http://tvnatal.ddns.net:1935/vmix/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvdestak.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] WebTV [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TV Destak - WebTV[/B][/COLOR]
+https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvseries.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] WebTV [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TV Séries - WebTV[/B][/COLOR]
+https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvabertasp.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Pública [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]TV Aberta SP[/B][/COLOR]
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvcandideslogo.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]TV Candidés[/B][/COLOR]
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/japitv.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]TV Japi[/B][/COLOR]
+https://srv2.zcast.com.br/tvjapi/tvjapi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmaceio.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Pública [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]TV Maceió (AL)[/B][/COLOR]
+https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmae.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]TV Mar[/B][/COLOR]
+https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvjsid.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] WebTV [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TV Sjid (BA)[/B][/COLOR]
+https://5e36c064a2f6a.streamlock.net:1936/8262/8262/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Pública [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]TV Faap[/B][/COLOR]
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-terra_viva_logo.svg_.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]Terra Viva[/B][/COLOR]
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agro.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]Agro Mais[/B][/COLOR]
+http://evpp.mm.uol.com.br:1935/geob_band/agromais/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/canalrural.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]Canal Rural[/B][/COLOR]
+https://5f984b2feeeb4.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/canaldoboi.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]Canal do Boi[/B][/COLOR]
+https://aovivo2.equipea.com.br:5443/WebRTCAppEE/streams/096507120760362020454067.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/verdescampos.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TV Verdes Campos SAT[/B][/COLOR]
+https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]AgroBrasil TV[/B][/COLOR]
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sba1.com/imagens/logo-agrocanal.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]Agro Canal[/B][/COLOR]
+https://aovivo2.equipea.com.br:5443/WebRTCAppEE/streams/444093179514252551699433.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvgallo.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] WebTV [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TV Gallo - WebTV[/B][/COLOR]
+https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/santacecilia.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]TV Santa Cecília (SP)[/B][/COLOR]
+http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rtl.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] RTL (Itália)[/B][/COLOR]
+https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/otto.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Otto Fm TV[/B][/COLOR]
+http://streaming.bitonlive.net:8080/hls/ottofm2/1036/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/radioU.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] RadioU[/B][/COLOR]
+https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rock.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Rock TV[/B][/COLOR]
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8?publisher=83
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_top_latino_png_2017_-_500px.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Top Latino TV[/B][/COLOR]
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ockostar.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Ocko Star[/B][/COLOR]
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/4Fun-TV.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] 4Fun TV[/B][/COLOR]
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/Colosal-TV.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Colosal TV[/B][/COLOR]
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/mundo.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Mundo TV[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bnzdrdjj.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TV Brusque (SC)[/B][/COLOR]
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/canalsp.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Canal São Paulo[/B][/COLOR]
+http://stream02.msolutionbrasil.com.br:1935/canaldesaopaulo/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cnt.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] CNT[/B][/COLOR]
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvredeboasnovas.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Religioso [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Boas Novas[/B][/COLOR]
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_sic_2018.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] SIC (apenas em Portugal)[/B][/COLOR]
+http://live.impresa.pt/live/sic/sic.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/635px-france24.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Jornalismo [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] France 24[/B][/COLOR]
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/TV5-Monde-Info.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Jornalismo [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TV5 Monde Info[/B][/COLOR]
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1-12141_al-jazeera-png-aljazeera-logo-01-png-al.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Jornalismo [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Al Jazeera English[/B][/COLOR]
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arirang_logo.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Arirang[/B][/COLOR]
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bnr_world.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] NHK Japan[/B][/COLOR]
+http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/Sky-News.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Jornalismo [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]Sky News[/B][/COLOR]
+http://skynews-go-hls.ak-cdn.skydvn.com/skynews/1404/latest.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-bloomberg_television_logo.svg_.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Jornalismo [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Bloomberg TV[/B][/COLOR]
+https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cbsnews.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Jornalismo [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] CBS News[/B][/COLOR]
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/dw.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Deutsche Welle[/B][/COLOR]
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redbull.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Esportes [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Red Bull TV[/B][/COLOR]
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rt.png" group-title="Documentário", RT Documentary Channel[/B][/COLOR]
+https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CGTN-Espanol.png" group-title="Documentário",CGTN Español[/B][/COLOR]
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/La1.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]La 1[/B][/COLOR]
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/index_1500_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/TVG.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]TV Galícia[/B][/COLOR]
+https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/Canal-Extremadura.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]Canal Extremadura[/B][/COLOR]
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ewtn.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Religioso [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]EWTN[/B][/COLOR]
+https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tves.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] RTVE[/B][/COLOR]
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/TVE-24h.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Jornalismo [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TVE 24[/B][/COLOR]
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/russiatoday.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Jornalismo [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] RT en español [/B][/COLOR]
+https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rainews.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Jornalismo [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] RAINEWS24[/B][/COLOR]
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cctv1.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] CCTV[/B][/COLOR]
+https://cctvcnchwh5ca.v.cdn20.com/live/cctv1_2/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cctv13.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Jornalismo [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] CCTV Notícias[/B][/COLOR]
+https://cctvcnchwh5ca.v.cdn20.com/live/cctv13_2/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbn.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Religioso [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] SBN Global[/B][/COLOR]
+https://sonlife3-i.akamaihd.net/hls/live/584628/ch3/video_0/video_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retroplus.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Retro Plus[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/theretrofb.jpg" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] The Retro Channel[/B][/COLOR]
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sictv.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]SIC TV  Local - Record Rondônia[/B][/COLOR]
+http://5953e7f9ae845.streamlock.net/2502/2502/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvcaravelas.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Pública [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TV Caravelas[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/combrasil.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Pública [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TV COM BRASIL[/B][/COLOR]
+https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/zoom.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] WebTV [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TV Zoom[/B][/COLOR]
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/master.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] WebTV [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TV Master[/B][/COLOR]
+https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/fm-o-dia-foto.jpg" group-title="Rádio",FM O DIA 100.5 - ESTÚDIO AO VIVO[/B][/COLOR]
+https://live.cdn.upx.com/omms9/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png" group-title="Rádio",CBN SP[/B][/COLOR]
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png" group-title="Rádio",CBN RJ[/B][/COLOR]
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/94fm.png" group-title="Rádio",94 Atividade FM[/B][/COLOR]
+https://v8.ciclano.io:1443/anderson/_definst_/anderson/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/90kb4L2.png" group-title="BRASIL",RTV CANAL 38[/B][/COLOR]
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/JQU7Ysw.png" group-title="BRASIL",CATVE PR[/B][/COLOR]
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FioVeSb.png" group-title="BRASIL",MASTER TV PR[/B][/COLOR]
+http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TPjz9Pi.png" group-title="BRASIL",TV FUTURO[/B][/COLOR]
+https://streaming03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/w4RlJdB.png" group-title="BRASIL", TVE MS[/B][/COLOR]
+https://5ee90cb3a07bb.streamlock.net/live-fertel/live-fertel/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/wqOAIgT.png" group-title="BRASIL", PLAN TV[/B][/COLOR]
+https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/P2iLxFP.png" group-title="BRASIL", TV POCOS[/B][/COLOR]
+https://live.cdn.upx.com/00084/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IVUjkii.png" group-title="BRASIL", TV PARANA TURISMO[/B][/COLOR]
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Dx6Yqy.png" group-title="BRASIL",UNISUL TV[/B][/COLOR]
+https://hls.brasilstream.com.br/live/sitetv/sitetv/mono.m3u8?token=8525688422037585000
+#EXTINF:-1 tvg-logo="https://imgur.com/FUT5qyg.png" group-title="BRASIL",TV BRASIL 2[/B][/COLOR]
+http://origin-02.nxplay.com.br/TV_BRASIL_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ItpYDvC.png" group-title="BRASIL",TV BELTRAO 2[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/tvbeltrao2/_definst_/tvbeltrao2/chunklist_w1662797829.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/M53Agyb.png" group-title="BRASIL",TV DIARIO DO BRASIL TV PREVE[/B][/COLOR]
+https://video02.kshost.com.br/paulispar7372/paulispar7372/playlist.m3u8?t=
+#EXTINF:-1 tvg-logo="https://imgur.com/aXkdEYu.png" group-title="BRASIL",REDE PAULISTA[/B][/COLOR]
+https://stream.amsolution.net.br:8443/live/60d63bd713fe0/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/X6bvC0K.png" group-title="BRASIL",TVE RS[/B][/COLOR]
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/OJMDjjz.png" group-title="BRASIL",TV SDB[/B][/COLOR]
+https://novo.bitstreaming.info:1936/8094/8094/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/kclL9nZ.png" group-title="BRASIL",TV UFSC[/B][/COLOR]
+http://150.162.188.10:8080/hls/1.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/CEvLASJ.png" group-title="BRASIL", TVE ES[/B][/COLOR]
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mOcCv9k.png" group-title="BRASIL",CANAL SAUDE[/B][/COLOR]
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/DPXwC9p.png" group-title="BRASIL",TV CHROMA[/B][/COLOR]
+https://5c483b9d1019c.streamlock.net:443/8054/8054/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/H0BKwdG.png" group-title="BRASIL", MULTI RIO[/B][/COLOR]
+http://187.111.97.45:1935/webtv/webtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Cd6V3FX.png" group-title="BRASIL",SESC TV[/B][/COLOR]
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index1080p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/lGGbSTG.png" group-title="BRASIL",REDE MINAS[/B][/COLOR]
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/kQh2rI7.png" group-title="BRASIL", TV NTV[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/ntvnet/_definst_/ntvnet/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GPp66Yw.png" group-title="BRASIL",TV ATIVIDADE[/B][/COLOR]
+https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Vj7VjrB.png" group-title="BRASIL",TV VICOSA[/B][/COLOR]
+http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/3YP7dFy.png" group-title="BRASIL",TV GAZETA NORTE MINEIRA[/B][/COLOR]
+https://59e4b6c1beddc.streamlock.net:443/tvgazeta/tvgazeta/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nsoM2Rv.png" group-title="BRASIL",TV THATHI[/B][/COLOR]
+https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/rvj43ZM.png" group-title="BRASIL",TV O POVO[/B][/COLOR]
+https://Stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/aLkMdWW.png" group-title="BRASIL",UNISC TV[/B][/COLOR]
+http://tv.unisc.br:80/hls/test.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/DGzL4By.png" group-title="BRASIL", FURG TV[/B][/COLOR]
+http://stream.furg.br/hls/furgtv_480p.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/invvIxc.png" group-title="BRASIL", TVU ABC[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/hotgarage/_definst_/hotgarage/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/QflEJQL.png" group-title="BRASIL", TV MACKENZIE[/B][/COLOR]
+https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Si4xzT8.png" group-title="BRASIL",TV FAAP[/B][/COLOR]
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zfI4nbT.png" group-title="BRASIL",TVT[/B][/COLOR]
+https://dailymotionlive.akamaized.net/sec(hq_e0q5VHX_FvDCk_Uz4G4VeHi9oGTFH96xmputRk-w)/dm/3/x6ph7x7/s/live-1.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zq9ZcXP.png" group-title="BRASIL",TV SETE LAGOAS[/B][/COLOR]
+https://livefocamundo.com:8081/tvsetelagoas/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B2UoR3F.png" group-title="BRASIL", TV COM BRASIL[/B][/COLOR]
+https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4o6Xeee.png" group-title="BRASIL", TV COM DF[/B][/COLOR]
+https://5b7f3c45ab7c2.streamlock.net:443/8008/smil:8008.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://imgur.com/plXLd8b.png" group-title="BRASIL", TV ABERTA SP[/B][/COLOR]
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/1anXdqS.png" group-title="BRASIL", TVC RIO[/B][/COLOR]
+http://206.189.110.55:8080/hls/live.stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rlz2Mvg.png" group-title="BRASIL", TV COM SANTOS[/B][/COLOR]
+https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j0kegQd.png" group-title="BRASIL", TV COM CAXIAS[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/or8rkdG.png" group-title="BRASIL", TV COM MACEIO[/B][/COLOR]
+https://5a7d54e35f9d2.streamlock.net/z883-live/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KmOaCXH.png" group-title="BRASIL", CWB TV[/B][/COLOR]
+https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/8lL90QK.png" group-title="BRASIL", REDE CIDADE RIO GRANDE[/B][/COLOR]
+https://59f2354c05961.streamlock.net:1443/redecidade/_definst_/redecidade/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/S9icaS4.png" group-title="BRASIL", BEM TV[/B][/COLOR]
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TAjCSyH.png" group-title="BRASIL", TVC[/B][/COLOR]
+https://5ad482a77183d.streamlock.net/financeirotvc21.com.br/financeirotvc21.com.br/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/xX8eqFj.png" group-title="BRASIL", TV ALTERNATIVA[/B][/COLOR]
+http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/NOEr7gX.png" group-title="BRASIL", TV GRAO PARA[/B][/COLOR]
+https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qWCXst5.png" group-title="BRASIL", SIC TV [/B][/COLOR]
+http://177.11.96.110:9080/hls/sictv.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/6PyhQct.png" group-title="BRASIL",RSC TV BRASIL[/B][/COLOR]
+http://177.11.96.110:9080/hls/sictv.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/6bA9LbZ.png" group-title="BRASIL",PEGADINHAS[/B][/COLOR]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://imgur.com/6T0azXF.png" group-title="BRASIL",TV BRICS[/B][/COLOR]
+https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mpNEidr.png" group-title="BRASIL",AMAZON SAT[/B][/COLOR]
+https://hls.brasilstream.com.br/live/amazonsat/amazonsat/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zGVOaA9.png" group-title="BRASIL",EU TV[/B][/COLOR]
+https://cdn.jmvstream.com/w/AVJ-10423/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/OBzoXCf.png" group-title="BRASIL",VRT CHANNEL[/B][/COLOR]
+https://stream.vrtchannel.tv.br:1936/vrtchannel/vrtchannel/chunklist_w1390026849.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Czz2exp.png" group-title="BRASIL",NATURE TV[/B][/COLOR]
+https://stmv1.srvif.com/nattv/nattv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/3KyZQDS.png" group-title="BRASIL", TV BRAGA BRASIL[/B][/COLOR]
+https://alanza.iptv2022.com/Braga_Brasil/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Ho4Y7ru.png" group-title="BRASIL",ANIME ZONE TV[/B][/COLOR]
+https://azxtv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 1 AS PANTERAS[/B][/COLOR]
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w173840741.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 2 MULHER BIONICA[/B][/COLOR]
+https://stmv1.srvif.com/tvserie2/tvserie2/chunklist_w1556462638.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 3 STAR TREK[/B][/COLOR]
+https://stmv1.srvif.com/tvserie3/tvserie3/chunklist_w1440479755.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 4 CHIPS[/B][/COLOR]
+https://stmv1.srvif.com/tvserie4/tvserie4/chunklist_w1474334923.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 5 GUERRA SOMBRA E AGUA FRESCA[/B][/COLOR]
+https://stmv1.srvif.com/tvserie5/tvserie5/chunklist_w983909720.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/H8qGyZE.png" group-title="BRASIL",CANAL DA PECUARIA[/B][/COLOR]
+https://59f2354c05961.streamlock.net:1443/canalpecuaria/_definst_/canalpecuaria/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Pv95YP8.png" group-title="BRASIL",TV DO POVO[/B][/COLOR]
+https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FNPcGnl.png" group-title="BRASIL",TV A7 CALDAS NOVAS[/B][/COLOR]
+https://livefocamundo.com:8081/simoes/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/azt2n1S.png" group-title="BRASIL",TV POTENGI[/B][/COLOR]
+https://stmv4.samcast.com.br/jeova3318/jeova3318/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fiUk40Y.png" group-title="BRASIL", TV NOVA PLAY[/B][/COLOR]
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1739392633.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MEuLfcO.png" group-title="BRASIL", TV CARIOCA NET[/B][/COLOR]
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/LwyAhnb.png" group-title="BRASIL", LONDRINA TV[/B][/COLOR]
+https://video01.kshost.com.br:4443/clodoaldo3320/clodoaldo3320/chunklist_w516730791.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GCTplnu.png" group-title="BRASIL", CHANNEL 1[/B][/COLOR]
+https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Plt53Lr.png" group-title="BRASIL",TV PIONEIRA[/B][/COLOR]
+https://livefocamundo.com:8081/tvpioneira/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/7BOsSkZ.png" group-title="BRASIL",TV RIO PRETO[/B][/COLOR]
+http://201.48.245.24:1935/live/livestream/chunklist_w1259062615.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/yLdIeqo.png" group-title="BRASIL", SUMMER TV[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/playlist-480p.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/XFp4O1Q.png" group-title="BRASIL", IMPERIAL TV[/B][/COLOR]
+https://5d2c98775bafe.streamlock.net/8098/8098/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/NOM0NvO.png" group-title="BRASIL", REDE PREMIUM TV[/B][/COLOR]
+https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MAiMYi2.png" group-title="BRASIL", MRL TV[/B][/COLOR]
+https://srv5.zcast.com.br/mrltv/mrltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/rqGWCEo.png" group-title="BRASIL", TV MANCHETE 2[/B][/COLOR]
+https://stmv1.srvif.com/penasd/penasd/chunklist_w1994239603.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/VYoKxBj.png" group-title="BRASIL",TV CHANNEL NETWORK[/B][/COLOR]
+https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/n4RVl9W.png" group-title="BRASIL", REDE UTV[/B][/COLOR]
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IAQIkuQ.png" group-title="BRASIL", BS TV[/B][/COLOR]
+https://596639ebdd89b.streamlock.net/tvonline/tvonline/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/diAxFOm.png" group-title="BRASIL", ADESSO TV[/B][/COLOR]
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/1Nf2kbP.png" group-title="BRASIL",TV SUL BAHIA[/B][/COLOR]
+https://a.cdni.live/radiomultimidia/radiomultimidia/chunklist_w1711981393.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/lSLF0nh.png" group-title="BRASIL",WEB TV CINE[/B][/COLOR]
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1852439177.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/rZz5Iuh.png" group-title="BRASIL",TV WEB GUAREI TWG[/B][/COLOR]
+https://stmv1.srvif.com/radiowebguarei/radiowebguarei/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/3igIxnk.png" group-title="BRASIL",TVI VILA IMPERIAL[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/lrQjFnv.png" group-title="BRASIL",TV MAIS BRASIL[/B][/COLOR]
+https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wBGFNXG.png" group-title="BRASIL", TELE WEB TV[/B][/COLOR]
+https://video02.kshost.com.br/acessweb7837/acessweb7837/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/BZroGGz.png" group-title="BRASIL", CANAL TV GO[/B][/COLOR]
+https://stmv3.voxtvhd.com.br/canaltvgo/canaltvgo/chunklist_w844267700.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Q3uSpxL.png" group-title="BRASIL",TV SINGULAR[/B][/COLOR]
+https://srv6.zcast.com.br/daniel9850/daniel9850/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/je39kFr.png" group-title="BRASIL", CANAL SMART[/B][/COLOR]
+https://5a57bda70564a.streamlock.net/smart/smart.sdp/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/M6abukT.png" group-title="BRASIL", TV PONTA DA SERRA[/B][/COLOR]
+https://srv2.zcast.com.br/juanes1546/juanes1546/chunklist_w1824873531.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bQSP2oQ.png" group-title="BRASIL", TV LIBERDADE[/B][/COLOR]
+https://srv1.painelvideo.com/liberdaderadioetv/liberdaderadioetv/chunklist_w1436442418.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KtwsBjH.png" group-title="BRASIL", SUL TV[/B][/COLOR]
+https://5cf4a2c2512a2.streamlock.net/sultv/sultv/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/e0VQVhW.png" group-title="BRASIL", WEB TV XTREME[/B][/COLOR]
+https://stmv5.samcast.com.br/everton7487/everton7487/chunklist_w1907953649.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/QUwdLQi.png" group-title="BRASIL", TV RECREIO[/B][/COLOR]
+https://srv2.zcast.com.br/maria6815/maria6815/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EKNwiy9.png" group-title="BRASIL",TV POMBAL[/B][/COLOR]
+https://stmv1.srvif.com/tvpombal/tvpombal/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IjW1BaX.png" group-title="BRASIL",NOVA GAZETA TV[/B][/COLOR]
+http://video02.kshost.com.br/sueli3485/sueli3485/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/H0KkYjd.png" group-title="BRASIL",TV ALIANCA CATARINENSE[/B][/COLOR]
+https://5ad482a77183d.streamlock.net/aliancatvadmgmail.com/aliancatvadmgmail.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/cX18hjg.png" group-title="BRASIL",BSTV ONLINE[/B][/COLOR]
+https://livefocamundo.com:8081/bs-tvonline/index.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/Rlo1Tp2.png" group-title="BRASIL", SEVEN TV[/B][/COLOR]
+https://videodj.fm5.com.br:19360/seventv/seventv.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/G5T3Lph.png" group-title="BRASIL", SAT TV WEB[/B][/COLOR]
+https://stmv3.samcast.com.br/eliasdossantos1146/eliasdossantos1146/chunklist_w1034085125.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BBAP2fL.png" group-title="BRASIL",TV NORDESTE[/B][/COLOR]
+https://StmV6.srvstm.com/leandro9908/leandro9908/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jrUqeSV.png" group-title="BRASIL", VILA TV[/B][/COLOR]
+https://596639ebdd89b.streamlock.net/8072/8072/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/D1EcWQ4.png" group-title="BRASIL", TV CIDADE OESTE[/B][/COLOR]
+http://radios.primedata.com.br:5080/LiveApp/streams/872258137935361699746456.m3u8?token=undefined
+#EXTINF:-1 tvg-logo="https://imgur.com/PR9YodE.png" group-title="BRASIL",CANAL OITO[/B][/COLOR]
+https://serv1.videovox.pw/associacaodasentidades3493/associacaodasentidades3493/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MVukprV.png" group-title="BRASIL", VV8 TV[/B][/COLOR]
+https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/4fsI8pJ.png" group-title="BRASIL", PPZ TV[/B][/COLOR]
+https://5c483b9d1019c.streamlock.net/8058/8058/chunklist_w1002170053.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/V3haAYn.png" group-title="BRASIL", SOU TV[/B][/COLOR]
+https://video01.kshost.com.br:4443/tiago4725/tiago4725/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/ORQjiJm.png" group-title="BRASIL", WEB TV TBO[/B][/COLOR]
+https://stmv1.srvif.com/webtvbitonline/webtvbitonline/chunklist_w860694679.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FxZLUmE.png" group-title="BRASIL",TV MAX[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/p6IYTn2.png" group-title="BRASIL", WEB TV CIDADE[/B][/COLOR]
+https://stmv1.srvstm.com/webradiocidade/webradiocidade/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Mfr7xIc.png" group-title="BRASIL", TV OPCAO[/B][/COLOR]
+https://srv5.zcast.com.br/wladimyr7277/wladimyr7277/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/k7kRnlq.png" group-title="BRASIL", TV CORDEIRO[/B][/COLOR]
+https://stmv1.vhcast.com/tvcordeiro/tvcordeiro/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mfQtJq3.png" group-title="BRASIL",REDE CAXIAS TV[/B][/COLOR]
+https://stmv6.srvstm.com/luis5346/luis5346/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/yNXAB3p.png" group-title="BRASIL", CANAL TV RIO[/B][/COLOR]
+https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bYIUQJb.png" group-title="BRASIL",TV METROPOLITANA RIO[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/flHrmTZ.png" group-title="BRASIL",TV CAPITAL 777[/B][/COLOR]
+http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="BRASIL",CLASSIQUE TV[/B][/COLOR]
+https://stmv1.srvif.com/classique/classique/chunklist_w1919154997.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="BRASIL",CLASSIQUE TV 2[/B][/COLOR]
+https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="BRASIL",CLASSIQUE TV WESTERN[/B][/COLOR]
+https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/aZRobKc.png" group-title="BRASIL",CLASSIQUE NOIR TV[/B][/COLOR]
+https://stmv1.srvif.com/classiquen/classiquen/chunklist_w916001681.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qIzyAmA.png" group-title="BRASIL",WEB TV PROGRESSO[/B][/COLOR]
+https://novo.bitstreaming.info:443/oprogressotvstation/oprogressotvstation/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RFRhwkC.png" group-title="BRASIL", REDE QUE DEMAIS[/B][/COLOR]
+https://video01.logicahost.com.br/tvkidmais/tvkidmais/chunklist_w2073176681.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RFRhwkC.png" group-title="BRASIL", TV QUE DEMAIS[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/VJrDYC9.png" group-title="BRASIL", Q TAL CHANNEL[/B][/COLOR]
+https://video01.logicahost.com.br/qtalchannel/qtalchannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ipKpPCe.png" group-title="BRASIL", BLITS TV[/B][/COLOR]
+https://video01.logicahost.com.br/blitstv/blitstv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/VC6BYcz.png" group-title="BRASIL",TRIBUNA REGIONAL WEB TV[/B][/COLOR]
+https://novo.bitstreaming.info:1936/8132/8132/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0AF7uLU.png" group-title="BRASIL",TV DESTAK[/B][/COLOR]
+https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bOMkXtp.png" group-title="BRASIL",CREATIVE TV BRASIL[/B][/COLOR]
+https://video01.logicahost.com.br/creativetv/creativetv/chunklist_w1065479792.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/cC5Ueww.png" group-title="BRASIL",ASCAME[/B][/COLOR]
+https://livefocamundo.com:8081/ascametv/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zADpkDP.png" group-title="BRASIL", TV CONTROLES[/B][/COLOR]
+https://livefocamundo.com:8081/tvcontroles/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zV6zESO.png" group-title="BRASIL",TV RIO GRANDE[/B][/COLOR]
+https://stmv1.srvif.com/tvriogrande/tvriogrande/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/4HsVInI.png" group-title="BRASIL", JPL TV[/B][/COLOR]
+https://streaming.jplproducoes.com.br/JPL1/video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/JCPeNgg.png" group-title="BRASIL",TV SHOW DE BOLA[/B][/COLOR]
+https://videodj.fm5.com.br:19360/showdebola/showdebola.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/7J9mnYh.png" group-title="BRASIL", TV CARAVELAS[/B][/COLOR]
+https://srv1.video.xradios.com.br/carlos/carlos/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/CzlX7P6.png" group-title="BRASIL", GHOST TV [/B][/COLOR]
+https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5S4QHxX.png" group-title="BRASIL",ELYTV[/B][/COLOR]
+https://stmv1.srvsite.com/ely/ely/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fh2bo3k.png" group-title="BRASIL",WEB TV OLHO DAGUA[/B][/COLOR]
+https://stmv1.livevoxtv.com.br/webtv93/webtv93/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/q35K1Nj.png" group-title="BRASIL", WEB TV AGUA BOA[/B][/COLOR]
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oWwYGI1.png" group-title="BRASIL", WTJ TV MINAS[/B][/COLOR]
+https://video01.kshost.com.br/wladimir4773/wladimir4773/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jrISXdP.png" group-title="BRASIL", TV REDE GAMA[/B][/COLOR]
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692596/index_150_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://imgur.com/mrRMHGr.png" group-title="BRASIL",TV GAZETA BA[/B][/COLOR]
+https://stmv1.srvif.com/tvnaza/tvnaza/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/DKunHAm.png" group-title="BRASIL",TV PLANALTO NORTE[/B][/COLOR]
+https://5cf4a2c2512a2.streamlock.net/tvplanalto/tvplanalto/chunklist_w792027382.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/XE1KtQw.png" group-title="BRASIL", ELEMENTAL CHANNEL[/B][/COLOR]
+https://5d82644094cc0.streamlock.net:443/8116/8116/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Utpf9jc.png" group-title="BRASIL", GEG TV[/B][/COLOR]
+https://5c483b9d1019c.streamlock.net/8064/8064/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/ghdyjES.png" group-title="BRASIL", TV MAX 90[/B][/COLOR]
+https://cdn.jmvstream.com/w/AVJ-9778/playlist/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/hfTZFFf.png" group-title="BRASIL", BMTV[/B][/COLOR]
+https://srv5.zcast.com.br/bmtv/bmtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Hr5dCWq.png" group-title="BRASIL",TV GRAMADO[/B][/COLOR]
+https://video01.kshost.com.br:4443/tv4477/tv4477/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Yr8diVX.png" group-title="BRASIL",DEMAIS TV[/B][/COLOR]
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Bvw0tui.png" group-title="BRASIL",NOVA TV AGROTOUR[/B][/COLOR]
+https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Ak6GNHl.png" group-title="BRASIL",TV JUNDIAI HOJE[/B][/COLOR]
+https://stmv3.samcast.com.br/rosanaa9913/rosanaa9913/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/uTN9TKB.png" group-title="BRASIL", CABO FRIO TV[/B][/COLOR]
+https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Tm8YbhO.png" group-title="BRASIL", REDE WEB TV [/B][/COLOR]
+https://stmv1.srvif.com/redewebtv/redewebtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/XEKoiuG.png" group-title="BRASIL", VG PLANTAO TV [/B][/COLOR]
+https://cdn.jmvstream.com/w/AVJ-9841/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/NIUqJYt.png" group-title="BRASIL", LAVRAS CE TV WEB[/B][/COLOR]
+https://stmv1.srvstm.com/igor8605/igor8605/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/6RDJ6M5.png" group-title="BRASIL",TV VERDES CAMPOS SAT[/B][/COLOR]
+https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/GwgDwQm.png" group-title="BRASIL", TV DIVERSIDADE[/B][/COLOR]
+https://5c483b9d1019c.streamlock.net/diversidadetv/diversidadetv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/NcReOZr.png" group-title="BRASIL", OESC TV[/B][/COLOR]
+https://stmv1.samcast.com.br/gustavo8536/gustavo8536/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/rrNIqAb.png" group-title="BRASIL", RDTV DIGITAL[/B][/COLOR]
+https://5d82644094cc0.streamlock.net/8144/8144/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/t8SL1PO.png" group-title="BRASIL", ILHABELA TV[/B][/COLOR]
+https://stmv3.samcast.com.br/ilhabelatv/ilhabelatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ekF19OV.png" group-title="BRASIL",TV OPINIAO PLAY[/B][/COLOR]
+https://livefocamundo.com:8081/opiniaoplay/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/iqu8T5B.png" group-title="BRASIL",TV EMPIRE NO AR[/B][/COLOR]
+https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/chunklist_w1336890723.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/cWd3wHS.png" group-title="BRASIL",TV PASSO FUNDO[/B][/COLOR]
+https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/n7IQGPS.png" group-title="BRASIL", TV IBATE[/B][/COLOR]
+https://5eaa6849d0971.streamlock.net/8034/8034/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Ea5KBfh.png" group-title="BRASIL",TV CLUBE WEB[/B][/COLOR]
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/hFkrSZD.png" group-title="BRASIL", UTV[/B][/COLOR]
+https://59f2354c05961.streamlock.net:1443/utvtv/_definst_/utvtv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/IzXzzR2.png" group-title="BRASIL", TV VIDA FORMOSA[/B][/COLOR]
+https://stmv2.voxtvhd.com.br/vidafm/vidafm/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/IzQGxIx.png" group-title="BRASIL", TV SANTA[/B][/COLOR]
+https://596639ebdd89b.streamlock.net/8046/8046/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/MByVw7Z.png" group-title="BRASIL", REDE SPTV[/B][/COLOR]
+https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/pKiKmoJ.png" group-title="BRASIL", TV ALAGONET[/B][/COLOR]
+https://stmv2.voxtvhd.com.br/alagonet/alagonet/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/N9LT5mO.png" group-title="BRASIL", MASTER SHOW TV[/B][/COLOR]
+https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/Okydb2P.png" group-title="BRASIL", TV CAPITAL TERESINA[/B][/COLOR]
+https://stmv3.samcast.com.br/tvcapitalteresina/tvcapitalteresina/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/HF4nWl1.png" group-title="BRASIL", TV ACE[/B][/COLOR]
+https://stmv4.samcast.com.br/associacaocomercialeempresarialdecaraguatatuba9808/associacaocomercialeempresarialdecaraguatatuba9808/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/hRiBpwO.png" group-title="BRASIL", TV 3[/B][/COLOR]
+https://video01.logicahost.com.br/tv3tv/tv3tv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/c0AHbpm.png" group-title="BRASIL", REDE NOVA TV[/B][/COLOR]
+https://5d2c98775bafe.streamlock.net:443/8058/8058/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/ytZUsdv.png" group-title="BRASIL", TV A FOLHA[/B][/COLOR]
+http://video02.kshost.com.br/elton3601/elton3601/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/5Z8aHIc.png" group-title="BRASIL", TELA VIVA TV[/B][/COLOR]
+https://srv3.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/vI7gC3m.png" group-title="BRASIL", LIFE CHANNEL BRASIL[/B][/COLOR]
+https://hls.brasilstream.com.br/live/lifechannel/lifechannel/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/OA8UGax.png" group-title="BRASIL",TV SERTAO PETROLINA[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/sertao/_definst_/sertao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/tGo2hG1.png" group-title="BRASIL",DUNAS TV[/B][/COLOR]
+https://5cf4a2c2512a2.streamlock.net/dunastv/dunastv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/e5qCHbP.png" group-title="BRASIL", WEB TV AGROTOUR[/B][/COLOR]
+https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/0JZLt9q.png" group-title="BRASIL", WTV BRASIL[/B][/COLOR]
+https://stmv1.srvstm.com/wtvbrasil/wtvbrasil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/SUTvLz6.png" group-title="BRASIL", VIRTUAL TV[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2Vxo3Lc.png" group-title="BRASIL",SANDEGI TV [/B][/COLOR]
+https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/YsqXFyc.png" group-title="BRASIL", TV OSORIO NEWS[/B][/COLOR]
+https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9pZox0Z.png" group-title="BRASIL",PLENA TV[/B][/COLOR]
+https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fhzKvG6.png" group-title="BRASIL",TV NAZARENA[/B][/COLOR]
+https://stmv1.srvif.com/tvnaza/tvnaza/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bhXM675.png" group-title="BRASIL", RCC TV[/B][/COLOR]
+https://video02.kshost.com.br/edvaldo1425/edvaldo1425/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RRgMcKR.png" group-title="BRASIL", TV INFORBAHIA[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FY8kjgr.png" group-title="BRASIL", TV GALLO[/B][/COLOR]
+https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Q5Rcet8.png" group-title="BRASIL", RDC TV[/B][/COLOR]
+https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BKQjRzC.png" group-title="BRASIL",TV MAIS NORDESTE[/B][/COLOR]
+https://5eaa6849d0971.streamlock.net/tvmaisnordestetv/tvmaisnordestetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Z65EEaH.png" group-title="BRASIL",URBAN TV[/B][/COLOR]
+https://5ad482a77183d.streamlock.net/portaldailhagmail.com/portaldailhagmail.com/chunklist_w1003460354.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Z65EEaH.png" group-title="BRASIL",URBAN TV LIVE[/B][/COLOR]
+https://video01.logicahost.com.br/urbantvlive/urbantvlive/chunklist_w2118431116.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/JTvEGuV.png" group-title="BRASIL",CANAL ITU TV[/B][/COLOR]
+http://wse01.logicahost.com.br:1935/itutv/_definst_/itutv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/m6RDJBZ.png" group-title="BRASIL",TV DIGITAL BIRIGUI[/B][/COLOR]
+http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/3Kee3Pu.png" group-title="BRASIL",TV DIARIO DO SERTAO[/B][/COLOR]
+http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5hzyZO1.png" group-title="BRASIL",TV ITAPETININGA[/B][/COLOR]
+https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/6KHGXbM.png" group-title="BRASIL",TCM 10[/B][/COLOR]
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/6dJGgGG.png" group-title="BRASIL",TV MIX[/B][/COLOR]
+https://srv1.painelvideo.com/tvmix/tvmix/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2yPvv6T.png" group-title="BRASIL",CINE LIVRE 2[/B][/COLOR]
+https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Klwjy9d.png" group-title="BRASIL",TV RIO MADEIRA[/B][/COLOR]
+https://novo.bitstreaming.info:1936/8066/8066/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oxIwagJ.png" group-title="BRASIL", CTV[/B][/COLOR]
+https://5d2c98775bafe.streamlock.net/8020/8020/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/O4ltrYZ.png" group-title="BRASIL",TV NOVA ONDA[/B][/COLOR]
+https://5c483b9d1019c.streamlock.net/8078/8078/chunklist_w616485768.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/493q2l2.png" group-title="BRASIL", TV SERRA VERDE[/B][/COLOR]
+https://stmv6.srvstm.com/leandro9908/leandro9908/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vagiDGp.png" group-title="BRASIL",REDE TV SUL[/B][/COLOR]
+https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BmfzcP7.png" group-title="BRASIL", NOVA TV VALE[/B][/COLOR]
+https://5b7f3c45ab7c2.streamlock.net/8016/8016/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/imjGvKZ.png" group-title="BRASIL",TV JORNAL DO NORDESTE[/B][/COLOR]
+https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/1aXoLRz.png" group-title="BRASIL", NOVA BARREIRA WEB TV[/B][/COLOR]
+https://5d82644094cc0.streamlock.net/8026/8026/chunklist_w1857902543.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/hAVgsPo.png" group-title="BRASIL", REDE TV MAIS[/B][/COLOR]
+https://novo.bitstreaming.info:1936/8010/8010/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/kiaOwxN.png" group-title="BRASIL", WEB TV ENTORNO SUL[/B][/COLOR]
+http://video02.kshost.com.br/manoel2072/manoel2072/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/djCX2hU.png" group-title="BRASIL",TV UM[/B][/COLOR]
+https://59f2354c05961.streamlock.net:1443/tvumdigital/_definst_/tvumdigital/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TuRxt9m.png" group-title="BRASIL",TV IBIAPABANA[/B][/COLOR]
+https://stmv1.duvoxtv.com.br/gamer/gamer/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/s80elMU.png" group-title="BRASIL", CONEXAO TV[/B][/COLOR]
+https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/chunklist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Pw2v6ne.png" group-title="BRASIL", TV NBN[/B][/COLOR]
+https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/HCteWPr.png" group-title="BRASIL", REDE ENCAUCA[/B][/COLOR]
+https://01.paineldevideo.com/encaucafm/encaucafm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/80c9RRD.png" group-title="BRASIL", GIRO TV NEWS[/B][/COLOR]
+https://596639ebdd89b.streamlock.net/8096/8096/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5aKFdDR.png" group-title="BRASIL", ALLEGRO WEB TV[/B][/COLOR]
+https://livefocamundo.com:8081/allegrowebtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5qUBxaq.png" group-title="BRASIL", ARARUNA TV[/B][/COLOR]
+https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vOgUR4M.png" group-title="BRASIL", TV BOQUEIRAO[/B][/COLOR]
+https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/N9LT5mO.png" group-title="BRASIL", MASTER SHOW TV[/B][/COLOR]
+https://serv2.videovox.pw/master1667/master1667/playlist.m3u8?wowzasessionid=933110662
+#EXTINF:-1 tvg-logo="https://imgur.com/RUvA3s2.png" group-title="BRASIL", PORTAL NEWS WEB TV[/B][/COLOR]
+https://stmv6.srvstm.com/portalnews/portalnews/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MR6UAi0.png" group-title="BRASIL",CONECTA MAIS WEB TV[/B][/COLOR]
+http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Htci37P.png" group-title="BRASIL",TV DESTAQUE NACIONAL[/B][/COLOR]
+https://novo.bitstreaming.info:1936/tvdestaquenacional/tvdestaquenacional/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/aFIhnz0.png" group-title="BRASIL", TV MON[/B][/COLOR]
+https://hls.brasilstream.com.br/live/tvmon/tvmon/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dyqS3ET.png" group-title="BRASIL", TV SOL COMUNIDADE[/B][/COLOR]
+http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2pSzgVU.png" group-title="BRASIL", CONECT TV[/B][/COLOR]
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/McgXMZ6.png" group-title="BRASIL",NOVA ERA TV[/B][/COLOR]
+http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/uPFPfR8.png" group-title="BRASIL",TV ONIX[/B][/COLOR]
+https://cdn-candiano-1114.ciclano.io:1443/candiano-1114/candiano-1114/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/pBbmnyl.png" group-title="BRASIL", TV J SID[/B][/COLOR]
+https://livefocamundo.com:8081/tvjsid/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zGtzHQJ.png" group-title="BRASIL",TV MAR[/B][/COLOR]
+https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/WNvxlJ8.png" group-title="BRASIL",ALPHA CHANNEL[/B][/COLOR]
+https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KH4Ai8a.png" group-title="BRASIL",TV PANTANAL[/B][/COLOR]
+https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/6VADL45.png" group-title="BRASIL",TV A PLATEIA[/B][/COLOR]
+https://stmv1.samcast.com.br/kamal9663/kamal9663/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TfmphYR.png" group-title="BRASIL",TV 3 VIA[/B][/COLOR]
+https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/8Kvx7aU.png" group-title="BRASIL",BRAZITV[/B][/COLOR]
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/7RJHIOl.png" group-title="BRASIL", AISH TV BRASIL[/B][/COLOR]
+https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0UIM9d9.png" group-title="BRASIL", CBTV NOW[/B][/COLOR]
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RpQKY4x.png" group-title="BRASIL", TV CNB[/B][/COLOR]
+https://livefocamundo.com:8081/tvcnb/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IQWmGHN.png" group-title="BRASIL", TV CANDIDES[/B][/COLOR]
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/WgtkCkp.png" group-title="BRASIL", TV CARAGUA[/B][/COLOR]
+https://cdn.jmvstream.com/w/AVJ-9779/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fmGNohE.png" group-title="BRASIL", TV GALEGA[/B][/COLOR]
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fP74ULx.png" group-title="BRASIL",REDE METROPOLITANA[/B][/COLOR]
+https://cdn.cdnseguro.com/metropolitana2/metropolitana2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Cn1NYpM.png" group-title="BRASIL",TV ESTILO[/B][/COLOR]
+https://596639ebdd89b.streamlock.net/estilo/estilo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ULrn9NY.png" group-title="BRASIL",ALL TV[/B][/COLOR]
+https://cdn.jmvstream.com/w/AVJ-9086/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Lj7SGzD.png" group-title="BRASIL",AWC CHANNEL[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/LD5OFa1.png" group-title="BRASIL", SBC TV[/B][/COLOR]
+https://srv6.zcast.com.br/sbctv/sbctv/chunklist_w325526859.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/loqxKB9.png" group-title="BRASIL", TV PONTA DO SEIXAS[/B][/COLOR]
+https://livefocamundo.com:8081/tvpontadoseixascanal9/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/HId7S1U.png" group-title="BRASIL", TV ND DO BRASIL[/B][/COLOR]
+https://video01.kshost.com.br:4443/tv3685/tv3685/chunklist_w817106734.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Epxr8DX.png" group-title="BRASIL", TV DAS ARTES[/B][/COLOR]
+http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0eYWk5q.png" group-title="BRASIL", TVRP[/B][/COLOR]
+https://5b7f3c45ab7c2.streamlock.net:443/8042/8042/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://imgur.com/USSYh91.png" group-title="BRASIL",TV IRACEMA[/B][/COLOR]
+https://stmv1.srvstm.com/iracematv/iracematv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IxMstuQ.png" group-title="BRASIL",REDE TVC[/B][/COLOR]
+https://srv1.zcast.com.br/tvc/tvc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/o4i6Nca.png" group-title="BRASIL",NOSSA TV MOSSORO[/B][/COLOR]
+https://cdn.jmvstream.com/w/AVJ-9733/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/XaTKJef.png" group-title="BRASIL",SERTAO TV[/B][/COLOR]
+http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/OPIwjmg.png" group-title="BRASIL",TV STA CECILIA[/B][/COLOR]
+https://5829cb6b64c3c.streamlock.net/2063/2063/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/UfbTKUx.png" group-title="BRASIL",CANAL 7[/B][/COLOR]
+http://189.51.193.70:1935/canalsete/xpl-c7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qupN7JL.png" group-title="BRASIL",TV CIDADE TIRADENTES[/B][/COLOR]
+https://novo.bitstreaming.info:443/8284/8284/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/z3bRtcM.png" group-title="BRASIL",TV INTERLAGOS[/B][/COLOR]
+http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/W14dMoI.png" group-title="BRASIL", TV GERAIS[/B][/COLOR]
+https://video01.kshost.com.br:4443/humberto3322/humberto3322/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/L2ib2Mg.png" group-title="BRASIL", TV OMINDARE[/B][/COLOR]
+https://video01.kshost.com.br/lourdes52007/lourdes52007/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/93NjzeF.png" group-title="BRASIL", REDE ESTACAO 26[/B][/COLOR]
+https://novo.bitstreaming.info/redeestacao26tv/redeestacao26tv/chunklist_w1483333240.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ESNvgRj.png" group-title="BRASIL", TERE TV[/B][/COLOR]
+https://5b7f3c45ab7c2.streamlock.net:443/8158/8158/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://imgur.com/NIlCeIF.png" group-title="BRASIL",LIDER TV[/B][/COLOR]
+http://189.51.193.70:1935/LiderTV/fluxo1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fXXR6Qb.png" group-title="BRASIL", TV CENTRO SUL[/B][/COLOR]
+https://novo.bitstreaming.info:443/tvcentrosultvstation/tvcentrosultvstation/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nYIkG2G.png" group-title="BRASIL",AMERICAN HORROR CHANNEL[/B][/COLOR]
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/eKgvDUU.png" group-title="BRASIL",247 RETRO TV[/B][/COLOR]
+http://dag.total-stream.net/dag1.m3u8?sid=ret&cid=dai&auth=&auth=c3RpbWU9MTU4MDU2NTczOSZ2YWxpZGl0eT01JmFnbj0wJmNvbmY9cDAwJnNpZ249MTdmZGI3MTEzY2U5NDFlMGQ5NDc0Njc2MmU3YjE3M2Y=
+#EXTINF:-1 tvg-logo="https://imgur.com/4m1j3CL.png" group-title="BRASIL", TV VIDEONEWS[/B][/COLOR]
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jgZu5x9.png" group-title="BRASIL", REDE LIVE TV[/B][/COLOR]
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692603/index_150_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://imgur.com/X3lIFxM.png" group-title="BRASIL",FALA LITORAL WEB TV[/B][/COLOR]
+https://5c483b9d1019c.streamlock.net:443/falalitoraltv/falalitoraltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/eTVcg0c.png" group-title="BRASIL", LIVRE TV[/B][/COLOR]
+https://serv2.videovox.pw/lindon5124/lindon5124/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/HJ8Se5w.png" group-title="BRASIL", TV A CARA DA BAHIA[/B][/COLOR]
+https://stmv1.painelvideo.top/jatoba/jatoba/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/B1p5ktJ.png" group-title="BRASIL", TV CAMARA SALVADOR[/B][/COLOR]
+https://596639ebdd89b.streamlock.net/8114/8114/chunklist_w287122639.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/K4IrU99.png" group-title="BRASIL",TV ALBA[/B][/COLOR]
+https://digilab.cds.ebtcvd.net/live-tvalba/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zBbubNN.png" group-title="BRASIL", PRIMER TV[/B][/COLOR]
+http://200.194.238.229:8383/live/primer/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EhVnAew.png" group-title="BRASIL", TV PORTAL MIDIA[/B][/COLOR]
+https://video01.kshost.com.br/portalmidia/portalmidia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5EkGqxt.png" group-title="BRASIL", TV JAGUAR[/B][/COLOR]
+https://cdn.jmvstream.com/w/LVW-8213/LVW8213_6Uc30uEIC7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vq7j49p.png" group-title="BRASIL", TV INTERATIVA[/B][/COLOR]
+http://srv2.zcast.com.br/tvinterativa/tvinterativa/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/pBba0Wc.png" group-title="BRASIL",TVN BRASIL[/B][/COLOR]
+http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4QBiwuU.png" group-title="BRASIL",TV BNO[/B][/COLOR]
+https://59f2354c05961.streamlock.net:1443/bonner/_definst_/bonner/chunklist_w558740421.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/i168ZAZ.png" group-title="BRASIL",TV GUARUJA[/B][/COLOR]
+https://59e4b6c1beddc.streamlock.net:443/8138/8138/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BTfw3EI.png" group-title="BRASIL",TV GUARAPARI[/B][/COLOR]
+http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/mEpZ6oE.png" group-title="BRASIL",TV MARES GUARAPARI[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/tvmaresguarapari/_definst_/tvmaresguarapari/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/rLGrmCU.png" group-title="BRASIL", TV SUL DE MINAS[/B][/COLOR]
+https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/90joMXl.png" group-title="BRASIL",STUDIO TV[/B][/COLOR]
+https://streamingtv.ddoti.com.br/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jtmmPhA.png" group-title="BRASIL",TV URBANA[/B][/COLOR]
+https://livefocamundo.com:8081/tvurbana/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Iw8f5Ft.png" group-title="BRASIL", BAH TV [/B][/COLOR]
+https://cdn.jmvstream.com/w/LVW-8203/ngrp:LVW8203_AH1TDAiC85_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ijtyTRV.png" group-title="BRASIL",MUNDO TV[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MgNfGtZ.png" group-title="BRASIL",TV CAMARA SP[/B][/COLOR]
+https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GbUvahh.png" group-title="BRASIL", TV ZOOM[/B][/COLOR]
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/F66Mq8p.png" group-title="BRASIL",TV MAIS MARICA[/B][/COLOR]
+https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ozhg54z.png" group-title="BRASIL",CANAL RICOS[/B][/COLOR]
+http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mcOMVMk.png" group-title="BRASIL", TV PADRE CICERO[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/tvpadrecicero/_definst_/tvpadrecicero/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/yjBgTgY.png" group-title="BRASIL", SAO RAIMUNDO TV[/B][/COLOR]
+https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FWYjaed.png" group-title="BRASIL",TV GRANDE NATAL[/B][/COLOR]
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/HS395JQ.png" group-title="BRASIL",TV HORA 1[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/hotflix/_definst_/hotflix/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/goNct4q.png" group-title="BRASIL",TVC 16[/B][/COLOR]
+https://stmv4.srvstm.com/tvc162/tvc162/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/keCbpIP.png" group-title="BRASIL",TV CIDADE CANAL 9[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/WdODuFn.png" group-title="BRASIL",TV LIDER DO VALE[/B][/COLOR]
+https://5d82644094cc0.streamlock.net/liderdovaletv/liderdovaletv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nmI1IXD.png" group-title="BRASIL", MAM NEWS WEB TV[/B][/COLOR]
+https://stmv3.samcast.com.br/mamnews/mamnews/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0Ku91k5.png" group-title="BRASIL", WEB TV CIDADE JANAUBA[/B][/COLOR]
+https://StmV1.srvstm.com/cidade123/cidade123/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/S4mLXE0.png" group-title="BRASIL", WEB TV JP[/B][/COLOR]
+https://stmv3.samcast.com.br/vinicius8694/vinicius8694/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0bHcWLr.png" group-title="BRASIL", RESENDE WEB TV[/B][/COLOR]
+https://5d82644094cc0.streamlock.net:443/resendetv/resendetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/3tLkoPl.png" group-title="BRASIL", CAMOCIM WEB TV[/B][/COLOR]
+https://5c483b9d1019c.streamlock.net/8172/8172/chunklist_w341983832.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/gCfPmxs.png" group-title="BRASIL", VIVA WEB TV[/B][/COLOR]
+https://video02.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/kCy7RWq.png" group-title="BRASIL",WEB TV MACEIO[/B][/COLOR]
+https://5cf4a2c2512a2.streamlock.net/webtvmaceio/webtvmaceio/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/QaXVtCL.png" group-title="BRASIL", WEB TV PARANA[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/tvwebparana/_definst_/tvwebparana/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bcm91Jn.png" group-title="BRASIL", WEB TV URUARA[/B][/COLOR]
+https://srv3.zcast.com.br/valeradiowebtv/valeradiowebtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/lCnpcPy.png" group-title="BRASIL",WEB TV FRONTEIRA[/B][/COLOR]
+https://srv2.zcast.com.br/webtvfronteira/webtvfronteira/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/aJ4SLA5.png" group-title="BRASIL",WEB TV ESCRIBA DO AMAPA[/B][/COLOR]
+https://stmv1.livevoxtv.com.br/tvescriba/tvescriba/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4GUweIZ.png" group-title="BRASIL",WEB TV CAICO[/B][/COLOR]
+https://srv5.zcast.com.br/wladimyr7277/wladimyr7277/chunklist_w1930887590.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/yzDFalj.png" group-title="BRASIL",SRTV PB[/B][/COLOR]
+https://livefocamundo.com:8081/srtvpb/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/rTcTzQb.png" group-title="BRASIL", TV LITORAL[/B][/COLOR]
+http://video02.kshost.com.br/angelo2472/angelo2472/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/V4QqFbW.png" group-title="BRASIL",REDE LITORAL NEWS[/B][/COLOR]
+https://cdn.jmvstream.com/w/LVW-8414/LVW8414_tDit99EAtY/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RaFTDMi.png" group-title="BRASIL",TV CARAVELAS[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/pur9IVR.png" group-title="BRASIL",TV CINEC[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/tvcinec/_definst_/tvcinec/chunklist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/uo24jMo.png" group-title="BRASIL", VALE TV PLAY[/B][/COLOR]
+https://cdn-valetv.ciclano.io:1443/valetv/valetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/b5zZzvL.png" group-title="BRASIL",TENDA TV[/B][/COLOR]
+https://stmv6.srvstm.com/9696/9696/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/pBenlhD.png" group-title="BRASIL",TV TSPB[/B][/COLOR]
+https://5cf4a2c2512a2.streamlock.net/8028/8028/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ix2GtVx.png" group-title="BRASIL",TV MASTER PB[/B][/COLOR]
+https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2v59tFU.png" group-title="BRASIL",TV COGNOPOLIS[/B][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/tvcognopolis/_definst_/tvcognopolis/chunklist_w1989881567.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GgH6F4t.png" group-title="BRASIL", CANAL 25 JUNDIAI[/B][/COLOR]
+http://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3BvcF0F.png" group-title="BRASIL",TV ASSU[/B][/COLOR]
+https://5eaa6849d0971.streamlock.net/8058/8058/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PWcD36m.png" group-title="BRASIL",TV PRECABURA[/B][/COLOR]
+http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/hBw3n2j.png" group-title="BRASIL", TV CN AGITOS[/B][/COLOR]
+http://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/hGdGfiK.png" group-title="BRASIL",FLORIPA TV[/B][/COLOR]
+https://content.jwplatform.com/manifests/t5SX9Xbb.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/g38pM7D.png" group-title="BRASIL",CANAL 10 FOZ[/B][/COLOR]
+http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/q2lfDgx.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]ZAPPING MUSIC[/B][/COLOR]
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/rCT8vv1.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] TV ALVORADA SERTANEJA[/B][/COLOR]
+http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PTny51q.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]XTV MUSIC[/B][/COLOR]
+https://tls-cl.cdnz.cl/xtv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qy8Ab43.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]TV MAXIMA[/B][/COLOR]
+https://tvdatta.com:3279/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/11TzX8h.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]RADIO CONTACT[/B][/COLOR]
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/6ZPdRJV.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]CAROLINA TV[/B][/COLOR]
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/QISHhp6.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] 88 STEREO[/B][/COLOR]
+http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nYirGYT.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]POWER TV[/B][/COLOR]
+http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2ENPzfC.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]TV 538[/B][/COLOR]
+https://radio538-nl.prd.talpatvcdn.nl/69b995a427c84417bb6a53a1a2a18e4d/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wgTyf6P.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]4FUN TV[/B][/COLOR]
+https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/UoI90JJ.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]ON FM TV[/B][/COLOR]
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/pbvkmrF.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]RU TV[/B][/COLOR]
+https://rutv.gcdn.co/streams/1410_95/480n/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2c8dg7Y.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]POWER TV[/B][/COLOR]
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/OA7DMUk.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] LFM TV[/B][/COLOR]
+https://edge8.vedge.infomaniak.com/livecast/smil:lfmmd.smil/chunklist_w846223479_b1600000.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/C4sc9nI.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]PORTAL FOXMIX[/B][/COLOR]
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w393614848.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PJ5K7Ny.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]TIERRA MIA TV[/B][/COLOR]
+https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/p22Yewv.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]CATEDRAL DO ROCK TV[/B][/COLOR]
+https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/uG6Wmfv.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Música [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]RADIO 21[/B][/COLOR]
+http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
