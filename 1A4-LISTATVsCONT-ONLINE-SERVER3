@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7kXXZBg/TVs-24-HRs-SERV-3.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO [/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7kXXZBg/TVs-24-HRs-SERV-3.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-id="" tvg-name="RECORDTV HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a28b54769104da426edfb3fd196b15d7.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] HD [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]RECORDTV HD[/B][/COLOR]
