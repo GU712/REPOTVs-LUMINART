@@ -2,6 +2,51 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pR1YTxj/TVs-ONLINE-SERV-3.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
 LINKDOFILME
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pR1YTxj/TVs-ONLINE-SERV-3.png" group-title="[COLOR white][B] ABERTOS [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pR1YTxj/TVs-ONLINE-SERV-3.png" group-title="[COLOR white][B] COPA LIBERTADORES [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pR1YTxj/TVs-ONLINE-SERV-3.png" group-title="[COLOR white][B] CINE SKY [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pR1YTxj/TVs-ONLINE-SERV-3.png" group-title="[COLOR white][B] DISCOVERY [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pR1YTxj/TVs-ONLINE-SERV-3.png" group-title="[COLOR white][B] DOCUMENTÁRIOS [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pR1YTxj/TVs-ONLINE-SERV-3.png" group-title="[COLOR white][B] ESPORTE[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pR1YTxj/TVs-ONLINE-SERV-3.png" group-title="[COLOR white][B] ENTRETENIMENTO [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pR1YTxj/TVs-ONLINE-SERV-3.png" group-title="[COLOR white][B] FILMES [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pR1YTxj/TVs-ONLINE-SERV-3.png" group-title="[COLOR white][B] GLOBO [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pR1YTxj/TVs-ONLINE-SERV-3.png" group-title="[COLOR white][B] GOSPEL [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pR1YTxj/TVs-ONLINE-SERV-3.png" group-title="[COLOR white][B] HBO [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pR1YTxj/TVs-ONLINE-SERV-3.png" group-title="[COLOR white][B] NOTICIAS [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pR1YTxj/TVs-ONLINE-SERV-3.png" group-title="[COLOR white][B] INFANTIL [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pR1YTxj/TVs-ONLINE-SERV-3.png" group-title="[COLOR white][B] TELECINE [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pR1YTxj/TVs-ONLINE-SERV-3.png" group-title="[COLOR white][B] PREMIERE [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CHAPECO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] GLOBO [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]GLOBO NSC TV CHAPECO HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR]&amp;url=http://fonteangelusiptv.com:8080/837738927/926638871982/961715
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CRICIUMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] GLOBO [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]GLOBO NSC TV CRICIUMA HD[/B][/COLOR]
@@ -54,11 +99,11 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR]&amp;url=http://fonteangelusiptv.com:8080/837738927/926638871982/856081
 #EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC FHD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/amc.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] FILMES [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]AMC FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR]&amp;url=http://fonteangelusiptv.com:8080/837738927/926638871982/856082
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="ANIMAL PLANET SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] CANAIS DOCUMENTÁRIO [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]ANIMAL PLANET SD[/B][/COLOR]
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="ANIMAL PLANET SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] DOCUMENTÁRIOS [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]ANIMAL PLANET SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR]&amp;url=http://fonteangelusiptv.com:8080/837738927/926638871982/856283
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="ANIMAL PLANET HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] CANAIS DOCUMENTÁRIO [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]ANIMAL PLANET HD[/B][/COLOR]
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="ANIMAL PLANET HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] DOCUMENTÁRIOS [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]ANIMAL PLANET HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR]&amp;url=http://fonteangelusiptv.com:8080/837738927/926638871982/856285
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] CANAIS DOCUMENTÁRIO [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]ANIMAL PLANET FHD[/B][/COLOR]
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] DOCUMENTÁRIOS [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]ANIMAL PLANET FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR]&amp;url=http://fonteangelusiptv.com:8080/837738927/926638871982/856287
 #EXTINF:-1 tvg-id="Arte 1 HD" tvg-name="ARTE 1 HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/arte1.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] FILMES [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]ARTE 1 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR]&amp;url=http://fonteangelusiptv.com:8080/837738927/926638871982/856090
@@ -298,9 +343,9 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR]&amp;url=http://fonteangelusiptv.com:8080/837738927/926638871982/856687
 #EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1280px-GNT_logo-roxo.svg.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] ENTRETENIMENTO [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]GNT SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR]&amp;url=http://fonteangelusiptv.com:8080/837738927/926638871982/856685
-#EXTINF:-1 tvg-id="History 2 HD" tvg-name="HISTORY 2 HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/h2.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] CANAIS DOCUMENTÁRIO [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]HISTORY 2 HD[/B][/COLOR]
+#EXTINF:-1 tvg-id="History 2 HD" tvg-name="HISTORY 2 HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/h2.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] DOCUMENTÁRIOS [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]HISTORY 2 HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR]&amp;url=http://fonteangelusiptv.com:8080/837738927/926638871982/856300
-#EXTINF:-1 tvg-id="History 2 HD" tvg-name="HISTORY 2 SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/h2.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] CANAIS DOCUMENTÁRIO [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]HISTORY 2 SD[/B][/COLOR]
+#EXTINF:-1 tvg-id="History 2 HD" tvg-name="HISTORY 2 SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/h2.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] DOCUMENTÁRIOS [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]HISTORY 2 SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR]&amp;url=http://fonteangelusiptv.com:8080/837738927/926638871982/856298
 #EXTINF:-1 tvg-id="HBO2 HD" tvg-name="HBO 2 FHD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] HBO [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]HBO 2 FHD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR]&amp;url=http://fonteangelusiptv.com:8080/837738927/926638871982/856323
@@ -344,11 +389,11 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR]&amp;url=http://fonteangelusiptv.com:8080/837738927/926638871982/856356
 #EXTINF:-1 tvg-id="HBO+ HD" tvg-name="HBO+ SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/hboplus.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] HBO [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]HBO+ SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR]&amp;url=http://fonteangelusiptv.com:8080/837738927/926638871982/856355
-#EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/1200px-HGTV_US_Logo_2015.svg.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] CANAIS DOCUMENTÁRIO [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]HGTV HD[/B][/COLOR]
+#EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/1200px-HGTV_US_Logo_2015.svg.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] DOCUMENTÁRIOS [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]HGTV HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR]&amp;url=http://fonteangelusiptv.com:8080/837738927/926638871982/856290
-#EXTINF:-1 tvg-id="The History Channel HD" tvg-name="HISTORY HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/history.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] CANAIS DOCUMENTÁRIO [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]HISTORY HD[/B][/COLOR]
+#EXTINF:-1 tvg-id="The History Channel HD" tvg-name="HISTORY HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/history.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] DOCUMENTÁRIOS [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]HISTORY HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR]&amp;url=http://fonteangelusiptv.com:8080/837738927/926638871982/856295
-#EXTINF:-1 tvg-id="History 2 HD" tvg-name="HISTORY SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/history.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] CANAIS DOCUMENTÁRIO [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]HISTORY SD[/B][/COLOR]
+#EXTINF:-1 tvg-id="History 2 HD" tvg-name="HISTORY SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/history.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] DOCUMENTÁRIOS [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]HISTORY SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR]&amp;url=http://fonteangelusiptv.com:8080/837738927/926638871982/856293
 #EXTINF:-1 tvg-id="ID - Investigação Discovery" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/id.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] DISCOVERY [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]ID - INVESTIGAÇÃO DISCOVERY HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR]&amp;url=http://fonteangelusiptv.com:8080/837738927/926638871982/856068
@@ -376,9 +421,9 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR]&amp;url=http://fonteangelusiptv.com:8080/837738927/926638871982/856709
 #EXTINF:-1 tvg-id="Multishow HD" tvg-name="MULTISHOW SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Multishow.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] ENTRETENIMENTO [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]MULTISHOW SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR]&amp;url=http://fonteangelusiptv.com:8080/837738927/926638871982/856706
-#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/natgeo.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] CANAIS DOCUMENTÁRIO [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]NATIONAL GEOGRAPHIC HD[/B][/COLOR]
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/natgeo.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] DOCUMENTÁRIOS [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]NATIONAL GEOGRAPHIC HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR]&amp;url=http://fonteangelusiptv.com:8080/837738927/926638871982/856305
-#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/natgeo.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] CANAIS DOCUMENTÁRIO [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]NATIONAL GEOGRAPHIC SD[/B][/COLOR]
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/natgeo.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] DOCUMENTÁRIOS [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]NATIONAL GEOGRAPHIC SD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR]&amp;url=http://fonteangelusiptv.com:8080/837738927/926638871982/856303
 #EXTINF:-1 tvg-id="Nick Jr. HD" tvg-name="NICK JR. HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] INFANTIL [/B][/COLOR]",[COLOR orange][B]SERVER 3 [COLOR yellow]-> [COLOR white]NICK JR. HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR orange][B]LS-TVs ON LINE[COLOR yellow] -> [COLOR white]SERVER 3[/B][/COLOR]&amp;url=http://fonteangelusiptv.com:8080/837738927/926638871982/856622
