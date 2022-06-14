@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KXR7YHJ/TVs-ONLINE-SERV-LS.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Nostalgia [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] SBT - TV Jornal (PE)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/7588/cabecalho-7588-20220420192355.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Nostalgia [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] Caravana Play[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]SERVER LS[/B][/COLOR];url=https://stmv5.samcast.com.br/keynnidouglas9516/keynnidouglas9516/chunklist_w1302890421.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="[COLOR orange][B]Canais[COLOR yellow] ->[COLOR white][B] Variedades [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white] SBT - TV Jornal (PE)[/B][/COLOR]
